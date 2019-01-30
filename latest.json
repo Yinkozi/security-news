@@ -1,0 +1,127 @@
+{
+    "linksAuto": [
+        {
+            "title":"Taking Page From Kernels Boot LTB issue",
+            "url": "https://googleprojectzero.blogspot.com/2019/01/taking-page-from-kernels-book-tlb-issue.html",
+            "category": "exploit"
+        },
+        {
+            "title":"Exploit for a bug in TurboFan's typing of JSCall nodes",
+            "url": "https://github.com/JeremyFetiveau/TurboFan-exploit-for-issue-762874",
+            "category": "exploit"
+        },
+        {
+            "title":"winhttpd writeup: private heaps pwning on Windows",
+            "url": "https://blog.scrt.ch/2019/01/24/private-heaps-pwning-on-windows/",
+            "category": "exploit"
+        },
+        {
+            "title":"Introduction to SpiderMonkey exploitation",
+            "url": "https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/",
+            "category": "exploit"
+        },
+        {
+            "title":"Blazefox exploits for Windows 10 RS5 64-bit",
+            "url": "https://github.com/0vercl0k/blazefox",
+            "category": "exploit"
+        },
+        {
+            "title":"Straight outta VMware (Microsoft BlueHat v18, Black Hat Europe 2018)",
+            "url": "https://census-labs.com/news/2019/01/11/straight-outta-vmware-microsoft-bluehat-v18-black-hat-europe-2018/",
+            "category": "exploit"
+        },
+        {
+            "title":"Fuzzing para-virtualized devices in Hyper-V",
+            "url": "https://blogs.technet.microsoft.com/srd/2019/01/28/fuzzing-para-virtualized-devices-in-hyper-v/",
+            "category": "fuzzing"
+        },
+        {
+            "title":"Writing a Hyper-V \"Bridge\" for Fuzzing — Part 2 : Hypercalls & MDLs",
+            "url": "http://www.alex-ionescu.com/?p=471",
+            "category": "fuzzing"
+        },
+        {
+            "title":"voucher_swap: Exploiting MIG reference counting in iOS 12",
+            "url": "https://googleprojectzero.blogspot.com/2019/01/voucherswap-exploiting-mig-reference.html",
+            "category": "exploit"
+        },
+        {
+            "title":"Windows Privilege Abuse: Auditing, Detection, and Defense",
+            "url": "https://medium.com/@palantir/windows-privilege-abuse-auditing-detection-and-defense-3078a403d74e",
+            "category": "Windows"
+        },
+        {
+            "title":"Virtuailor - IDAPython tool for C++ vtables reconstruction",
+            "url": "https://github.com/0xgalz/Virtuailor",
+            "category": "reverse"
+        },
+        {
+            "title":"35C3 - From Zero to Zero Day",
+            "url": "https://github.com/j0nathanj/Publications/tree/master/35C3_From_Zero_to_Zero_Day",
+            "category": "exploit"
+        },
+        {
+            "title":"Come Get Your Free NSA Reverse Engineering Tool!",
+            "url": "https://www.reddit.com/r/ReverseEngineering/comments/ace2m3/come_get_your_free_nsa_reverse_engineering_tool/ed7trl2/",
+            "category": "reverse"
+        },
+        {
+            "title":"Magento – RCE & Local File Read with low privilege admin rights",
+            "url": "https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/",
+            "category": "web"
+        },
+        {
+            "title":"Insomni'hack Teaser 2019",
+            "url": "https://teaser.insomnihack.ch/",
+            "category": "conference"
+        },
+        {
+            "title":"Sequence @ 35C3CTF",
+            "url": "https://github.com/yannayl/ctf-writeups/blob/master/2018/ccc/sequence/README.md",
+            "category": "CTF"
+        },
+        {
+            "title":"Insomni'hack Trainings 2019",
+            "url": "https://insomnihack.ch/trainings/",
+            "category": "training"
+        },
+        {
+            "title":"SEC-T CTF",
+            "url": "https://ctftime.org/event/668/",
+            "category": "CTF"
+        },
+        {
+            "title":"EXPLOITING THE MAGELLAN BUG ON 64-BIT CHROME DESKTOP",
+            "url": "https://twitter.com/vonbloke/status/1088101644229840897",
+            "category": "exploit"
+        },
+        {
+            "title":"idapython cheatsheet",
+            "url": "https://gist.github.com/amtal/2c3d2bbc630101271263f472dcc644f8#file-idapython-cheatsheet-md",
+            "category": "reverse"
+        },
+        {
+            "title":"WinAFL Intel PT mode",
+            "url": "https://github.com/googleprojectzero/winafl/blob/master/readme_pt.md",
+            "category": "exploit"
+        }
+    ],
+    "linksCurated": [
+        {
+            "title":"Inside the Apollo Guidance Computer's core memory",
+            "url": "http://www.righto.com/2019/01/inside-apollo-guidance-computers-core.html",
+            "category": "reverse"
+        },
+        {
+            "title":"iOS/macOS: 16-byte uninitialized kernel stack disclosure in if_ports_used_update_wakeuuid()",
+            "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
+            "category": "bug"
+        },
+        {
+            "title":"Abusing S4U2Self: Another Sneaky Active Directory Persistence",
+            "url": "https://alsid.com/company/news/abusing-s4u2self-another-sneaky-active-directory-persistence",
+            "category": "windows"
+        }    ],
+    "events": [
+    ]
+}
