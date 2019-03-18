@@ -1,127 +1,142 @@
 {
     "linksAuto": [
         {
-            "title":"Taking Page From Kernels Boot LTB issue",
-            "url": "https://googleprojectzero.blogspot.com/2019/01/taking-page-from-kernels-book-tlb-issue.html",
-            "category": "exploit"
+            "category": "news",
+            "link": "https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/",
+            "title": "Beto O\u2019Rourke\u2019s secret membership in America\u2019s oldest hacking group"
         },
         {
-            "title":"Exploit for a bug in TurboFan's typing of JSCall nodes",
-            "url": "https://github.com/JeremyFetiveau/TurboFan-exploit-for-issue-762874",
-            "category": "exploit"
+            "category": "crypto",
+            "link": "https://pulsesecurity.co.nz/articles/TPM-sniffing",
+            "title": "Extracting BitLocker keys from a TPM"
         },
         {
-            "title":"winhttpd writeup: private heaps pwning on Windows",
-            "url": "https://blog.scrt.ch/2019/01/24/private-heaps-pwning-on-windows/",
-            "category": "exploit"
+            "category": "windows",
+            "link": "https://securelist.com/cve-2019-0797-zero-day-vulnerability/89885/",
+            "title": "The fourth horseman: CVE-2019-0797 vulnerability | Securelist"
         },
         {
-            "title":"Introduction to SpiderMonkey exploitation",
-            "url": "https://doar-e.github.io/blog/2018/11/19/introduction-to-spidermonkey-exploitation/",
-            "category": "exploit"
+            "category": "windows",
+            "link": "https://labs.mwrinfosecurity.com/advisories/windows-dhcp-client/",
+            "title": "Windows DHCP Client RCE"
         },
         {
-            "title":"Blazefox exploits for Windows 10 RS5 64-bit",
-            "url": "https://github.com/0vercl0k/blazefox",
-            "category": "exploit"
+            "category": "pentest",
+            "link": "https://www.mdsec.co.uk/2019/03/silencing-cylance-a-case-study-in-modern-edrs/",
+            "title": "Silencing Cylance: A Case Study in Modern EDRs \u2013 MDSec"
         },
         {
-            "title":"Straight outta VMware (Microsoft BlueHat v18, Black Hat Europe 2018)",
-            "url": "https://census-labs.com/news/2019/01/11/straight-outta-vmware-microsoft-bluehat-v18-black-hat-europe-2018/",
-            "category": "exploit"
+            "category": "windows",
+            "link": "https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/DTrace-on-Windows/ba-p/362902",
+            "title": "DTrace on Windows - Microsoft Tech Community - 362902"
         },
         {
-            "title":"Fuzzing para-virtualized devices in Hyper-V",
-            "url": "https://blogs.technet.microsoft.com/srd/2019/01/28/fuzzing-para-virtualized-devices-in-hyper-v/",
-            "category": "fuzzing"
+            "category": "mobile",
+            "link": "https://mobisec.reyammer.io",
+            "title": "MOBISEC: Slides"
         },
         {
-            "title":"Writing a Hyper-V \"Bridge\" for Fuzzing — Part 2 : Hypercalls & MDLs",
-            "url": "http://www.alex-ionescu.com/?p=471",
-            "category": "fuzzing"
+            "category": "news",
+            "link": "https://motherboard.vice.com/en_us/article/yw84q7/darpa-is-building-a-dollar10-million-open-source-secure-voting-system",
+            "title": "DARPA Is Building a $10 Million, Open Source, Secure Voting System - Motherboard"
         },
         {
-            "title":"voucher_swap: Exploiting MIG reference counting in iOS 12",
-            "url": "https://googleprojectzero.blogspot.com/2019/01/voucherswap-exploiting-mig-reference.html",
-            "category": "exploit"
+            "category": "pentest",
+            "link": "https://blogs.technet.microsoft.com/srd/2019/03/14/local-privilege-escalation-via-the-windows-i-o-manager-a-variant-finding-collaboration/",
+            "title": "Local privilege escalation via the Windows I/O Manager: a variant finding collaboration \u2013 Security Research & Defense"
         },
         {
-            "title":"Windows Privilege Abuse: Auditing, Detection, and Defense",
-            "url": "https://medium.com/@palantir/windows-privilege-abuse-auditing-detection-and-defense-3078a403d74e",
-            "category": "Windows"
+            "category": "news",
+            "link": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html",
+            "title": "\nChrome Releases: Stable Channel Update for Desktop\n"
         },
         {
-            "title":"Virtuailor - IDAPython tool for C++ vtables reconstruction",
-            "url": "https://github.com/0xgalz/Virtuailor",
-            "category": "reverse"
+            "category": "pentest",
+            "link": "http://www.kitploit.com/2019/03/carboncopy-tool-which-creates-spoofed.html",
+            "title": "\nCarbonCopy - A Tool Which Creates A Spoofed Certificate Of Any Online Website And Signs An Executable For AV Evasion - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit \u2623\n"
         },
         {
-            "title":"35C3 - From Zero to Zero Day",
-            "url": "https://github.com/j0nathanj/Publications/tree/master/35C3_From_Zero_to_Zero_Day",
-            "category": "exploit"
+            "category": "dfir",
+            "link": "https://github.com/hasherezade/pe-sieve/releases/tag/v0.1.7",
+            "title": "Release v0.1.7 \u00b7 hasherezade/pe-sieve \u00b7 GitHub"
         },
         {
-            "title":"Come Get Your Free NSA Reverse Engineering Tool!",
-            "url": "https://www.reddit.com/r/ReverseEngineering/comments/ace2m3/come_get_your_free_nsa_reverse_engineering_tool/ed7trl2/",
-            "category": "reverse"
+            "category": "dfir",
+            "link": "https://github.com/hasherezade/hollows_hunter/releases/tag/v0.2",
+            "title": "Release v0.2 \u00b7 hasherezade/hollows_hunter \u00b7 GitHub"
         },
         {
-            "title":"Magento – RCE & Local File Read with low privilege admin rights",
-            "url": "https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/",
-            "category": "web"
+            "category": "reverse",
+            "link": "https://blog.tetrane.com/2019/Analysis-Windows-PatchGuard.html",
+            "title": "Tetrane - Automated Reverse Engineering Platform"
         },
         {
-            "title":"Insomni'hack Teaser 2019",
-            "url": "https://teaser.insomnihack.ch/",
-            "category": "conference"
+            "category": "windows",
+            "link": "https://www.activecyber.us/1/post/2019/03/windows-uac-bypass.html",
+            "title": "Fileless UAC Bypass in Windows Store Binary - Active Cyber"
         },
         {
-            "title":"Sequence @ 35C3CTF",
-            "url": "https://github.com/yannayl/ctf-writeups/blob/master/2018/ccc/sequence/README.md",
-            "category": "CTF"
+            "category": "training",
+            "link": "https://volatility-labs.blogspot.com/2018/11/malware-and-memory-forensics-training.html",
+            "title": "Volatility Labs: Malware and Memory Forensics Training in 2019!"
         },
         {
-            "title":"Insomni'hack Trainings 2019",
-            "url": "https://insomnihack.ch/trainings/",
-            "category": "training"
+            "category": "pentest",
+            "link": "https://github.com/skelsec/pypykatz_server",
+            "title": "GitHub - skelsec/pypykatz_server: Mimikatz implementation in pure Python"
         },
         {
-            "title":"SEC-T CTF",
-            "url": "https://ctftime.org/event/668/",
-            "category": "CTF"
+            "category": "bug",
+            "link": "https://hackerone.com/reports/470520",
+            "title": "HackerOne - RCE on Steam Client via buffer overflow in Server Info"
         },
         {
-            "title":"EXPLOITING THE MAGELLAN BUG ON 64-BIT CHROME DESKTOP",
-            "url": "https://twitter.com/vonbloke/status/1088101644229840897",
-            "category": "exploit"
-        },
-        {
-            "title":"idapython cheatsheet",
-            "url": "https://gist.github.com/amtal/2c3d2bbc630101271263f472dcc644f8#file-idapython-cheatsheet-md",
-            "category": "reverse"
-        },
-        {
-            "title":"WinAFL Intel PT mode",
-            "url": "https://github.com/googleprojectzero/winafl/blob/master/readme_pt.md",
-            "category": "exploit"
+            "category": "containers",
+            "link": "https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/",
+            "title": "Millions of Binaries Later: a Look Into Linux Hardening in the Wild \u2022 Capsule8"
         }
     ],
     "linksCurated": [
         {
-            "title":"Inside the Apollo Guidance Computer's core memory",
-            "url": "http://www.righto.com/2019/01/inside-apollo-guidance-computers-core.html",
-            "category": "reverse"
+            "category": "web",
+            "link": "https://github.com/xsleaks/xsleaks/wiki/Browser-Side-Channels",
+            "title": "Github - Browser Side Channels"
         },
         {
-            "title":"iOS/macOS: 16-byte uninitialized kernel stack disclosure in if_ports_used_update_wakeuuid()",
-            "url": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1714",
-            "category": "bug"
+            "category": "bug",
+            "link": "https://www.atredis.com/blog/2019/3/15/cve-2019-5513-information-leaks-in-vmware-horizon",
+            "title": "CVE-2019-5513: Information Leaks in VMWare Horizon"
         },
         {
-            "title":"Abusing S4U2Self: Another Sneaky Active Directory Persistence",
-            "url": "https://alsid.com/company/news/abusing-s4u2self-another-sneaky-active-directory-persistence",
-            "category": "windows"
-        }    ],
-    "events": [
-    ]
+            "category": "pentest",
+            "link": "https://github.com/zMarch/Orc",
+            "title": "Orc is a post-exploitation framework for Linux written in Bash"
+        },
+        {
+            "category": "pentest",
+            "link": "https://github.com/Frint0/email-enum",
+            "title": "Email-Enum searches mainstream websites and tells you if an email is registered!"
+        },
+        {
+            "category": "pentest",
+            "link": "https://www.shelliscoming.com/2019/03/one-way-shellcode-for-firewall-evasion.html",
+            "title": "One-Way Shellcode for firewall evasion using Out Of Band data"
+        },
+        {
+            "category": "pentest",
+            "link": "https://www.activecyber.us/activelabs/windows-uac-bypass",
+            "title": "Fileless UAC Bypass in Windows Store Binary"
+        },
+        {
+            "category": "pentest",
+            "link": "https://github.com/AdrianVollmer/PowerHub",
+            "title": "Transfer PowerShell files while bypassing AV and application whitelisting"
+        },
+        {
+            "category": "pentest",
+            "link": "https://blogs.technet.microsoft.com/srd/2019/03/14/local-privilege-escalation-via-the-windows-i-o-manager-a-variant-finding-collaboration/",
+            "title": "Local privilege escalation via the Windows I/O Manager: a variant finding collaboration"
+        }
+    ],
+    "events": []
 }
