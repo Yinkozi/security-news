@@ -1,1 +1,1 @@
-# security-news
+# security-news [![CircleCI](https://circleci.com/gh/Yinkozi/security-news/tree/master.svg?style=svg)](https://circleci.com/gh/Yinkozi/security-news/tree/master)
