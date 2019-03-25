@@ -1,142 +1,102 @@
 {
-    "linksAuto": [
-        {
-            "category": "news",
-            "link": "https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/",
-            "title": "Beto O\u2019Rourke\u2019s secret membership in America\u2019s oldest hacking group"
-        },
-        {
-            "category": "crypto",
-            "link": "https://pulsesecurity.co.nz/articles/TPM-sniffing",
-            "title": "Extracting BitLocker keys from a TPM"
-        },
-        {
-            "category": "windows",
-            "link": "https://securelist.com/cve-2019-0797-zero-day-vulnerability/89885/",
-            "title": "The fourth horseman: CVE-2019-0797 vulnerability | Securelist"
-        },
-        {
-            "category": "windows",
-            "link": "https://labs.mwrinfosecurity.com/advisories/windows-dhcp-client/",
-            "title": "Windows DHCP Client RCE"
-        },
-        {
-            "category": "pentest",
-            "link": "https://www.mdsec.co.uk/2019/03/silencing-cylance-a-case-study-in-modern-edrs/",
-            "title": "Silencing Cylance: A Case Study in Modern EDRs \u2013 MDSec"
-        },
-        {
-            "category": "windows",
-            "link": "https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/DTrace-on-Windows/ba-p/362902",
-            "title": "DTrace on Windows - Microsoft Tech Community - 362902"
-        },
-        {
-            "category": "mobile",
-            "link": "https://mobisec.reyammer.io",
-            "title": "MOBISEC: Slides"
-        },
-        {
-            "category": "news",
-            "link": "https://motherboard.vice.com/en_us/article/yw84q7/darpa-is-building-a-dollar10-million-open-source-secure-voting-system",
-            "title": "DARPA Is Building a $10 Million, Open Source, Secure Voting System - Motherboard"
-        },
-        {
-            "category": "pentest",
-            "link": "https://blogs.technet.microsoft.com/srd/2019/03/14/local-privilege-escalation-via-the-windows-i-o-manager-a-variant-finding-collaboration/",
-            "title": "Local privilege escalation via the Windows I/O Manager: a variant finding collaboration \u2013 Security Research & Defense"
-        },
-        {
-            "category": "news",
-            "link": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html",
-            "title": "\nChrome Releases: Stable Channel Update for Desktop\n"
-        },
-        {
-            "category": "pentest",
-            "link": "http://www.kitploit.com/2019/03/carboncopy-tool-which-creates-spoofed.html",
-            "title": "\nCarbonCopy - A Tool Which Creates A Spoofed Certificate Of Any Online Website And Signs An Executable For AV Evasion - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit \u2623\n"
-        },
-        {
-            "category": "dfir",
-            "link": "https://github.com/hasherezade/pe-sieve/releases/tag/v0.1.7",
-            "title": "Release v0.1.7 \u00b7 hasherezade/pe-sieve \u00b7 GitHub"
-        },
-        {
-            "category": "dfir",
-            "link": "https://github.com/hasherezade/hollows_hunter/releases/tag/v0.2",
-            "title": "Release v0.2 \u00b7 hasherezade/hollows_hunter \u00b7 GitHub"
-        },
-        {
-            "category": "reverse",
-            "link": "https://blog.tetrane.com/2019/Analysis-Windows-PatchGuard.html",
-            "title": "Tetrane - Automated Reverse Engineering Platform"
-        },
-        {
-            "category": "windows",
-            "link": "https://www.activecyber.us/1/post/2019/03/windows-uac-bypass.html",
-            "title": "Fileless UAC Bypass in Windows Store Binary - Active Cyber"
-        },
-        {
-            "category": "training",
-            "link": "https://volatility-labs.blogspot.com/2018/11/malware-and-memory-forensics-training.html",
-            "title": "Volatility Labs: Malware and Memory Forensics Training in 2019!"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/skelsec/pypykatz_server",
-            "title": "GitHub - skelsec/pypykatz_server: Mimikatz implementation in pure Python"
-        },
-        {
-            "category": "bug",
-            "link": "https://hackerone.com/reports/470520",
-            "title": "HackerOne - RCE on Steam Client via buffer overflow in Server Info"
-        },
-        {
-            "category": "containers",
-            "link": "https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/",
-            "title": "Millions of Binaries Later: a Look Into Linux Hardening in the Wild \u2022 Capsule8"
-        }
-    ],
-    "linksCurated": [
-        {
-            "category": "web",
-            "link": "https://github.com/xsleaks/xsleaks/wiki/Browser-Side-Channels",
-            "title": "Github - Browser Side Channels"
-        },
-        {
-            "category": "bug",
-            "link": "https://www.atredis.com/blog/2019/3/15/cve-2019-5513-information-leaks-in-vmware-horizon",
-            "title": "CVE-2019-5513: Information Leaks in VMWare Horizon"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/zMarch/Orc",
-            "title": "Orc is a post-exploitation framework for Linux written in Bash"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/Frint0/email-enum",
-            "title": "Email-Enum searches mainstream websites and tells you if an email is registered!"
-        },
-        {
-            "category": "pentest",
-            "link": "https://www.shelliscoming.com/2019/03/one-way-shellcode-for-firewall-evasion.html",
-            "title": "One-Way Shellcode for firewall evasion using Out Of Band data"
-        },
-        {
-            "category": "pentest",
-            "link": "https://www.activecyber.us/activelabs/windows-uac-bypass",
-            "title": "Fileless UAC Bypass in Windows Store Binary"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/AdrianVollmer/PowerHub",
-            "title": "Transfer PowerShell files while bypassing AV and application whitelisting"
-        },
-        {
-            "category": "pentest",
-            "link": "https://blogs.technet.microsoft.com/srd/2019/03/14/local-privilege-escalation-via-the-windows-i-o-manager-a-variant-finding-collaboration/",
-            "title": "Local privilege escalation via the Windows I/O Manager: a variant finding collaboration"
-        }
-    ],
-    "events": []
+   "linksAuto": [
+       {
+           "category": "fuzzing",
+           "link": "https://github.com/googleprojectzero/fuzzilli",
+           "title": "GitHub - googleprojectzero/fuzzilli: A JavaScript Engine Fuzzer"
+       },
+       {
+           "category": "forensics",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/03/silketw-because-free-telemetry-is-free.html",
+           "title": "SilkETW: Because Free Telemetry is  Free! | FireEye Inc"
+       },
+       {
+           "category": "windows",
+           "link": "https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html",
+           "title": "Provadys Offensive Security Blog"
+       },
+       {
+           "category": "exploit",
+           "link": "https://offs.ec/2HvKZEe",
+           "title": "Development of a new Windows 10 KASLR Bypass (in One WinDBG Command)"
+       },
+       {
+           "category": "reverse",
+           "link": "https://github.com/rootbsd/fridump3",
+           "title": "GitHub - rootbsd/fridump3: A universal memory dumper using Frida for Python 3"
+       },
+       {
+           "category": "network",
+           "link": "https://nullprogram.com/blog/2019/03/22/",
+           "title": "Endlessh: an SSH Tarpit"
+       },
+       {
+           "category": "pentest",
+           "link": "https://github.com/Cyb3rWard0g/mordor",
+           "title": "GitHub - Cyb3rWard0g/mordor: Re-play Adversarial Techniques"
+       },
+       {
+           "category": "pentest",
+           "link": "https://github.com/gentilkiwi/mimikatz/releases",
+           "title": "Releases: gentilkiwi/mimikatz - GitHub"
+       },
+       {
+           "category": "exploit",
+           "link": "https://0x00sec.org/t/defeating-userland-hooks-ft-bitdefender/12496",
+           "title": "Defeating Userland Hooks (ft. Bitdefender) - Malware - 0x00sec - The Home of the Hacker"
+       },
+       {
+           "category": "exploit",
+           "link": "https://www.rapid7.com/research/report/exploiting-jsos/",
+           "title": "Java Serialization Objects (JSO): An Exploitation Guide | Rapid7"
+       },
+       {
+           "category": "pentest",
+           "link": "https://www.factionc2.com",
+           "title": "Faction: C2 Framework"
+       },
+       {
+           "category": "breach",
+           "link": "https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/",
+           "title": "Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/google/sandboxed-api",
+           "title": "GitHub - google/sandboxed-api: Sandboxed API automatically generates sandboxes for C/C++ libraries"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "pentest",
+           "link": "https://github.com/staaldraad/troopers19/",
+           "title": "Troopers2019: Attack against source code downloaders"
+       },
+       {
+           "category": "pentest",
+           "link": "https://github.com/tenable/router_badusb",
+           "title": "BadUSD in routers"
+       },
+       {
+           "category": "pentest",
+           "link": "https://www.slideshare.net/PhilipTsukerman/sneaking-past-device-guard-137929462",
+           "title": "Troopers2019: Sneaking past device guard"
+       },
+       {
+           "category": "cracking",
+           "link": "https://github.com/Coalfire-Research/npk",
+           "title": "A mostly-serverless distributed hash cracking platform"
+       },
+       {
+           "category": "pentest",
+           "link": "https://www.slideshare.net/DirkjanMollema/im-in-your-cloud-reading-everyones-email-hacking-azure-ad-via-active-directory",
+           "title": "Hacking Azure AD via Active Directory"
+       },
+       {
+           "category": "windows",
+           "link": "https://adsecurity.org/?p=4115",
+           "title": "There is Something About Service Accounts"
+       }
+   ],
+   "events": []
 }
