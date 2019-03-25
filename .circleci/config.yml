@@ -1,0 +1,28 @@
+version: 2
+
+jobs:
+  build:
+    machine: true
+    working_directory: /home/circleci/security-news
+    steps:
+      - checkout
+
+      - run:
+          name: Install jq and awscli
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y jq awscli
+
+      - run:
+          name: Validate latest json file
+          command: |
+            chmod +x ./bin/check_json.sh
+            ./bin/check_json.sh --json_file=latest.json
+
+      - run:
+          name: Push latest json file to s3
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                echo "push to s3"
+                aws s3 cp latest.json s3://security-news-protocol/latest.json
+            fi
