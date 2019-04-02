@@ -26,3 +26,12 @@ jobs:
                 echo "push to s3"
                 aws s3 cp latest.json s3://security-news-protocol/latest.json
             fi
+
+      - run:
+          name: Initialise vote day
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+                echo "call api gateway"
+                chmod +x ./bin/initialise_vote_of_the_day.sh
+                ./bin/initialise_vote_of_the_day.sh
+            fi
