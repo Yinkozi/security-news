@@ -1,0 +1,102 @@
+{
+   "linksAuto": [
+       {
+           "category": "fuzzing",
+           "link": "https://github.com/googleprojectzero/fuzzilli",
+           "title": "GitHub - googleprojectzero/fuzzilli: A JavaScript Engine Fuzzer"
+       },
+       {
+           "category": "forensics",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/03/silketw-because-free-telemetry-is-free.html",
+           "title": "SilkETW: Because Free Telemetry is  Free! | FireEye Inc"
+       },
+       {
+           "category": "windows",
+           "link": "https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html",
+           "title": "Provadys Offensive Security Blog"
+       },
+       {
+           "category": "exploit",
+           "link": "https://offs.ec/2HvKZEe",
+           "title": "Development of a new Windows 10 KASLR Bypass (in One WinDBG Command)"
+       },
+       {
+           "category": "reverse",
+           "link": "https://github.com/rootbsd/fridump3",
+           "title": "GitHub - rootbsd/fridump3: A universal memory dumper using Frida for Python 3"
+       },
+       {
+           "category": "network",
+           "link": "https://nullprogram.com/blog/2019/03/22/",
+           "title": "Endlessh: an SSH Tarpit"
+       },
+       {
+           "category": "pentest",
+           "link": "https://github.com/Cyb3rWard0g/mordor",
+           "title": "GitHub - Cyb3rWard0g/mordor: Re-play Adversarial Techniques"
+       },
+       {
+           "category": "pentest",
+           "link": "https://github.com/gentilkiwi/mimikatz/releases",
+           "title": "Releases: gentilkiwi/mimikatz - GitHub"
+       },
+       {
+           "category": "exploit",
+           "link": "https://0x00sec.org/t/defeating-userland-hooks-ft-bitdefender/12496",
+           "title": "Defeating Userland Hooks (ft. Bitdefender) - Malware - 0x00sec - The Home of the Hacker"
+       },
+       {
+           "category": "exploit",
+           "link": "https://www.rapid7.com/research/report/exploiting-jsos/",
+           "title": "Java Serialization Objects (JSO): An Exploitation Guide | Rapid7"
+       },
+       {
+           "category": "pentest",
+           "link": "https://www.factionc2.com",
+           "title": "Faction: C2 Framework"
+       },
+       {
+           "category": "breach",
+           "link": "https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/",
+           "title": "Facebook Stored Hundreds of Millions of User Passwords in Plain Text for Years"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/google/sandboxed-api",
+           "title": "GitHub - google/sandboxed-api: Sandboxed API automatically generates sandboxes for C/C++ libraries"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "pentest",
+           "link": "https://github.com/staaldraad/troopers19/",
+           "title": "Troopers2019: Attack against source code downloaders"
+       },
+       {
+           "category": "pentest",
+           "link": "https://github.com/tenable/router_badusb",
+           "title": "BadUSD in routers"
+       },
+       {
+           "category": "pentest",
+           "link": "https://www.slideshare.net/PhilipTsukerman/sneaking-past-device-guard-137929462",
+           "title": "Troopers2019: Sneaking past device guard"
+       },
+       {
+           "category": "cracking",
+           "link": "https://github.com/Coalfire-Research/npk",
+           "title": "A mostly-serverless distributed hash cracking platform"
+       },
+       {
+           "category": "pentest",
+           "link": "https://www.slideshare.net/DirkjanMollema/im-in-your-cloud-reading-everyones-email-hacking-azure-ad-via-active-directory",
+           "title": "Hacking Azure AD via Active Directory"
+       },
+       {
+           "category": "windows",
+           "link": "https://adsecurity.org/?p=4115",
+           "title": "There is Something About Service Accounts"
+       }
+   ],
+   "events": []
+}
