@@ -1,6 +1,69 @@
 {
    "linksAuto": [
        {
+           "category": "exploit",
+           "link": "https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html",
+           "title": "CARPE (DIEM): CVE-2019-0211 Apache Root Privilege Escalation"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/mwrlabs/SharpGPOAbuse",
+           "title": "GitHub - mwrlabs/SharpGPOAbuse: SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by that GPO."
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/ustayready/fireprox",
+           "title": "GitHub - ustayready/fireprox: AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation"
+       },
+       {
+           "category": "exploit",
+           "link": "https://medium.com/p/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef",
+           "title": "One-liner Safari sandbox escape exploit"
+       },
+       {
+           "category": "exploit",
+           "link": "https://gist.github.com/mattifestation/3af5a472e11b7e135273e71cb5fed866",
+           "title": "Decompresses Windows Defender AV signatures for exploration purposes - GitHub"
+       },
+       {
+           "category": "exploit",
+           "link": "https://www.openwall.com/lists/oss-security/2019/04/03/4",
+           "title": "oss-security - Linux kernel < 4.8 local generic ASLR bypass for setuid binaries"
+       },
+       {
+           "category": "exploit",
+           "link": "https://www.malwaretech.com/2019/04/analysis-of-a-vb-script-heap-overflow.html",
+           "title": "Analysis of a VB Script Heap Overflow (CVE-2019-0666) - MalwareTech"
+       },
+       {
+           "category": "exploit",
+           "link": "https://blog.exodusintel.com/2019/04/03/a-window-of-opportunity/",
+           "title": "A window of opportunity: exploiting a Chrome vulnerability - Exodus Intelligence"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/Darkabode/zerokit",
+           "title": "GitHub - Darkabode/zerokit: Zerokit/GAPZ rootkit (non buildable and only for researching)"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/DimopoulosElias/alpc-mmc-uac-bypass",
+           "title": "GitHub - DimopoulosElias/alpc-mmc-uac-bypass: UAC Bypass with mmc via alpc"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/hlldz/APC-PPID",
+           "title": "GitHub - hlldz/APC-PPID: Adds a user-mode asynchronous procedure call (APC) object to the APC queue of the specified thread and spoof the Parent Process."
+       },
+       {
+           "category": "exploit",
+           "link": "https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2019-0211",
+           "title": "httpd 2.4 vulnerabilities - The Apache HTTP Server Project"
+       }
+
+   ],
+   "linksCurated": [
+     {
            "category": "fuzzing",
            "link": "https://github.com/googleprojectzero/fuzzilli",
            "title": "GitHub - googleprojectzero/fuzzilli: A JavaScript Engine Fuzzer"
@@ -64,9 +127,57 @@
            "category": "tool",
            "link": "https://github.com/google/sandboxed-api",
            "title": "GitHub - google/sandboxed-api: Sandboxed API automatically generates sandboxes for C/C++ libraries"
-       }
-   ],
-   "linksCurated": [
+       },
+	          {
+           "category": "exploit",
+           "link": "https://motherboard.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers",
+           "title": "Hackers Hijacked ASUS Software Updates to Install Backdoors on Thousands of Computers - Motherboard"
+       },
+       {
+           "category": "crypto",
+           "link": "https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/",
+           "title": "Cryptocurrency businesses still being targeted by Lazarus | Securelist"
+       },
+       {
+           "category": "exploit",
+           "link": "https://medium.com/p/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef",
+           "title": "One-liner Safari sandbox escape exploit"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/outflanknl/Excel4-DCOM",
+           "title": "GitHub - outflanknl/Excel4-DCOM: PowerShell and Cobalt Strike scripts for lateral movement using Excel 4.0 / XLM macros via DCOM (direct shellcode injection in Excel.exe)"
+       },
+       {
+           "category": "windows",
+           "link": "https://blog.fox-it.com/2019/03/27/psixbot-the-evolution-of-a-modular-net-bot/",
+           "title": "PsiXBot: The Evolution Of A Modular .NET Bot - Fox-IT International blog"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/GhostPack/SharpDPAPI",
+           "title": "GitHub - GhostPack/SharpDPAPI: SharpDPAPI is a C# port of some Mimikatz DPAPI functionality."
+       },
+       {
+           "category": "exploit",
+           "link": "https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/",
+           "title": "Heap Exploitation Part 1: Understanding the Glibc Heap Implementation |  Azeria Labs"
+       },
+       {
+           "category": "tool",
+           "link": "https://blog.fox-it.com/2019/03/28/mkyara-writing-yara-rules-for-the-lazy-analyst/",
+           "title": "mkYARA - Writing YARA rules for the lazy analyst - Fox-IT International blog"
+       },
+       {
+           "category": "tool",
+           "link": "https://ghidra-sre.org",
+           "title": "Ghidra - A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission"
+       },
+       {
+           "category": "WebAPI",
+           "link": "https://security.googleblog.com/2019/03/open-sourcing-sandboxed-api.html",
+           "title": "\nGoogle Online Security Blog: Open-sourcing Sandboxed API\n"
+       },
        {
            "category": "pentest",
            "link": "https://github.com/staaldraad/troopers19/",
@@ -96,6 +207,36 @@
            "category": "windows",
            "link": "https://adsecurity.org/?p=4115",
            "title": "There is Something About Service Accounts"
+       },
+	          {
+           "category": "exploit",
+           "link": "https://www.redteam-pentesting.de/en/advisories/rt-sa-2019-005/-cisco-rv320-command-injection",
+           "title": "Cisco RV320 Command Injection"
+       },
+       {
+           "category": "exploit",
+           "link": "https://blog.quarkslab.com/android-runtime-restrictions-bypass.html",
+           "title": "Android Runtime Restrictions Bypass"
+       },
+       {
+           "category": "exploit",
+           "link": "https://ssd-disclosure.com/index.php/archives/3904",
+           "title": "SSD Advisory – VxWorks RPC Buffer Overflow"
+       },
+       {
+           "category": "exploit",
+           "link": "https://www.cyberguider.com/bypassing-av-cat-vs-mouse/",
+           "title": "Bypassing AV (Windows Defender)"
+       },
+       {
+           "category": "malware",
+           "link": "https://labsblog.f-secure.com/2019/03/27/analysis-of-lockergoga-ransomware/",
+           "title": "Analysis of LockerGoga Ransomware"
+       },
+	          {
+           "category": "Patch",
+           "link": "https://threatpost.com/nvidia-geforce-experience-bug/143196/",
+           "title": "Gamers Beware: Nvidia Fixes High-Severity GeForce Experience Bug"
        }
    ],
    "events": []
