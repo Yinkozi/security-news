@@ -2,65 +2,55 @@
    "linksAuto": [
        {
            "category": "tool",
-           "link": "https://github.com/NationalSecurityAgency/ghidra",
-           "title": "GitHub - NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework"
+           "link": "https://azm.azerialabs.com/",
+           "title": "Online Arm Assembler by Azeria Labs"
        },
        {
-           "category": "exploit",
-           "link": "https://github.com/0x36/powend",
-           "title": "GitHub - 0x36/powend: powerd exploit : Sandbox escape to root for Apple iOS < 12.2 on A11 devices"
+           "category": "tool",
+           "link": "https://github.com/ustayready/fireprox",
+           "title": "GitHub - ustayready/fireprox: AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation"
        },
        {
-           "category": "exploit",
-           "link": "https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html",
-           "title": "Handlebars template injection and RCE in a Shopify app"
-       },
-       {
-           "category": "exploit",
-           "link": "https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem/",
-           "title": "Malicious remote code execution backdoor discovered in the popular bootstrap-sass Ruby gem | Snyk"
+           "category": "Ransomware",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html",
+           "title": "Pick-Six: Intercepting a FIN6 Intrusion, an Actor Recently Tied to Ryuk\nand LockerGoga Ransomware - Pick-Six: Intercepting a FIN6 Intrusion, an Actor Recently Tied to Ryuk\nand LockerGoga Ransomware"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
-           "link": "https://www.bleepingcomputer.com/news/security/apache-bug-lets-normal-users-gain-root-access-via-scripts/",
-           "title": "Apache Bug Lets Normal Users Gain Root Access Via Scripts"
+           "link": "https://thehackernews.com/2019/03/magento-website-security.html",
+           "title": "Critical Magento SQL Injection Vulnerability Discovered – Patch Your Sites"
        },
-       {
+	   {
+           "category": "Espionage",
+           "link": "https://thehackernews.com/2019/03/apt33-cyber-espionage-hacking.html",
+           "title": "Elfin Hacking Group Targets Multiple U.S. and Saudi Arabian Firms"
+       },
+	   {
+           "category": "Password Compromission",
+           "link": "https://thehackernews.com/2019/04/facebook-email-password.html",
+           "title": "Facebook Caught Asking Some Users Passwords for Their Email Accounts"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://www.malwaretech.com/2019/04/analysis-of-a-vb-script-heap-overflow.html",
-           "title": "Analysis of a VB Script Heap Overflow (CVE-2019-0666)"
+           "link": "https://thehackernews.com/2019/04/apache-web-server-security.html",
+           "title": "New Apache Web Server Bug Threatens Security of Shared Web Hosts"
        },
-       {
-           "category": "Mobile",
-           "link": "https://yalujailbreak.net/stop-app-revokes/",
-           "title": "How to stop App Revokes and sign apps forever"
+	   {
+           "category": "Data Compromission",
+           "link": "https://thehackernews.com/2019/04/kibana-data-security.html",
+           "title": "Thousands of Unprotected Kibana Instances Exposing Elasticsearch Databases"
        },
-       {
-           "category": "Mobile",
-           "link": "https://research.checkpoint.com/vulnerability-in-xiaomi-pre-installed-security-app/",
-           "title": "Vulnerability in Xiaomi Pre-Installed Security App"
+	   {
+           "category": "Security Breach",
+           "link": "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html",
+           "title": "Hackers Steal $19 Million From Bithumb Cryptocurrency Exchange"
        },
-       {
+	   {
            "category": "Exploit",
-           "link": "https://blog.exodusintel.com/2019/04/03/a-window-of-opportunity/",
-           "title": "A WINDOW OF OPPORTUNITY: EXPLOITING A CHROME 1DAY VULNERABILITY"
-       },
-       {
-           "category": "Intrusion",
-           "link": "https://thehackernews.com/2019/04/facebook-app-database.html",
-           "title": "540 Million Facebook User Records Found On Unprotected Amazon Servers"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://www.exploit-db.com/exploits/46601?utm_source=dlvr.it&utm_medium=twitter",
-           "title": "VMware Workstation 14.1.5 / VMware Player 15 - Host VMX Process COM Class Hijack Privilege Escalation"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://www.openwall.com/lists/oss-security/2019/04/03/4",
-           "title": "Linux kernel < 4.8 local generic ASLR bypass for setuid binaries"
+           "link": "https://thehackernews.com/2019/03/microsoft-edge-ie-zero-days.html",
+           "title": "Unpatched Zero-Days in Microsoft Edge and IE Browsers Disclosed Publicly"
        }
    ],
    "events": []
