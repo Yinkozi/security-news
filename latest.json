@@ -1,56 +1,76 @@
 {
    "linksAuto": [
        {
-           "category": "tool",
-           "link": "https://azm.azerialabs.com/",
-           "title": "Online Arm Assembler by Azeria Labs"
+           "category": "exploit",
+           "link": "http://rce4fun.blogspot.com/2019/04/circumventing-windows-defender-atps.html",
+           "title": "Reverse Engineering 0x4 Fun: Circumventing Windows Defender ATP's user-mode APC Injection sensor from Kernel-mode"
        },
        {
-           "category": "tool",
-           "link": "https://github.com/ustayready/fireprox",
-           "title": "GitHub - ustayready/fireprox: AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation"
+           "category": "exploit",
+           "link": "https://www.d3vzer0.com/simulating-mitre-attck-with-reternal/",
+           "title": "Simulating MITRE ATT&CK with RE:TERNAL"
        },
        {
-           "category": "Ransomware",
-           "link": "https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html",
-           "title": "Pick-Six: Intercepting a FIN6 Intrusion, an Actor Recently Tied to Ryuk\nand LockerGoga Ransomware - Pick-Six: Intercepting a FIN6 Intrusion, an Actor Recently Tied to Ryuk\nand LockerGoga Ransomware"
+           "category": "exploit",
+           "link": "https://httpd.apache.org/security/vulnerabilities_24.html#CVE-2019-0211",
+           "title": "httpd 2.4 vulnerabilities - The Apache HTTP Server Project"
+       },
+       {
+           "category": "exploit",
+           "link": "https://motherboard.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers",
+           "title": "Hackers Hijacked ASUS Software Updates to Install Backdoors on Thousands of Computers - Motherboard"
+       },
+       {
+           "category": "exploit",
+           "link": "https://blog.exodusintel.com/2019/02/20/cve-2019-5786-analysis-and-exploitation/",
+           "title": "CVE-2019-5786: Analysis & Exploitation of the recently patched Chrome vulnerability - Exodus Intelligence"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/03/magento-website-security.html",
-           "title": "Critical Magento SQL Injection Vulnerability Discovered – Patch Your Sites"
+           "category": "exploit",
+           "link": "https://habr.com/en/post/446238/",
+           "title": "Exploiting signed bootloaders to circumvent UEFI Secure Boot"
        },
 	   {
-           "category": "Espionage",
-           "link": "https://thehackernews.com/2019/03/apt33-cyber-espionage-hacking.html",
-           "title": "Elfin Hacking Group Targets Multiple U.S. and Saudi Arabian Firms"
+           "category": "tool",
+           "link": "https://www.kitploit.com/2019/03/winpwn-automation-for-internal-windows.html?utm_source=dlvr.it&utm_medium=twitter",
+           "title": "WinPwn - Automation For Internal Windows Penetrationtest"
        },
 	   {
-           "category": "Password Compromission",
-           "link": "https://thehackernews.com/2019/04/facebook-email-password.html",
-           "title": "Facebook Caught Asking Some Users Passwords for Their Email Accounts"
+           "category": "exploit",
+           "link": "https://mjg59.dreamwidth.org/51672.html",
+           "title": "Remote code execution as root from the local network on TP-Link SR20 routers"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/04/apache-web-server-security.html",
-           "title": "New Apache Web Server Bug Threatens Security of Shared Web Hosts"
+           "category": "tool",
+           "link": "https://github.com/sumas/OSCP-Cheatsheet-God",
+           "title": "sumas/OSCP-Cheatsheet-God"
        },
 	   {
-           "category": "Data Compromission",
-           "link": "https://thehackernews.com/2019/04/kibana-data-security.html",
-           "title": "Thousands of Unprotected Kibana Instances Exposing Elasticsearch Databases"
+           "category": "exploit",
+           "link": "https://ioactive.com/multiple-vulnerabilities-in-androids-download-provider-cve-2018-9468-cve-2018-9493-cve-2018-9546/",
+           "title": "Multiple Vulnerabilities in Android’s Download Provider (CVE-2018-9468, CVE-2018-9493, CVE-2018-9546)"
        },
 	   {
-           "category": "Security Breach",
-           "link": "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html",
-           "title": "Hackers Steal $19 Million From Bithumb Cryptocurrency Exchange"
+           "category": "exploit",
+           "link": "https://github.com/eoftedal/writings/blob/master/published/CVE-2019-9901-path-traversal.md",
+           "title": "CVE-2019-9901 - Istio/Envoy Path traversal"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/03/microsoft-edge-ie-zero-days.html",
-           "title": "Unpatched Zero-Days in Microsoft Edge and IE Browsers Disclosed Publicly"
+           "category": "tool",
+           "link": "https://devblogs.microsoft.com/powershell/the-next-release-of-powershell-powershell-7/",
+           "title": "The Next Release of PowerShell – PowerShell 7"
+       },
+	   {
+           "category": "Trojan",
+           "link": "https://maskop9.tech/index.php/2019/01/30/analysis-of-netwiredrc-trojan/",
+           "title": "Analysis of NetWiredRC trojan"
+       },
+	   {
+           "category": "tool",
+           "link": "https://github.com/google/vulncode-db",
+           "title": "GitHub - google/vulncode-db: Vulncode-DB project"
        }
    ],
    "events": []
