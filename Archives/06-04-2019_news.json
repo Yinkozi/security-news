@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "tool",
+           "link": "https://azm.azerialabs.com/",
+           "title": "Online Arm Assembler by Azeria Labs"
+       },
+       {
+           "category": "tool",
+           "link": "https://github.com/ustayready/fireprox",
+           "title": "GitHub - ustayready/fireprox: AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation"
+       },
+       {
+           "category": "Ransomware",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html",
+           "title": "Pick-Six: Intercepting a FIN6 Intrusion, an Actor Recently Tied to Ryuk\nand LockerGoga Ransomware - Pick-Six: Intercepting a FIN6 Intrusion, an Actor Recently Tied to Ryuk\nand LockerGoga Ransomware"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/03/magento-website-security.html",
+           "title": "Critical Magento SQL Injection Vulnerability Discovered – Patch Your Sites"
+       },
+	   {
+           "category": "Espionage",
+           "link": "https://thehackernews.com/2019/03/apt33-cyber-espionage-hacking.html",
+           "title": "Elfin Hacking Group Targets Multiple U.S. and Saudi Arabian Firms"
+       },
+	   {
+           "category": "Password Compromission",
+           "link": "https://thehackernews.com/2019/04/facebook-email-password.html",
+           "title": "Facebook Caught Asking Some Users Passwords for Their Email Accounts"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/04/apache-web-server-security.html",
+           "title": "New Apache Web Server Bug Threatens Security of Shared Web Hosts"
+       },
+	   {
+           "category": "Data Compromission",
+           "link": "https://thehackernews.com/2019/04/kibana-data-security.html",
+           "title": "Thousands of Unprotected Kibana Instances Exposing Elasticsearch Databases"
+       },
+	   {
+           "category": "Security Breach",
+           "link": "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html",
+           "title": "Hackers Steal $19 Million From Bithumb Cryptocurrency Exchange"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/03/microsoft-edge-ie-zero-days.html",
+           "title": "Unpatched Zero-Days in Microsoft Edge and IE Browsers Disclosed Publicly"
+       }
+   ],
+   "events": []
+}
