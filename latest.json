@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "exploit",
-           "link": "https://seclists.org/oss-sec/2019/q2/13",
-           "title": "DLL injection in Go < 1.12.2 [CVE-2019-9634]"
+           "category": "Tool",
+           "link": "https://github.com/fox-it/adconnectdump",
+           "title": "GitHub - fox-it/adconnectdump: Dump Azure AD Connect credentials for Azure AD and Active Directory"
        },
 	   {
-           "category": "exploit",
-           "link": "https://www.andmp.com/2019/04/bypassing-cve-2019-10875-or-xiaomis.html?m=1",
-           "title": "0day Alert: Bypassing CVE-2019-10875 or, Xiaomi's Mint Browser's URL Spoofing patch"
+           "category": "Exploit",
+           "link": "http://rce4fun.blogspot.com/2019/04/circumventing-windows-defender-atps.html",
+           "title": "Circumventing Windows Defender ATP's user-mode APC Injection sensor from Kernel-mode"
        },
 	   {
-           "category": "tool",
-           "link": "https://github.com/mykter/aws-security-cert-service-notes",
-           "title": "AWS Service Security Notes"
+           "category": "Exploit",
+           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
        },
 	   {
-           "category": "Mobile",
-           "link": "https://eybisi.run/Mobile-Malware-Analysis-Tricks-used-in-Anubis/",
-           "title": "Mobile Malware Analysis : Tricks used in Anubis"
+           "category": "Exploit",
+           "link": "https://www.thezdi.com/blog/2019/3/13/cve-2019-0604-details-of-a-microsoft-sharepoint-rce-vulnerability",
+           "title": "Zero Day Initiative - CVE-2019-0604: Details of a Microsoft SharePoint RCE Vulnerability"
        },
        {
-           "category": "Mobile",
-           "link": "https://thehackernews.com/2019/04/exodus-ios-malware.html",
-           "title": "'Exodus' Surveillance Malware Found Targeting Apple iOS Users"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/04/microsoft-patch-updates.html",
+           "title": "Microsoft Releases April 2019 Security Updates — Two Flaws Under Active Attack"
        }
    ],
    "linksCurated": [
        {
-           "category": "Tool",
-           "link": "https://persianov.net/emotet-malware-analysis-part-1",
-           "title": "Emotet malware analysis. Part 1"
+           "category": "x",
+           "link": "https://thehackernews.com/2019/04/verizon-wifi-router-security.html",
+           "title": "Researcher Reveals Multiple Flaws in Verizon Fios Routers — PoC Released"
        },
 	   {
-           "category": "Tool",
-           "link": "https://persianov.net/emotet-malware-analysis-part-2",
-           "title": "Emotet malware analysis. Part 2"
+           "category": "x",
+           "link": "https://threatpost.com/tp-link-routers-vulnerable-to-zero-day-buffer-overflow-attack/143575/",
+           "title": "TP-Link Routers Vulnerable to Zero-Day Buffer Overflow Attack"
        },
 	   {
-           "category": "tool",
-           "link": "https://thehackernews.com/2019/04/chromium-edge-browser.html",
-           "title": "Microsoft Releases First Preview Builds of Chromium-based Edge Browser"
+           "category": "x",
+           "link": "https://blog.talosintelligence.com/2019/04/gustuff-targets-australia.html",
+           "title": "Gustuff banking botnet targets Australia"
        },
 	   {
-           "category": "Online Fraud",
-           "link": "https://thehackernews.com/2019/03/magecart-ecommerce-hackers.html",
-           "title": "New MageCart Attacks Target Bedding Retailers My Pillow and Amerisleep"
+           "category": "x",
+           "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+           "title": "OceanLotus: macOS malware update"
        },
 	   {
-           "category": "tool",
-           "link": "https://thehackernews.com/2019/03/putty-software-hacking.html",
-           "title": "PuTTY Releases Important Software Update to Patch 8 High-Severity Flaws"
+           "category": "x",
+           "link": "https://bugs.php.net/bug.php?id=77831",
+           "title": "PHP - Bug #77831 - Heap-buffer-overflow in exif_iif_add_value in EXIF"
        }
    ],
    "events": []
