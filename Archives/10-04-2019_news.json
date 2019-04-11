@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/fox-it/adconnectdump",
+           "title": "GitHub - fox-it/adconnectdump: Dump Azure AD Connect credentials for Azure AD and Active Directory"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://rce4fun.blogspot.com/2019/04/circumventing-windows-defender-atps.html",
+           "title": "Circumventing Windows Defender ATP's user-mode APC Injection sensor from Kernel-mode"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.thezdi.com/blog/2019/3/13/cve-2019-0604-details-of-a-microsoft-sharepoint-rce-vulnerability",
+           "title": "Zero Day Initiative - CVE-2019-0604: Details of a Microsoft SharePoint RCE Vulnerability"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/04/microsoft-patch-updates.html",
+           "title": "Microsoft Releases April 2019 Security Updates — Two Flaws Under Active Attack"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/04/verizon-wifi-router-security.html",
+           "title": "Researcher Reveals Multiple Flaws in Verizon Fios Routers — PoC Released"
+       },
+	   {
+           "category": "x",
+           "link": "https://threatpost.com/tp-link-routers-vulnerable-to-zero-day-buffer-overflow-attack/143575/",
+           "title": "TP-Link Routers Vulnerable to Zero-Day Buffer Overflow Attack"
+       },
+	   {
+           "category": "x",
+           "link": "https://blog.talosintelligence.com/2019/04/gustuff-targets-australia.html",
+           "title": "Gustuff banking botnet targets Australia"
+       },
+	   {
+           "category": "x",
+           "link": "https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/",
+           "title": "OceanLotus: macOS malware update"
+       },
+	   {
+           "category": "x",
+           "link": "https://bugs.php.net/bug.php?id=77831",
+           "title": "PHP - Bug #77831 - Heap-buffer-overflow in exif_iif_add_value in EXIF"
+       }
+   ],
+   "events": []
+}
