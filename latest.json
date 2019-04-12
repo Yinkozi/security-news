@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://www.fireeye.com/blog/threat-research/2019/04/triton-actor-ttp-profile-custom-attack-tools-detections.html",
-           "title": "TRITON Actor TTP Profile, Custom Attack Tools, Detections, and Mapping"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.microsoft.com/security/blog/2019/04/10/analysis-of-a-targeted-attack-exploiting-the-winrar-cve-2018-20250-vulnerability/",
-           "title": "Analysis of a targeted attack exploiting the WinRar CVE-2018-20250 vulnerability - Microsoft Security"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/",
-           "title": "Dell KACE K1000 Remote Code Execution - the Story of Bug K1-18652"
+           "link": "https://googleprojectzero.blogspot.com/2019/04/virtually-unlimited-memory-escaping.html",
+           "title": "Project Zero: Virtually Unlimited Memory: Escaping the Chrome Sandbox"
        },
 	   {
            "category": "Tool",
-           "link": "https://github.com/Coalfire-Research/DeathMetal",
-           "title": "Red team & penetration testing tools to exploit the capabilities of Intel AMT"
+           "link": "https://github.com/fox-it/adconnectdump",
+           "title": "GitHub - fox-it/adconnectdump: Dump Azure AD Connect credentials for Azure AD and Active Directory"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://rce4fun.blogspot.com/2019/04/circumventing-windows-defender-atps.html",
+           "title": "Reverse Engineering 0x4 Fun: Circumventing Windows Defender ATP's user-mode APC Injection sensor from Kernel-mode"
        },
        {
            "category": "Exploit",
-           "link": "https://blog.talosintelligence.com/2019/04/vulnerability-spotlight-adobe-acrobat-rce-april-2019.html",
-           "title": "Vulnerability Spotlight: Adobe Acrobat Reader remote code execution"
+           "link": "https://medium.com/@d0nut/better-exfiltration-via-html-injection-31c72a2dae8b",
+           "title": "Better Exfiltration via HTML Injection - d0nut - Medium"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
-           "link": "https://www.andmp.com/2019/04/unpatched-vulnerability-in-xiaomi-miui-os-lock-screen.html",
-           "title": "CVE-2019-11015: Lock Screen Auth Bypass leading to Sensitive Information Disclosure and an Improper Access Control issue in Xiaomi MIUI OS"
+           "link": "https://medium.com/@markmotig/bypassing-ad-account-lockout-for-a-compromised-account-5c908d663de8",
+           "title": "Bypassing AD account lockout for a compromised account"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/decalage2/oletools/releases/tag/v0.54",
+           "title": "Release oletools v0.54 - decalage2/oletools - GitHub"
        },
 	   {
            "category": "Exploit",
-           "link": "https://www.activecyber.us/activelabs/uac-bypass-in-system-reset-binary-via-dll-hijacking",
-           "title": "UAC Bypass in System Reset Binary via DLL Hijacking"
+           "link": "https://thehackernews.com/2019/04/free-video-editing-malware.html",
+           "title": "The official website of the VSDC software (Popular Video Editing Software) Hacked to Spread Banking Trojan"
        },
 	   {
            "category": "Exploit",
-           "link": "https://paper.seebug.org/886/",
-           "title": "Confluence Unauthorized RCE Vulnerability (CVE-2019-3396) Analysis"
+           "link": "https://hackerone.com/reports/502758",
+           "title": "Remote Code Execution and Complete Server Takeover of starbucks.com.sg"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/04/wpa3-hack-wifi-password.html",
-           "title": "Security Flaws in WPA3 Protocol Let Attackers Hack WiFi Password"
-       },
-	   {
-           "category": "News",
-           "link": "https://thehackernews.com/2019/04/wikileaks-julian-assange-arrested.html",
-           "title": "WikiLeaks Founder Julian Assange Arrested After Ecuador Withdraws Asylum"
+           "link": "http://skptr.me/gretel_preinstalled_2.html",
+           "title": "Pre-installed malware found on an Android Gretel A7 device"
        }
    ],
    "events": []
