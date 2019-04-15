@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://googleprojectzero.blogspot.com/2019/04/virtually-unlimited-memory-escaping.html",
-           "title": "Project Zero: Virtually Unlimited Memory: Escaping the Chrome Sandbox"
+           "link": "https://github.com/torvalds/linux/commit/1b5e2423164b3670e8bc9174e4762d297990deff#diff-66ea469ce534d8c3ba7147099b87fe78",
+           "title": "brcmfmac: assure SSID length from firmware is limited - torvalds/linux@1b5e242 - GitHub"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://techcrunch.com/2019/04/12/police-data-hack/",
+           "title": "Hackers publish personal data on thousands of US police officers and federal agents \u2013 TechCrunch"
        },
 	   {
            "category": "Tool",
-           "link": "https://github.com/fox-it/adconnectdump",
-           "title": "GitHub - fox-it/adconnectdump: Dump Azure AD Connect credentials for Azure AD and Active Directory"
+           "link": "https://github.com/cea-sec/Sibyl/pull/94",
+           "title": "Introduce script to call sibyl from GHIDRA by commial - Pull Request #94 - cea-sec/Sibyl - GitHub"
        },
 	   {
            "category": "Exploit",
-           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
-           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
-       },
-	   {
-           "category": "Exploit",
-           "link": "http://rce4fun.blogspot.com/2019/04/circumventing-windows-defender-atps.html",
-           "title": "Reverse Engineering 0x4 Fun: Circumventing Windows Defender ATP's user-mode APC Injection sensor from Kernel-mode"
+           "link": "http://hyp3rlinx.altervista.org/advisories/MICROSOFT-INTERNET-EXPLORER-v11-XML-EXTERNAL-ENTITY-INJECTION-0DAY.txt",
+           "title": "MSIE XXE 0day"
        },
        {
            "category": "Exploit",
-           "link": "https://medium.com/@d0nut/better-exfiltration-via-html-injection-31c72a2dae8b",
-           "title": "Better Exfiltration via HTML Injection - d0nut - Medium"
+           "link": "https://medium.com/@y.shahinzadeh/chaining-multiple-vulnerabilities-waf-bypass-to-account-takeover-in-almost-all-alibabas-websites-f8643eaa2855",
+           "title": "Chaining Multiple Vulnerabilities + WAF bypass to Account Takeover in almost all Alibaba’s websites"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
-           "link": "https://medium.com/@markmotig/bypassing-ad-account-lockout-for-a-compromised-account-5c908d663de8",
-           "title": "Bypassing AD account lockout for a compromised account"
+           "link": "https://medium.com/0xcc/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43?sk=3970823f97714fac1d04d75325e3cbac",
+           "title": "CVE-2019–8513 TimeMachine root command injection"
        },
 	   {
-           "category": "Tool",
-           "link": "https://github.com/decalage2/oletools/releases/tag/v0.54",
-           "title": "Release oletools v0.54 - decalage2/oletools - GitHub"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/encrypted-messenger-cyberattack.html",
+           "title": "Encrypted Messaging Project -Matrix- Suffers Extensive Cyber Attack"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/04/free-video-editing-malware.html",
-           "title": "The official website of the VSDC software (Popular Video Editing Software) Hacked to Spread Banking Trojan"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://hackerone.com/reports/502758",
-           "title": "Remote Code Execution and Complete Server Takeover of starbucks.com.sg"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/microsoft-outlook-email-hack.html",
+           "title": "Hackers Compromise Microsoft Support Agent to Access Outlook Email Accounts"
        },
 	   {
            "category": "Exploit",
-           "link": "http://skptr.me/gretel_preinstalled_2.html",
-           "title": "Pre-installed malware found on an Android Gretel A7 device"
+           "link": "https://thehackernews.com/2019/04/apache-tomcat-security-flaw.html",
+           "title": "Apache Tomcat Patches Important Remote Code Execution Flaw"
+       },
+	   {
+           "category": "Dispute",
+           "link": "https://thehackernews.com/2019/04/russia-data-localization.html",
+           "title": "Russia Fines Facebook $47 Over Citizens' Data Privacy Dispute"
        }
    ],
    "events": []
