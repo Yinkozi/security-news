@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://googleprojectzero.blogspot.com/2019/04/virtually-unlimited-memory-escaping.html",
+           "title": "Project Zero: Virtually Unlimited Memory: Escaping the Chrome Sandbox"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/fox-it/adconnectdump",
+           "title": "GitHub - fox-it/adconnectdump: Dump Azure AD Connect credentials for Azure AD and Active Directory"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://rce4fun.blogspot.com/2019/04/circumventing-windows-defender-atps.html",
+           "title": "Reverse Engineering 0x4 Fun: Circumventing Windows Defender ATP's user-mode APC Injection sensor from Kernel-mode"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://medium.com/@d0nut/better-exfiltration-via-html-injection-31c72a2dae8b",
+           "title": "Better Exfiltration via HTML Injection - d0nut - Medium"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://medium.com/@markmotig/bypassing-ad-account-lockout-for-a-compromised-account-5c908d663de8",
+           "title": "Bypassing AD account lockout for a compromised account"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/decalage2/oletools/releases/tag/v0.54",
+           "title": "Release oletools v0.54 - decalage2/oletools - GitHub"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/04/free-video-editing-malware.html",
+           "title": "The official website of the VSDC software (Popular Video Editing Software) Hacked to Spread Banking Trojan"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://hackerone.com/reports/502758",
+           "title": "Remote Code Execution and Complete Server Takeover of starbucks.com.sg"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://skptr.me/gretel_preinstalled_2.html",
+           "title": "Pre-installed malware found on an Android Gretel A7 device"
+       }
+   ],
+   "events": []
+}
