@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/torvalds/linux/commit/1b5e2423164b3670e8bc9174e4762d297990deff#diff-66ea469ce534d8c3ba7147099b87fe78",
-           "title": "brcmfmac: assure SSID length from firmware is limited - torvalds/linux@1b5e242 - GitHub"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://techcrunch.com/2019/04/12/police-data-hack/",
-           "title": "Hackers publish personal data on thousands of US police officers and federal agents \u2013 TechCrunch"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://github.com/cea-sec/Sibyl/pull/94",
-           "title": "Introduce script to call sibyl from GHIDRA by commial - Pull Request #94 - cea-sec/Sibyl - GitHub"
+           "category": "Exploit",
+           "link": "https://securelist.com/new-win32k-zero-day-cve-2019-0859/90435/",
+           "title": "New win32k zero day: CVE-2019-0859 | Securelist"
        },
 	   {
            "category": "Exploit",
-           "link": "http://hyp3rlinx.altervista.org/advisories/MICROSOFT-INTERNET-EXPLORER-v11-XML-EXTERNAL-ENTITY-INJECTION-0DAY.txt",
-           "title": "MSIE XXE 0day"
+           "link": "http://jackson-t.ca/synaptics-cxutilsvc-lpe.html",
+           "title": "CVE-2019-9730: LPE in Synaptics Sound Device Driver - @Jackson_T"
+       },
+	   {
+           "category": "Cyber Crime",
+           "link": "https://motherboard.vice.com/en_us/article/9kx59a/silk-road-2-founder-dread-pirate-roberts-2-caught-jailed-for-5-years",
+           "title": "Silk Road 2 Founder Dread Pirate Roberts 2 Caught, Jailed for 5 Years - Motherboard"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/zerosum0x0/smbdoor",
+           "title": "GitHub - zerosum0x0/smbdoor: Windows kernel backdoor via registering a malicious SMB handler"
        },
        {
            "category": "Exploit",
-           "link": "https://medium.com/@y.shahinzadeh/chaining-multiple-vulnerabilities-waf-bypass-to-account-takeover-in-almost-all-alibabas-websites-f8643eaa2855",
-           "title": "Chaining Multiple Vulnerabilities + WAF bypass to Account Takeover in almost all Alibaba’s websites"
+           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://medium.com/0xcc/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43?sk=3970823f97714fac1d04d75325e3cbac",
-           "title": "CVE-2019–8513 TimeMachine root command injection"
+           "category": "Tool",
+           "link": "https://github.com/nongiach/sudo_inject",
+           "title": "GitHub - nongiach/sudo_inject: [Linux] Two Privilege Escalation techniques abusing sudo token"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/04/encrypted-messenger-cyberattack.html",
-           "title": "Encrypted Messaging Project -Matrix- Suffers Extensive Cyber Attack"
+           "category": "Tool",
+           "link": "https://github.com/fox-it/adconnectdump",
+           "title": "GitHub - fox-it/adconnectdump: Dump Azure AD Connect credentials for Azure AD and Active Directory"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/04/microsoft-outlook-email-hack.html",
-           "title": "Hackers Compromise Microsoft Support Agent to Access Outlook Email Accounts"
+           "category": "Tool",
+           "link": "https://github.com/evilmog/ntlmv1-multi",
+           "title": "GitHub - evilmog/ntlmv1-multi: NTLMv1 Multitool"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/04/apache-tomcat-security-flaw.html",
-           "title": "Apache Tomcat Patches Important Remote Code Execution Flaw"
+           "category": "Tool",
+           "link": "https://gist.github.com/nullenc0de/96fb9e934fc16415fbda2f83f08b28e7#file-content_discovery_nullenc0de-txt",
+           "title": "content_discovery_nullenc0de.txt \u00b7 GitHub"
        },
 	   {
-           "category": "Dispute",
-           "link": "https://thehackernews.com/2019/04/russia-data-localization.html",
-           "title": "Russia Fines Facebook $47 Over Citizens' Data Privacy Dispute"
+           "category": "Tool",
+           "link": "https://github.com/achael/eht-imaging",
+           "title": "GitHub - achael/eht-imaging: Imaging, analysis, and simulation software for radio interferometry"
        }
    ],
    "events": []
