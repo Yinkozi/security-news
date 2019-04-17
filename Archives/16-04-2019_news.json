@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://securelist.com/new-win32k-zero-day-cve-2019-0859/90435/",
+           "title": "New win32k zero day: CVE-2019-0859 | Securelist"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://jackson-t.ca/synaptics-cxutilsvc-lpe.html",
+           "title": "CVE-2019-9730: LPE in Synaptics Sound Device Driver - @Jackson_T"
+       },
+	   {
+           "category": "Cyber Crime",
+           "link": "https://motherboard.vice.com/en_us/article/9kx59a/silk-road-2-founder-dread-pirate-roberts-2-caught-jailed-for-5-years",
+           "title": "Silk Road 2 Founder Dread Pirate Roberts 2 Caught, Jailed for 5 Years - Motherboard"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/zerosum0x0/smbdoor",
+           "title": "GitHub - zerosum0x0/smbdoor: Windows kernel backdoor via registering a malicious SMB handler"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/nongiach/sudo_inject",
+           "title": "GitHub - nongiach/sudo_inject: [Linux] Two Privilege Escalation techniques abusing sudo token"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/fox-it/adconnectdump",
+           "title": "GitHub - fox-it/adconnectdump: Dump Azure AD Connect credentials for Azure AD and Active Directory"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/evilmog/ntlmv1-multi",
+           "title": "GitHub - evilmog/ntlmv1-multi: NTLMv1 Multitool"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://gist.github.com/nullenc0de/96fb9e934fc16415fbda2f83f08b28e7#file-content_discovery_nullenc0de-txt",
+           "title": "content_discovery_nullenc0de.txt \u00b7 GitHub"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/achael/eht-imaging",
+           "title": "GitHub - achael/eht-imaging: Imaging, analysis, and simulation software for radio interferometry"
+       }
+   ],
+   "events": []
+}
