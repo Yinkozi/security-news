@@ -1,0 +1,62 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://googleprojectzero.blogspot.com/2019/04/virtually-unlimited-memory-escaping.html",
+           "title": "Project Zero: Virtually Unlimited Memory: Escaping the Chrome Sandbox"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/googleprojectzero/fuzzilli",
+           "title": "GitHub - googleprojectzero/fuzzilli: A JavaScript Engine Fuzzer"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://googleprojectzero.blogspot.com/2019/04/windows-exploitation-tricks-abusing.html",
+           "title": "Project Zero: Windows Exploitation Tricks: Abusing the User-Mode Debugger"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://github.com/nongiach/sudo_inject",
+           "title": "GitHub - nongiach/sudo_inject: Two Privilege Escalation techniques abusing sudo token"
+       },
+	   {
+           "category": "Cyber Crime",
+           "link": "https://thehackernews.com/2019/04/google-location-tracking.html",
+           "title": "Google Helps Police Identify Devices Close to Crime Scenes Using Location Data"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/evilmog/ntlmv1-multi",
+           "title": "GitHub - evilmog/ntlmv1-multi: NTLMv1 Multitool"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Fraud",
+           "link": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
+           "title": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.bleepingcomputer.com/news/security/adblock-plus-filters-can-be-exploited-to-run-malicious-code/",
+           "title": "Adblock Plus Filters Can Be Exploited to Run Malicious Code"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/justdial-hacked-data-breach.html",
+           "title": "Over 100 Million JustDial Users' Personal Data Found Exposed On the Internet"
+       },
+	   {
+           "category": "Security",
+           "link": "https://thehackernews.com/2019/04/android-google-play-store.html",
+           "title": "Google Makes it Tough for Rogue App Developers Get Back on Android Play Store"
+       },
+	   {
+           "category": "RootKit",
+           "link": "https://thehackernews.com/2019/04/scranos-rootkit-spyware.html",
+           "title": "Scranos: New Rapidly Evolving Rootkit-Enabled Spyware Discovered"
+       }
+   ],
+   "events": []
+}
