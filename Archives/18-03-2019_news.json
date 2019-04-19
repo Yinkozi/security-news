@@ -1,142 +1,57 @@
 {
-    "linksAuto": [
-        {
-            "category": "news",
-            "link": "https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/",
-            "title": "Beto O\u2019Rourke\u2019s secret membership in America\u2019s oldest hacking group"
-        },
-        {
-            "category": "crypto",
-            "link": "https://pulsesecurity.co.nz/articles/TPM-sniffing",
-            "title": "Extracting BitLocker keys from a TPM"
-        },
-        {
-            "category": "windows",
-            "link": "https://securelist.com/cve-2019-0797-zero-day-vulnerability/89885/",
-            "title": "The fourth horseman: CVE-2019-0797 vulnerability | Securelist"
-        },
-        {
-            "category": "windows",
-            "link": "https://labs.mwrinfosecurity.com/advisories/windows-dhcp-client/",
-            "title": "Windows DHCP Client RCE"
-        },
-        {
-            "category": "pentest",
-            "link": "https://www.mdsec.co.uk/2019/03/silencing-cylance-a-case-study-in-modern-edrs/",
-            "title": "Silencing Cylance: A Case Study in Modern EDRs \u2013 MDSec"
-        },
-        {
-            "category": "windows",
-            "link": "https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/DTrace-on-Windows/ba-p/362902",
-            "title": "DTrace on Windows - Microsoft Tech Community - 362902"
-        },
-        {
-            "category": "mobile",
-            "link": "https://mobisec.reyammer.io",
-            "title": "MOBISEC: Slides"
-        },
-        {
-            "category": "news",
-            "link": "https://motherboard.vice.com/en_us/article/yw84q7/darpa-is-building-a-dollar10-million-open-source-secure-voting-system",
-            "title": "DARPA Is Building a $10 Million, Open Source, Secure Voting System - Motherboard"
-        },
-        {
-            "category": "pentest",
-            "link": "https://blogs.technet.microsoft.com/srd/2019/03/14/local-privilege-escalation-via-the-windows-i-o-manager-a-variant-finding-collaboration/",
-            "title": "Local privilege escalation via the Windows I/O Manager: a variant finding collaboration \u2013 Security Research & Defense"
-        },
-        {
-            "category": "news",
-            "link": "https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html",
-            "title": "\nChrome Releases: Stable Channel Update for Desktop\n"
-        },
-        {
-            "category": "pentest",
-            "link": "http://www.kitploit.com/2019/03/carboncopy-tool-which-creates-spoofed.html",
-            "title": "\nCarbonCopy - A Tool Which Creates A Spoofed Certificate Of Any Online Website And Signs An Executable For AV Evasion - KitPloit - PenTest & Hacking Tools for your CyberSecurity Kit \u2623\n"
-        },
-        {
-            "category": "dfir",
-            "link": "https://github.com/hasherezade/pe-sieve/releases/tag/v0.1.7",
-            "title": "Release v0.1.7 \u00b7 hasherezade/pe-sieve \u00b7 GitHub"
-        },
-        {
-            "category": "dfir",
-            "link": "https://github.com/hasherezade/hollows_hunter/releases/tag/v0.2",
-            "title": "Release v0.2 \u00b7 hasherezade/hollows_hunter \u00b7 GitHub"
-        },
-        {
-            "category": "reverse",
-            "link": "https://blog.tetrane.com/2019/Analysis-Windows-PatchGuard.html",
-            "title": "Tetrane - Automated Reverse Engineering Platform"
-        },
-        {
-            "category": "windows",
-            "link": "https://www.activecyber.us/1/post/2019/03/windows-uac-bypass.html",
-            "title": "Fileless UAC Bypass in Windows Store Binary - Active Cyber"
-        },
-        {
-            "category": "training",
-            "link": "https://volatility-labs.blogspot.com/2018/11/malware-and-memory-forensics-training.html",
-            "title": "Volatility Labs: Malware and Memory Forensics Training in 2019!"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/skelsec/pypykatz_server",
-            "title": "GitHub - skelsec/pypykatz_server: Mimikatz implementation in pure Python"
-        },
-        {
-            "category": "bug",
-            "link": "https://hackerone.com/reports/470520",
-            "title": "HackerOne - RCE on Steam Client via buffer overflow in Server Info"
-        },
-        {
-            "category": "containers",
-            "link": "https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/",
-            "title": "Millions of Binaries Later: a Look Into Linux Hardening in the Wild \u2022 Capsule8"
-        }
-    ],
-    "linksCurated": [
-        {
-            "category": "web",
-            "link": "https://github.com/xsleaks/xsleaks/wiki/Browser-Side-Channels",
-            "title": "Github - Browser Side Channels"
-        },
-        {
-            "category": "bug",
-            "link": "https://www.atredis.com/blog/2019/3/15/cve-2019-5513-information-leaks-in-vmware-horizon",
-            "title": "CVE-2019-5513: Information Leaks in VMWare Horizon"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/zMarch/Orc",
-            "title": "Orc is a post-exploitation framework for Linux written in Bash"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/Frint0/email-enum",
-            "title": "Email-Enum searches mainstream websites and tells you if an email is registered!"
-        },
-        {
-            "category": "pentest",
-            "link": "https://www.shelliscoming.com/2019/03/one-way-shellcode-for-firewall-evasion.html",
-            "title": "One-Way Shellcode for firewall evasion using Out Of Band data"
-        },
-        {
-            "category": "pentest",
-            "link": "https://www.activecyber.us/activelabs/windows-uac-bypass",
-            "title": "Fileless UAC Bypass in Windows Store Binary"
-        },
-        {
-            "category": "pentest",
-            "link": "https://github.com/AdrianVollmer/PowerHub",
-            "title": "Transfer PowerShell files while bypassing AV and application whitelisting"
-        },
-        {
-            "category": "pentest",
-            "link": "https://blogs.technet.microsoft.com/srd/2019/03/14/local-privilege-escalation-via-the-windows-i-o-manager-a-variant-finding-collaboration/",
-            "title": "Local privilege escalation via the Windows I/O Manager: a variant finding collaboration"
-        }
-    ],
-    "events": []
+   "linksAuto": [
+       {
+           "category": "Reverse Engineering",
+           "link": "https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html",
+           "title": "Reverse-engineering Broadcom wireless chipsets"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://securelist.com/new-win32k-zero-day-cve-2019-0859/90435/",
+           "title": "New win32k zero day: CVE-2019-0859 | Securelist"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/NationalSecurityAgency/ghidra",
+           "title": "GitHub - NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework"
+       },
+       {
+           "category": "Breach",
+           "link": "https://krebsonsecurity.com/2019/04/experts-breach-at-it-outsourcing-giant-wipro/",
+           "title": "Experts: Breach at IT Outsourcing Giant Wipro"
+       },
+       {
+           "category": "Exploit",
+           "link": "http://jackson-t.ca/synaptics-cxutilsvc-lpe.html",
+           "title": "CVE-2019-9730: LPE in Synaptics Sound Device Driver"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/",
+           "title": "DACL Permissions Overwrite Privilege Escalation (CVE-2019-0841)"
+       },
+       {
+           "category": "Information",
+           "link": "https://krebsonsecurity.com/2019/04/how-not-to-acknowledge-a-data-breach/",
+           "title": "How Not to Acknowledge a Data Breach -  Krebs on Security"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/zerosum0x0/smbdoor",
+           "title": "GitHub - zerosum0x0/smbdoor: Windows kernel backdoor via registering a malicious SMB handler"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/sophoslabs/CVE-2018-18500/",
+           "title": "PoC for CVE-2018-18500 - Firefox Use-After-Free"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/AngelCtulhu/CVE-2019-11223/",
+           "title": "Arbitrary File Upload in Wordpress Plugin SupportCandy Version 2.0 Below"
+       }
+   ],
+   "events": []
 }
