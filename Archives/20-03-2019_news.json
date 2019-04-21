@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/mwrlabs/SharpGPO-RemoteAccessPolicies",
+           "title": "GitHub - mwrlabs/SharpGPO-RemoteAccessPolicies: A C# tool for enumerating remote access policies through group policy."
+       },
+       {
+           "category": "Breach",
+           "link": "https://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/",
+           "title": "Source code of Iranian cyber-espionage tools leaked on Telegram | ZDNet"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/france-Tchap-secure-messenger.html",
+           "title": "Hacker Breaks Into French Government's New Secure Messaging App"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/instagram-password-plaintext.html",
+           "title": "Facebook Stored Millions of Instagram Users' Passwords in Plaintext"
+       },
+       {
+           "category": "Tool",
+           "link": "https://seclists.org/fulldisclosure/2019/Apr/26",
+           "title": "Obtaining location using Google maps & JavaScript"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://seclists.org/fulldisclosure/2019/Apr/28",
+           "title": "For the anniversary of the discovery of CVE-2018-2879 by Sec Consult"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://ai.google/research/pubs/pub48028",
+           "title": "Analysis of UXSS exploits and mitigations in Chromium"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.talosintelligence.com/2019/04/seaturtle.html?m=1",
+           "title": "DNS Hijacking Abuses Trust In Core Internet Service"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.us-cert.gov/ncas/current-activity/2019/04/17/Multiple-Vulnerabilities-Broadcom-WiFi-Chipset-Drivers",
+           "title": "Multiple Vulnerabilities in Broadcom WiFi Chipset Drivers"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.zerodayinitiative.com/blog/2019/4/18/the-story-of-two-winning-pwn2own-jit-vulnerabilities-in-mozilla-firefox",
+           "title": "THE STORY OF TWO WINNING PWN2OWN JIT VULNERABILITIES IN MOZILLA FIREFOX"
+       }
+   ],
+   "events": []
+}
