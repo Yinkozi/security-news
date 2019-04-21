@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://github.com/mwrlabs/SharpGPO-RemoteAccessPolicies",
-           "title": "GitHub - mwrlabs/SharpGPO-RemoteAccessPolicies: A C# tool for enumerating remote access policies through group policy."
+           "link": "https://github.com/NationalSecurityAgency/ghidra",
+           "title": "GitHub - NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework"
        },
        {
-           "category": "Breach",
-           "link": "https://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/",
-           "title": "Source code of Iranian cyber-espionage tools leaked on Telegram | ZDNet"
+           "category": "Exploit",
+           "link": "https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/",
+           "title": "Heap Exploitation Part 1: Understanding the Glibc Heap Implementation |  Azeria Labs"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/04/france-Tchap-secure-messenger.html",
-           "title": "Hacker Breaks Into French Government's New Secure Messaging App"
+           "category": "Tool",
+           "link": "https://www.unknowncheats.me/forum/general-programming-and-reversing/332048-example-reversing-undocumented-game-file-format.html",
+           "title": "An example of reversing an undocumented game file format"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/04/instagram-password-plaintext.html",
-           "title": "Facebook Stored Millions of Instagram Users' Passwords in Plaintext"
+           "category": "Tool",
+           "link": "https://github.com/leeberg/BlueCommand",
+           "title": "Dashboarding and Tooling front-end for PowerShell Empire using PowerShell Universal Dashboard"
        },
        {
            "category": "Tool",
-           "link": "https://seclists.org/fulldisclosure/2019/Apr/26",
-           "title": "Obtaining location using Google maps & JavaScript"
+           "link": "https://github.com/DigitalSecurity/nrf5x-tools",
+           "title": "Nordic Semiconductor nRF5x series disassembly tools"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://seclists.org/fulldisclosure/2019/Apr/28",
-           "title": "For the anniversary of the discovery of CVE-2018-2879 by Sec Consult"
+           "category": "Mobile",
+           "link": "https://medium.com/@fs0c131y/tchap-the-super-not-secure-app-of-the-french-government-84b31517d144?sk=59e15e44ba75dd78d7248262a4c8f0b7",
+           "title": "Tchap: The super (not) secure app of the French government"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://sensepost.com/blog/2019/understanding-peap-in-depth/",
+           "title": "Understanding PEAP In-Depth"
        },
 	   {
            "category": "Exploit",
-           "link": "https://ai.google/research/pubs/pub48028",
-           "title": "Analysis of UXSS exploits and mitigations in Chromium"
+           "link": "https://blog.rapid7.com/2019/04/16/extracting-firmware-from-microcontrollers-onboard-flash-memory-part-1-atmel-microcontrollers/?utm_source=social&utm_medium=twitter&utm_content=blog&utm_campaign=firmware&CS=Twitter",
+           "title": "Extracting Firmware from Microcontrollers' Onboard Flash Memory, Part 1: Atmel Microcontrollers"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://blog.talosintelligence.com/2019/04/seaturtle.html?m=1",
-           "title": "DNS Hijacking Abuses Trust In Core Internet Service"
+           "category": "Breach",
+           "link": "https://www.rtl-sdr.com/receiving-and-decoding-the-navic-indian-gps-satellites/",
+           "title": "RECEIVING AND DECODING THE NAVIC (INDIAN GPS) SATELLITES"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.us-cert.gov/ncas/current-activity/2019/04/17/Multiple-Vulnerabilities-Broadcom-WiFi-Chipset-Drivers",
-           "title": "Multiple Vulnerabilities in Broadcom WiFi Chipset Drivers"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.zerodayinitiative.com/blog/2019/4/18/the-story-of-two-winning-pwn2own-jit-vulnerabilities-in-mozilla-firefox",
-           "title": "THE STORY OF TWO WINNING PWN2OWN JIT VULNERABILITIES IN MOZILLA FIREFOX"
+           "category": "Tool",
+           "link": "https://speakerdeck.com/mikispag/content-security-policy-a-successful-mess-between-hardening-and-mitigation",
+           "title": "Content Security Policy: A successful mess between hardening and mitigation"
        }
    ],
    "events": []
