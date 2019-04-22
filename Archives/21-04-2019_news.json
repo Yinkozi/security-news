@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/NationalSecurityAgency/ghidra",
+           "title": "GitHub - NationalSecurityAgency/ghidra: Ghidra is a software reverse engineering (SRE) framework"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/",
+           "title": "Heap Exploitation Part 1: Understanding the Glibc Heap Implementation |  Azeria Labs"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://www.unknowncheats.me/forum/general-programming-and-reversing/332048-example-reversing-undocumented-game-file-format.html",
+           "title": "An example of reversing an undocumented game file format"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/leeberg/BlueCommand",
+           "title": "Dashboarding and Tooling front-end for PowerShell Empire using PowerShell Universal Dashboard"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/DigitalSecurity/nrf5x-tools",
+           "title": "Nordic Semiconductor nRF5x series disassembly tools"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Mobile",
+           "link": "https://medium.com/@fs0c131y/tchap-the-super-not-secure-app-of-the-french-government-84b31517d144?sk=59e15e44ba75dd78d7248262a4c8f0b7",
+           "title": "Tchap: The super (not) secure app of the French government"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://sensepost.com/blog/2019/understanding-peap-in-depth/",
+           "title": "Understanding PEAP In-Depth"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.rapid7.com/2019/04/16/extracting-firmware-from-microcontrollers-onboard-flash-memory-part-1-atmel-microcontrollers/?utm_source=social&utm_medium=twitter&utm_content=blog&utm_campaign=firmware&CS=Twitter",
+           "title": "Extracting Firmware from Microcontrollers' Onboard Flash Memory, Part 1: Atmel Microcontrollers"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.rtl-sdr.com/receiving-and-decoding-the-navic-indian-gps-satellites/",
+           "title": "RECEIVING AND DECODING THE NAVIC (INDIAN GPS) SATELLITES"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://speakerdeck.com/mikispag/content-security-policy-a-successful-mess-between-hardening-and-mitigation",
+           "title": "Content Security Policy: A successful mess between hardening and mitigation"
+       }
+   ],
+   "events": []
+}
