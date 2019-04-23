@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Expoit",
-           "link": "https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992",
-           "title": "Lateral Movement - SCM and Dll Hijacking Primer"
-       },
-       {
-           "category": "Expoit",
-           "link": "https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html",
-           "title": "Reverse-engineering Broadcom wireless chipsets"
+           "category": "Exploit",
+           "link": "https://googleprojectzero.blogspot.com/2019/04/windows-exploitation-tricks-abusing.html",
+           "title": "Project Zero: Windows Exploitation Tricks: Abusing the User-Mode Debugger"
        },
        {
            "category": "Tool",
-           "link": "https://github.com/0xACB/viewgen",
-           "title": "GitHub - 0xACB/viewgen: viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys"
+           "link": "https://44con.com/44con-training/adversary-simulation-and-red-team-tactics/",
+           "title": "Adversary Simulation and Red Team Tactics - 44CON"
        },
        {
-           "category": "Tool",
-           "link": "https://www.kernelmode.info/forum/viewtopic.php?f=11&t=5508",
-           "title": "WDExtract - Extract Windows Defender database from vdm files and unpack it - KernelMode info"
+           "category": "Exploit",
+           "link": "https://gist.github.com/mattifestation/b795721af01a5da99b38fb939bd707b4",
+           "title": "PoC exploitation of the New-Module constrained language mode - WDAC bypass"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/carbanak-malware-source-code.html",
+           "title": "Source Code for CARBANAK Banking Malware Found On VirusTotal"
        },
        {
-           "category": "Malware",
-           "link": "https://blog.malwarebytes.com/threat-analysis/2019/04/funky-malware-format-found-in-ocean-lotus-sample/",
-           "title": "Funky malware format - found in Ocean Lotus sample - Malwarebytes Labs | Malwarebytes Labs"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/04/wordpress-plugin-hacking.html",
+           "title": "Hackers Actively Exploiting Widely-Used Social Share Plugin for WordPress"
        }
    ],
    "linksCurated": [
        {
-           "category": "Tool",
-           "link": "http://ysoserial.net",
-           "title": "GitHub - pwntester/ysoserial.net: Deserialization payload generator for a variety of .NET formatters"
-       },
-	   {
-           "category": "Expoit",
-           "link": "https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/",
-           "title": "The top two most popular Docker base images each have over 500 vulnerabilities"
+           "category": "Exploit",
+           "link": "https://securitygossip.com/blog/2019/04/23/discovering-flaws-in-security-focused-static-analysis-tools-for-android-using-systematic-mutation/",
+           "title": "Discovering Flaws in Security-Focused Static Analysis Tools for Android Using Systematic Mutation"
        },
 	   {
            "category": "Tool",
-           "link": "https://articles.forensicfocus.com/2018/09/18/word-forensic-analysis-and-compound-file-binary-format/",
-           "title": "Word Forensic Analysis And Compound File Binary Format"
+           "link": "https://www.patreon.com/posts/dylib-hijack-dhs-26298644",
+           "title": "Dylib Hijack Scanner for a new attack against macOS coined Dylib Hijacking"
        },
 	   {
-           "category": "Expoit",
-           "link": "https://www.zdnet.com/article/popular-jquery-javascript-library-impacted-by-prototype-pollution-flaw/",
-           "title": "Popular jQuery JavaScript library impacted by prototype pollution flaw"
+           "category": "Exploit",
+           "link": "https://unit42.paloaltonetworks.com/exploits-in-the-wild-for-wordpress-social-warfare-plugin-cve-2019-9978/",
+           "title": "Exploits in the Wild for WordPress Social Warfare Plugin CVE-2019-9978"
        },
 	   {
-           "category": "Tool",
-           "link": "https://github.com/Samsung/netcoredbg",
-           "title": "NetCoreDbg is a managed code debugger with MI interface for CoreCLR."
+           "category": "Exploit",
+           "link": "https://www.gnucitizen.org/blog/name-mdns-poisoning-attacks-inside-the-lan/",
+           "title": "Name mDNS Poisoning Attacks Inside The LAN"
+       },
+	   {
+           "category": "Cyber Attack",
+           "link": "https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/",
+           "title": "Operation ShadowHammer: a high-profile supply chain attack"
        }
    ],
    "events": []
