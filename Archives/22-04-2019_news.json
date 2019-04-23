@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Expoit",
+           "link": "https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992",
+           "title": "Lateral Movement - SCM and Dll Hijacking Primer"
+       },
+       {
+           "category": "Expoit",
+           "link": "https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html",
+           "title": "Reverse-engineering Broadcom wireless chipsets"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/0xACB/viewgen",
+           "title": "GitHub - 0xACB/viewgen: viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys"
+       },
+       {
+           "category": "Tool",
+           "link": "https://www.kernelmode.info/forum/viewtopic.php?f=11&t=5508",
+           "title": "WDExtract - Extract Windows Defender database from vdm files and unpack it - KernelMode info"
+       },
+       {
+           "category": "Malware",
+           "link": "https://blog.malwarebytes.com/threat-analysis/2019/04/funky-malware-format-found-in-ocean-lotus-sample/",
+           "title": "Funky malware format - found in Ocean Lotus sample - Malwarebytes Labs | Malwarebytes Labs"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "http://ysoserial.net",
+           "title": "GitHub - pwntester/ysoserial.net: Deserialization payload generator for a variety of .NET formatters"
+       },
+	   {
+           "category": "Expoit",
+           "link": "https://snyk.io/blog/the-top-two-most-popular-docker-base-images-each-have-over-500-vulnerabilities/",
+           "title": "The top two most popular Docker base images each have over 500 vulnerabilities"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://articles.forensicfocus.com/2018/09/18/word-forensic-analysis-and-compound-file-binary-format/",
+           "title": "Word Forensic Analysis And Compound File Binary Format"
+       },
+	   {
+           "category": "Expoit",
+           "link": "https://www.zdnet.com/article/popular-jquery-javascript-library-impacted-by-prototype-pollution-flaw/",
+           "title": "Popular jQuery JavaScript library impacted by prototype pollution flaw"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/Samsung/netcoredbg",
+           "title": "NetCoreDbg is a managed code debugger with MI interface for CoreCLR."
+       }
+   ],
+   "events": []
+}
