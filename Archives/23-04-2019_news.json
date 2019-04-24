@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://googleprojectzero.blogspot.com/2019/04/windows-exploitation-tricks-abusing.html",
+           "title": "Project Zero: Windows Exploitation Tricks: Abusing the User-Mode Debugger"
+       },
+       {
+           "category": "Tool",
+           "link": "https://44con.com/44con-training/adversary-simulation-and-red-team-tactics/",
+           "title": "Adversary Simulation and Red Team Tactics - 44CON"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://gist.github.com/mattifestation/b795721af01a5da99b38fb939bd707b4",
+           "title": "PoC exploitation of the New-Module constrained language mode - WDAC bypass"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/carbanak-malware-source-code.html",
+           "title": "Source Code for CARBANAK Banking Malware Found On VirusTotal"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/04/wordpress-plugin-hacking.html",
+           "title": "Hackers Actively Exploiting Widely-Used Social Share Plugin for WordPress"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://securitygossip.com/blog/2019/04/23/discovering-flaws-in-security-focused-static-analysis-tools-for-android-using-systematic-mutation/",
+           "title": "Discovering Flaws in Security-Focused Static Analysis Tools for Android Using Systematic Mutation"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://www.patreon.com/posts/dylib-hijack-dhs-26298644",
+           "title": "Dylib Hijack Scanner for a new attack against macOS coined Dylib Hijacking"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://unit42.paloaltonetworks.com/exploits-in-the-wild-for-wordpress-social-warfare-plugin-cve-2019-9978/",
+           "title": "Exploits in the Wild for WordPress Social Warfare Plugin CVE-2019-9978"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.gnucitizen.org/blog/name-mdns-poisoning-attacks-inside-the-lan/",
+           "title": "Name mDNS Poisoning Attacks Inside The LAN"
+       },
+	   {
+           "category": "Cyber Attack",
+           "link": "https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/",
+           "title": "Operation ShadowHammer: a high-profile supply chain attack"
+       }
+   ],
+   "events": []
+}
