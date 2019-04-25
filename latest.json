@@ -2,55 +2,56 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://www.corelan.be/index.php/2019/04/23/windows-10-egghunter/",
-           "title": "Windows 10 egghunter (wow64) and more | Corelan Team"
+           "link": "https://research.checkpoint.com/deobfuscating-apt32-flow-graphs-with-cutter-and-radare2",
+           "title": "Deobfuscating APT32 Flow Graphs with Cutter and Radare2"
        },
+       
        {
            "category": "Tool",
-           "link": "https://posts.specterops.io/lateral-movement-scm-and-dll-hijacking-primer-d2f61e8ab992",
-           "title": "Lateral Movement- and Dll Hijacking Primer"
+           "link": "https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56",
+           "title": "Introducing Venator: A macOS tool for proactive detection"
+       },
+	   {
+           "category": "Zer0Day",
+           "link": "https://thehackernews.com/2019/04/oracle-weblogic-hacking.html",
+           "title": "Highly Critical Unpatched Zero-Day Flaw Discovered In Oracle WebLogic"
+       },
+	   {
+           "category": "Violation",
+           "link": "https://thehackernews.com/2019/04/facebook-ftc-fine-privacy.html",
+           "title": "Facebook Could Be Fined Up To $5 Billion Over Privacy Violations"
        },
        {
-           "category": "Tool",
-           "link": "https://termshark.io/",
-           "title": "Termshark \u2022 A terminal UI for tshark, inspired by Wireshark"
-       },
-       {
-           "category": "Tool",
-           "link": "https://www.kernelmode.info/forum/viewtopic.php?f=11&t=5508",
-           "title": "WDExtract - Extract Windows Defender database from vdm files and unpack it"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/ukncsc/lme/",
-           "title": "GitHub - ukncsc/lme: Logging Made Easy"
+           "category": "Exploit",
+           "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-cve-2019-0232-a-remote-code-execution-vulnerability-in-apache-tomcat/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29",
+           "title": "Uncovering CVE-2019-0232: A Remote Code Execution Vulnerability in Apache Tomcat"
        }
    ],
    "linksCurated": [
        {
+           "category": "Exploit",
+           "link": "https://blog.doyensec.com/2019/04/24/rubyzip-bug.html",
+           "title": "On insecure zip handling, Rubyzip and Metasploit RCE CVE-2019-5624"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.talosintelligence.com/2019/04/vulnerability-spotlight-symantec.html",
+           "title": "Vulnerability Spotlight: Symantec Endpoint Protection kernel memory information disclosure vulnerability"
+       },
+	   {
            "category": "Tool",
-           "link": "https://github.com/0xACB/viewgen",
-           "title": "GitHub - 0xacb/viewgen: viewgen is a ViewState tool capable of generating both signed and encrypted payloads with leaked validation keys"
-       },
-       {
-           "category": "Mwalre",
-           "link": "https://blog.malwarebytes.com/threat-analysis/2019/04/funky-malware-format-found-in-ocean-lotus-sample/",
-           "title": "Funky malware format - found in Ocean Lotus sample"
+           "link": "https://webkit.org/blog/8828/intelligent-tracking-prevention-2-2/",
+           "title": "Intelligent Tracking Prevention 2.2"
        },
 	   {
-           "category": "Malware",
-           "link": "https://thehackernews.com/2019/04/karkoff-dnspionage-malware.html",
-           "title": "Karkoff Is the New DNSpionage With Selective Targeting Strategy"
+           "category": "Exploit",
+           "link": "https://markitzeroday.com/pci/active-directory/kerberoast/firewall/2019/04/24/gaining-access-to-card-data-using-the-windows-domain-to-bypass-firewalls.html",
+           "title": "Gaining Access to Card Data Using the Windows Domain to Bypass Firewalls"
        },
 	   {
-           "category": "Google",
-           "link": "https://thehackernews.com/2019/04/google-location-database.html",
-           "title": "Congress Asks Google 10 Questions On Its Location Tracking Database"
-       },
-	   {
-           "category": "x",
-           "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/analysis-abuse-of-custom-actions-in-windows-installer-msi-to-run-malicious-javascript-vbscript-and-powershell-scripts/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29",
-           "title": "Analysis: Abuse of Custom Actions in Windows Installer MSI to Run Malicious JavaScript, VBScript, and PowerShell Scripts"
+           "category": "Tool",
+           "link": "https://gitlab.com/gnutls/gnutls/commit/ad27713bef613e6c4600a0fb83ae48c6d390ff5b",
+           "title": "fuzz: added fuzzer for certificate verification"
        }
    ],
    "events": []
