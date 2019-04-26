@@ -1,0 +1,58 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://research.checkpoint.com/deobfuscating-apt32-flow-graphs-with-cutter-and-radare2",
+           "title": "Deobfuscating APT32 Flow Graphs with Cutter and Radare2"
+       },
+       
+       {
+           "category": "Tool",
+           "link": "https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56",
+           "title": "Introducing Venator: A macOS tool for proactive detection"
+       },
+	   {
+           "category": "Zer0Day",
+           "link": "https://thehackernews.com/2019/04/oracle-weblogic-hacking.html",
+           "title": "Highly Critical Unpatched Zero-Day Flaw Discovered In Oracle WebLogic"
+       },
+	   {
+           "category": "Violation",
+           "link": "https://thehackernews.com/2019/04/facebook-ftc-fine-privacy.html",
+           "title": "Facebook Could Be Fined Up To $5 Billion Over Privacy Violations"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-cve-2019-0232-a-remote-code-execution-vulnerability-in-apache-tomcat/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29",
+           "title": "Uncovering CVE-2019-0232: A Remote Code Execution Vulnerability in Apache Tomcat"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://blog.doyensec.com/2019/04/24/rubyzip-bug.html",
+           "title": "On insecure zip handling, Rubyzip and Metasploit RCE CVE-2019-5624"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.talosintelligence.com/2019/04/vulnerability-spotlight-symantec.html",
+           "title": "Vulnerability Spotlight: Symantec Endpoint Protection kernel memory information disclosure vulnerability"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://webkit.org/blog/8828/intelligent-tracking-prevention-2-2/",
+           "title": "Intelligent Tracking Prevention 2.2"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://markitzeroday.com/pci/active-directory/kerberoast/firewall/2019/04/24/gaining-access-to-card-data-using-the-windows-domain-to-bypass-firewalls.html",
+           "title": "Gaining Access to Card Data Using the Windows Domain to Bypass Firewalls"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://gitlab.com/gnutls/gnutls/commit/ad27713bef613e6c4600a0fb83ae48c6d390ff5b",
+           "title": "fuzz: added fuzzer for certificate verification"
+       }
+   ],
+   "events": []
+}
