@@ -2,56 +2,55 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://research.checkpoint.com/deobfuscating-apt32-flow-graphs-with-cutter-and-radare2",
-           "title": "Deobfuscating APT32 Flow Graphs with Cutter and Radare2"
+           "link": "https://github.com/dirkjanm/adidnsdump",
+           "title": "GitHub - dirkjanm/adidnsdump: Active Directory Integrated DNS dumping by any authenticated user"
        },
-       
        {
            "category": "Tool",
-           "link": "https://posts.specterops.io/introducing-venator-a-macos-tool-for-proactive-detection-34055a017e56",
-           "title": "Introducing Venator: A macOS tool for proactive detection"
-       },
-	   {
-           "category": "Zer0Day",
-           "link": "https://thehackernews.com/2019/04/oracle-weblogic-hacking.html",
-           "title": "Highly Critical Unpatched Zero-Day Flaw Discovered In Oracle WebLogic"
-       },
-	   {
-           "category": "Violation",
-           "link": "https://thehackernews.com/2019/04/facebook-ftc-fine-privacy.html",
-           "title": "Facebook Could Be Fined Up To $5 Billion Over Privacy Violations"
+           "link": "https://dirkjanm.io/getting-in-the-zone-dumping-active-directory-dns-with-adidnsdump/",
+           "title": "Getting in the Zone: dumping Active Directory DNS using adidnsdump - dirkjanm.io"
        },
        {
-           "category": "Exploit",
-           "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-cve-2019-0232-a-remote-code-execution-vulnerability-in-apache-tomcat/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Anti-MalwareBlog+%28Trendlabs+Security+Intelligence+Blog%29",
-           "title": "Uncovering CVE-2019-0232: A Remote Code Execution Vulnerability in Apache Tomcat"
+           "category": "Malware",
+           "link": "https://latesthackingnews.com/2019/04/21/using-vulnerable-ad-blockers-could-get-you-hacked/",
+           "title": "Using Vulnerable Ad Blockers Could Get You Hacked"
+       },
+       {
+           "category": "Remote Hacking",
+           "link": "https://motherboard.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps",
+           "title": "Hacker Finds He Can Remotely Kill Car Engines After Breaking Into GPS Tracking Apps - Motherboard"
+       },
+       {
+           "category": "Phishing",
+           "link": "https://www.trustedsec.com/2019/04/next-gen-phishing-leveraging-azure-information-protection/",
+           "title": "Next Gen Phishing - Leveraging Azure Information Protection - TrustedSec"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://blog.doyensec.com/2019/04/24/rubyzip-bug.html",
-           "title": "On insecure zip handling, Rubyzip and Metasploit RCE CVE-2019-5624"
+           "category": "Mobile",
+           "link": "https://android-developers.googleblog.com/2019/04/android-q-scoped-storage-best-practices.html",
+           "title": "Android Q Scoped Storage: Best Practices and Updates"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/04/25/millions-of-records-leaked-from-unsecured-databases-containing-scraped-linkedin-data/",
+           "title": "Millions of Records Leaked From Unsecured Databases Containing Scraped LinkedIn Data"
        },
 	   {
            "category": "Exploit",
-           "link": "https://blog.talosintelligence.com/2019/04/vulnerability-spotlight-symantec.html",
-           "title": "Vulnerability Spotlight: Symantec Endpoint Protection kernel memory information disclosure vulnerability"
+           "link": "https://latesthackingnews.com/2019/04/22/multiple-vulnerabilities-found-in-broadcom-wifi-chipset-drivers/",
+           "title": "Multiple Vulnerabilities Found In Broadcom WiFi Chipset Drivers"
        },
 	   {
-           "category": "Tool",
-           "link": "https://webkit.org/blog/8828/intelligent-tracking-prevention-2-2/",
-           "title": "Intelligent Tracking Prevention 2.2"
+           "category": "Breach",
+           "link": "http://www.ehackingnews.com/2019/04/russian-speaking-hacker-compromises-and.html",
+           "title": "Russian Speaking Hacker Compromises and Gains the Full Control of the Government Network Systems"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://markitzeroday.com/pci/active-directory/kerberoast/firewall/2019/04/24/gaining-access-to-card-data-using-the-windows-domain-to-bypass-firewalls.html",
-           "title": "Gaining Access to Card Data Using the Windows Domain to Bypass Firewalls"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://gitlab.com/gnutls/gnutls/commit/ad27713bef613e6c4600a0fb83ae48c6d390ff5b",
-           "title": "fuzz: added fuzzer for certificate verification"
+           "category": "Lawsuit",
+           "link": "http://www.ehackingnews.com/2019/04/teen-sues-apple-for-1-billion-over-face.html",
+           "title": "Teen sues Apple for $1 billion over Face-recognition software"
        }
    ],
    "events": []
