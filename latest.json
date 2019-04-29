@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://github.com/dirkjanm/adidnsdump",
-           "title": "GitHub - dirkjanm/adidnsdump: Active Directory Integrated DNS dumping by any authenticated user"
+           "link": "https://binaryforay.blogspot.com/2019/04/introducing-evtxecmd.html",
+           "title": "binary foray: Introducing EvtxECmd"
        },
        {
-           "category": "Tool",
-           "link": "https://dirkjanm.io/getting-in-the-zone-dumping-active-directory-dns-with-adidnsdump/",
-           "title": "Getting in the Zone: dumping Active Directory DNS using adidnsdump - dirkjanm.io"
+           "category": "Caution",
+           "link": "https://motherboard.vice.com/en_us/article/pajbj8/slack-warns-investors-its-a-target-for-nation-state-hacking",
+           "title": "Slack Warns Investors Its a Target for Nation-State Hacking"
        },
        {
-           "category": "Malware",
-           "link": "https://latesthackingnews.com/2019/04/21/using-vulnerable-ad-blockers-could-get-you-hacked/",
-           "title": "Using Vulnerable Ad Blockers Could Get You Hacked"
+           "category": "Exploit",
+           "link": "https://soroush.secproject.com/blog/2019/04/exploiting-deserialisation-in-asp-net-via-viewstate/",
+           "title": "Exploiting Deserialisation in ASP.NET via ViewState"
+       },
+	   {
+           "category": "Wordpress",
+           "link": "https://thehackernews.com/2019/04/wordpress-woocommerce-security.html",
+           "title": "Critical Unpatched Flaw Disclosed in WordPress WooCommerce Extension"
        },
        {
-           "category": "Remote Hacking",
-           "link": "https://motherboard.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps",
-           "title": "Hacker Finds He Can Remotely Kill Car Engines After Breaking Into GPS Tracking Apps - Motherboard"
-       },
-       {
-           "category": "Phishing",
-           "link": "https://www.trustedsec.com/2019/04/next-gen-phishing-leveraging-azure-information-protection/",
-           "title": "Next Gen Phishing - Leveraging Azure Information Protection - TrustedSec"
+           "category": "Facebook",
+           "link": "https://thehackernews.com/2019/04/facebook-privacy-investigation.html",
+           "title": "New York, Canada, Ireland Launch New Investigations Into Facebook Privacy Breaches"
        }
    ],
    "linksCurated": [
        {
-           "category": "Mobile",
-           "link": "https://android-developers.googleblog.com/2019/04/android-q-scoped-storage-best-practices.html",
-           "title": "Android Q Scoped Storage: Best Practices and Updates"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/docker-hub-data-breach.html",
+           "title": "Docker Hub Suffers a Data Breach, Asks Users to Reset Password"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/04/25/millions-of-records-leaked-from-unsecured-databases-containing-scraped-linkedin-data/",
-           "title": "Millions of Records Leaked From Unsecured Databases Containing Scraped LinkedIn Data"
+           "category": "Presentation",
+           "link": "https://docs.google.com/presentation/d/1g8_9SKSDYtCaJgRw_cJd8a88KPKShhPZRnBB39ZQEIM/edit#slide=id.p",
+           "title": "All malwares are dangerous, but some malware are more dangerous than others"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/04/22/multiple-vulnerabilities-found-in-broadcom-wifi-chipset-drivers/",
-           "title": "Multiple Vulnerabilities Found In Broadcom WiFi Chipset Drivers"
+           "link": "https://rastamouse.me/2019/04/weaponizing-cve-2019-0841-with-laps/",
+           "title": "Weaponizing CVE-2019-0841 with LAPS"
        },
 	   {
-           "category": "Breach",
-           "link": "http://www.ehackingnews.com/2019/04/russian-speaking-hacker-compromises-and.html",
-           "title": "Russian Speaking Hacker Compromises and Gains the Full Control of the Government Network Systems"
+           "category": "Exploit",
+           "link": "https://blog.alertlogic.com/active-exploitation-of-confluence-vulnerability-cve-2019-3396-dropping-gandcrab-ransomware/",
+           "title": "Active Exploitation of Confluence Vulnerability CVE-2019-3396 Dropping Gandcrab"
        },
 	   {
-           "category": "Lawsuit",
-           "link": "http://www.ehackingnews.com/2019/04/teen-sues-apple-for-1-billion-over-face.html",
-           "title": "Teen sues Apple for $1 billion over Face-recognition software"
+           "category": "Exploit",
+           "link": "https://securityaffairs.co/wordpress/84591/malware/aesddos-bot-atlassian-confluence.html",
+           "title": "AESDDoS bot exploits CVE-2019-3396 flaw to hit Atlassian Confluence Server"
        }
    ],
    "events": []
