@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://binaryforay.blogspot.com/2019/04/introducing-evtxecmd.html",
+           "title": "binary foray: Introducing EvtxECmd"
+       },
+       {
+           "category": "Caution",
+           "link": "https://motherboard.vice.com/en_us/article/pajbj8/slack-warns-investors-its-a-target-for-nation-state-hacking",
+           "title": "Slack Warns Investors Its a Target for Nation-State Hacking"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://soroush.secproject.com/blog/2019/04/exploiting-deserialisation-in-asp-net-via-viewstate/",
+           "title": "Exploiting Deserialisation in ASP.NET via ViewState"
+       },
+	   {
+           "category": "Wordpress",
+           "link": "https://thehackernews.com/2019/04/wordpress-woocommerce-security.html",
+           "title": "Critical Unpatched Flaw Disclosed in WordPress WooCommerce Extension"
+       },
+       {
+           "category": "Facebook",
+           "link": "https://thehackernews.com/2019/04/facebook-privacy-investigation.html",
+           "title": "New York, Canada, Ireland Launch New Investigations Into Facebook Privacy Breaches"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/04/docker-hub-data-breach.html",
+           "title": "Docker Hub Suffers a Data Breach, Asks Users to Reset Password"
+       },
+	   {
+           "category": "Presentation",
+           "link": "https://docs.google.com/presentation/d/1g8_9SKSDYtCaJgRw_cJd8a88KPKShhPZRnBB39ZQEIM/edit#slide=id.p",
+           "title": "All malwares are dangerous, but some malware are more dangerous than others"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://rastamouse.me/2019/04/weaponizing-cve-2019-0841-with-laps/",
+           "title": "Weaponizing CVE-2019-0841 with LAPS"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.alertlogic.com/active-exploitation-of-confluence-vulnerability-cve-2019-3396-dropping-gandcrab-ransomware/",
+           "title": "Active Exploitation of Confluence Vulnerability CVE-2019-3396 Dropping Gandcrab"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://securityaffairs.co/wordpress/84591/malware/aesddos-bot-atlassian-confluence.html",
+           "title": "AESDDoS bot exploits CVE-2019-3396 flaw to hit Atlassian Confluence Server"
+       }
+   ],
+   "events": []
+}
