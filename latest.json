@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://binaryforay.blogspot.com/2019/04/introducing-evtxecmd.html",
-           "title": "binary foray: Introducing EvtxECmd"
+           "category": "undefined",
+           "link": "https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/",
+           "title": "Operation ShadowHammer: A High Profile Supply Chain Attack | Securelist"
        },
        {
-           "category": "Caution",
-           "link": "https://motherboard.vice.com/en_us/article/pajbj8/slack-warns-investors-its-a-target-for-nation-state-hacking",
-           "title": "Slack Warns Investors Its a Target for Nation-State Hacking"
+           "category": "undefined",
+           "link": "http://maddiestone.github.io/AndroidAppRE",
+           "title": "Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!"
        },
        {
-           "category": "Exploit",
-           "link": "https://soroush.secproject.com/blog/2019/04/exploiting-deserialisation-in-asp-net-via-viewstate/",
-           "title": "Exploiting Deserialisation in ASP.NET via ViewState"
-       },
-	   {
-           "category": "Wordpress",
-           "link": "https://thehackernews.com/2019/04/wordpress-woocommerce-security.html",
-           "title": "Critical Unpatched Flaw Disclosed in WordPress WooCommerce Extension"
+           "category": "undefined",
+           "link": "https://github.com/Microsoft/SymCrypt",
+           "title": "GitHub - Microsoft/SymCrypt: Cryptographic library"
        },
        {
-           "category": "Facebook",
-           "link": "https://thehackernews.com/2019/04/facebook-privacy-investigation.html",
-           "title": "New York, Canada, Ireland Launch New Investigations Into Facebook Privacy Breaches"
+           "category": "undefined",
+           "link": "https://github.com/danigargu/heap-viewer",
+           "title": "GitHub - danigargu/heap-viewer: An IDA Pro plugin to examine the glibc heap, focused on exploit development"
+       },
+       {
+           "category": "undefined",
+           "link": "https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/",
+           "title": "Don't Follow The Masses: Bug Hunting in JavaScript Engines | Bluefrostsecurity"
        }
    ],
    "linksCurated": [
        {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/04/docker-hub-data-breach.html",
-           "title": "Docker Hub Suffers a Data Breach, Asks Users to Reset Password"
+           "category": "x",
+           "link": "https://thehackernews.com/2019/04/america-personal-data.html",
+           "title": "Unprotected Database Exposes Personal Info of 80 Million American Households"
        },
 	   {
-           "category": "Presentation",
-           "link": "https://docs.google.com/presentation/d/1g8_9SKSDYtCaJgRw_cJd8a88KPKShhPZRnBB39ZQEIM/edit#slide=id.p",
-           "title": "All malwares are dangerous, but some malware are more dangerous than others"
+           "category": "x",
+           "link": "https://thehackernews.com/2019/04/electrum-bitcoin-wallet-botnet.html",
+           "title": "Rapidly Growing Electrum Botnet Infects Over 152,000 Users; Steals $4.6 Million"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://rastamouse.me/2019/04/weaponizing-cve-2019-0841-with-laps/",
-           "title": "Weaponizing CVE-2019-0841 with LAPS"
+           "category": "x",
+           "link": "https://exp101t.blogspot.com/2018/05/cve-2018-0777-code-motion.html",
+           "title": "CVE-2018-0777 Code Motion"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://blog.alertlogic.com/active-exploitation-of-confluence-vulnerability-cve-2019-3396-dropping-gandcrab-ransomware/",
-           "title": "Active Exploitation of Confluence Vulnerability CVE-2019-3396 Dropping Gandcrab"
+           "category": "x",
+           "link": "https://exp101t.blogspot.com/2019/04/cve-2017-5121-escape-analysis.html",
+           "title": "CVE-2017-5121 Escape Analysis"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://securityaffairs.co/wordpress/84591/malware/aesddos-bot-atlassian-confluence.html",
-           "title": "AESDDoS bot exploits CVE-2019-3396 flaw to hit Atlassian Confluence Server"
+           "category": "x",
+           "link": "https://hackerone.com/reports/499348",
+           "title": "Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect"
        }
    ],
    "events": []
