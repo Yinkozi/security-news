@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "undefined",
+           "link": "https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/",
+           "title": "Operation ShadowHammer: A High Profile Supply Chain Attack | Securelist"
+       },
+       {
+           "category": "undefined",
+           "link": "http://maddiestone.github.io/AndroidAppRE",
+           "title": "Android App Reverse Engineering 101 | Learn to reverse engineer Android applications!"
+       },
+       {
+           "category": "undefined",
+           "link": "https://github.com/Microsoft/SymCrypt",
+           "title": "GitHub - Microsoft/SymCrypt: Cryptographic library"
+       },
+       {
+           "category": "undefined",
+           "link": "https://github.com/danigargu/heap-viewer",
+           "title": "GitHub - danigargu/heap-viewer: An IDA Pro plugin to examine the glibc heap, focused on exploit development"
+       },
+       {
+           "category": "undefined",
+           "link": "https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/",
+           "title": "Don't Follow The Masses: Bug Hunting in JavaScript Engines | Bluefrostsecurity"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/04/america-personal-data.html",
+           "title": "Unprotected Database Exposes Personal Info of 80 Million American Households"
+       },
+	   {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/04/electrum-bitcoin-wallet-botnet.html",
+           "title": "Rapidly Growing Electrum Botnet Infects Over 152,000 Users; Steals $4.6 Million"
+       },
+	   {
+           "category": "x",
+           "link": "https://exp101t.blogspot.com/2018/05/cve-2018-0777-code-motion.html",
+           "title": "CVE-2018-0777 Code Motion"
+       },
+	   {
+           "category": "x",
+           "link": "https://exp101t.blogspot.com/2019/04/cve-2017-5121-escape-analysis.html",
+           "title": "CVE-2017-5121 Escape Analysis"
+       },
+	   {
+           "category": "x",
+           "link": "https://hackerone.com/reports/499348",
+           "title": "Twitter lite(Android): Vulnerable to local file steal, Javascript injection, Open redirect"
+       }
+   ],
+   "events": []
+}
