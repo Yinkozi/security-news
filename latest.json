@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Spoofing",
-           "link": "https://thehackernews.com/2019/04/email-signature-spoofing.html",
-           "title": "Over Dozen Popular Email Clients Found Vulnerable to Signature Spoofing Attacks"
-       },
-	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/05/ransomware-oracle-weblogic.html",
-           "title": "Hackers Found Exploiting Oracle WebLogic RCE Flaw to Spread Ransomware"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1790",
-           "title": "Linux: missing locking between ELF coredump code and userfaultfd VMA modification"
-       },
-	   {
-           "category": "Ransomware",
-           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/lockergoga-ransomware-family-used-in-targeted-attacks/",
-           "title": "LockerGoga Ransomware Family Used in Targeted Attacks"
+           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
+           "title": "Remote Code Execution on most Dell computers - Bill Demirkapi's Blog - The adventures of a 17 year old security researcher."
        },
        {
-           "category": "DDoS",
-           "link": "https://blog.malwarebytes.com/cybercrime/2019/04/electrum-ddos-botnet-reaches-152000-infected-hosts/",
-           "title": "Electrum DDoS botnet reaches 152,000 infected hosts"
+           "category": "Tool",
+           "link": "https://github.com/Microsoft/SymCrypt",
+           "title": "GitHub - Microsoft/SymCrypt: Cryptographic library"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES",
+           "title": "GitHub - sbousseaden/EVTX-ATTACK-SAMPLES: Windows Events Samples"
+       },
+       {
+           "category": "Forensics",
+           "link": "https://blogs.technet.microsoft.com/pfesweplat/2017/01/28/forensics-active-directory-acl-investigation/",
+           "title": "Forensics: Active Directory ACL investigation - Platform PFE's in Sweden Blog"
+       },
+       {
+           "category": "Presentation",
+           "link": "https://adsecurity.org/?page_id=1352",
+           "title": "Presentations - Active Directory Security"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://bugzilla.redhat.com/show_bug.cgi?id=1696015",
-           "title": "CVE-2019-3892 kernel: fix race condition between mmget_not_zero()/get_task_mm() and core dumping"
+           "category": "Bypassing",
+           "link": "https://ired.team/offensive-security/bypassing-cylance-and-other-avs-edrs-by-unhooking-windows-apis",
+           "title": "Bypassing Cylance and other AVs/EDRs by Unhooking Windows APIs - Red Teaming Experiments"
+       },
+       {
+           "category": "Cracking",
+           "link": "https://research.801labs.org/cracking-an-ntlmv2-hash/",
+           "title": "A 9-step recipe to crack a NTLMv2 Hash from a freshly acquired .pcap"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/02/unsecured-database-exposed-information-of-80-million-us-households/",
+           "title": "Unsecured Database Exposed Information of 80 Million US Households"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/04/30/multiple-vulnerabilities-in-microsoft-server-infrastructure-allows-arbitrary-code-execution/",
-           "title": "Multiple Vulnerabilities In Microsoft Server Infrastructure Allows Arbitrary Code Execution"
-       },
-	   {
-           "category": "Fraud",
-           "link": "https://latesthackingnews.com/2019/05/01/google-bans-app-developer-due-to-ad-fraud-and-policy-violations/",
-           "title": "Google Bans App Developer Due to Ad Fraud And Policy Violations"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/04/30/wordpress-woocommerce-plugin-vulnerability-allowed-for-arbitrary-file-upload/",
-           "title": "WordPress WooCommerce Plugin Vulnerability Allowed For Arbitrary File Upload"
+           "link": "https://latesthackingnews.com/2019/05/01/qualcomm-chip-vulnerability-could-expose-private-keys-for-android-phones/",
+           "title": "Qualcomm Chip Vulnerability Could Expose Private Keys For Android Phones"
        },
 	   {
            "category": "Privacy",
-           "link": "https://latesthackingnews.com/2019/04/30/apple-removed-parental-control-apps-claiming-they-threaten-users-privacy/",
-           "title": "Apple Removed Parental Control Apps Claiming They Threaten Users Privacy"
+           "link": "https://latesthackingnews.com/2019/04/29/facebook-bans-personality-quizzes-alongside-other-notable-changes-for-users-privacy/",
+           "title": "Facebook Bans Personality Quizzes Alongside Other Notable Changes For Users’ Privacy"
        }
    ],
    "events": []
