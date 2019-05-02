@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Spoofing",
+           "link": "https://thehackernews.com/2019/04/email-signature-spoofing.html",
+           "title": "Over Dozen Popular Email Clients Found Vulnerable to Signature Spoofing Attacks"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/ransomware-oracle-weblogic.html",
+           "title": "Hackers Found Exploiting Oracle WebLogic RCE Flaw to Spread Ransomware"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1790",
+           "title": "Linux: missing locking between ELF coredump code and userfaultfd VMA modification"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/lockergoga-ransomware-family-used-in-targeted-attacks/",
+           "title": "LockerGoga Ransomware Family Used in Targeted Attacks"
+       },
+       {
+           "category": "DDoS",
+           "link": "https://blog.malwarebytes.com/cybercrime/2019/04/electrum-ddos-botnet-reaches-152000-infected-hosts/",
+           "title": "Electrum DDoS botnet reaches 152,000 infected hosts"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://bugzilla.redhat.com/show_bug.cgi?id=1696015",
+           "title": "CVE-2019-3892 kernel: fix race condition between mmget_not_zero()/get_task_mm() and core dumping"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/04/30/multiple-vulnerabilities-in-microsoft-server-infrastructure-allows-arbitrary-code-execution/",
+           "title": "Multiple Vulnerabilities In Microsoft Server Infrastructure Allows Arbitrary Code Execution"
+       },
+	   {
+           "category": "Fraud",
+           "link": "https://latesthackingnews.com/2019/05/01/google-bans-app-developer-due-to-ad-fraud-and-policy-violations/",
+           "title": "Google Bans App Developer Due to Ad Fraud And Policy Violations"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/04/30/wordpress-woocommerce-plugin-vulnerability-allowed-for-arbitrary-file-upload/",
+           "title": "WordPress WooCommerce Plugin Vulnerability Allowed For Arbitrary File Upload"
+       },
+	   {
+           "category": "Privacy",
+           "link": "https://latesthackingnews.com/2019/04/30/apple-removed-parental-control-apps-claiming-they-threaten-users-privacy/",
+           "title": "Apple Removed Parental Control Apps Claiming They Threaten Users Privacy"
+       }
+   ],
+   "events": []
+}
