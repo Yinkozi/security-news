@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
+           "category": "Tool",
+           "link": "https://github.com/fox-it/BloodHound.py",
+           "title": "GitHub - fox-it/BloodHound.py: A Python based ingestor for BloodHound"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://thehackernews.com/2019/05/dhs-patch-vulnerabilities.html",
+           "title": "DHS Orders Federal Agencies to Patch Critical Flaws Within 15 Days"
+       },
+	   {
+           "category": "Jailed",
+           "link": "https://thehackernews.com/2019/05/julian-assange-jailed.html",
+           "title": "WikiLeaks Julian Assange Sentenced to 50 Weeks in UK Jail"
+       },
+	   {
+           "category": "Privacy",
+           "link": "https://thehackernews.com/2019/05/google-web-location-history.html",
+           "title": "Google Adds New Option to Auto-Delete Your Location History and Activity Data"
+       },
+       {
            "category": "Exploit",
-           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
-           "title": "Remote Code Execution on most Dell computers - Bill Demirkapi's Blog - The adventures of a 17 year old security researcher."
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/Microsoft/SymCrypt",
-           "title": "GitHub - Microsoft/SymCrypt: Cryptographic library"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES",
-           "title": "GitHub - sbousseaden/EVTX-ATTACK-SAMPLES: Windows Events Samples"
-       },
-       {
-           "category": "Forensics",
-           "link": "https://blogs.technet.microsoft.com/pfesweplat/2017/01/28/forensics-active-directory-acl-investigation/",
-           "title": "Forensics: Active Directory ACL investigation - Platform PFE's in Sweden Blog"
-       },
-       {
-           "category": "Presentation",
-           "link": "https://adsecurity.org/?page_id=1352",
-           "title": "Presentations - Active Directory Security"
+           "link": "https://thehackernews.com/2019/05/dell-computer-hacking.html",
+           "title": "Pre-Installed Software Flaw Exposes Most Dell Computers to Remote Hacking"
        }
    ],
    "linksCurated": [
        {
-           "category": "Bypassing",
-           "link": "https://ired.team/offensive-security/bypassing-cylance-and-other-avs-edrs-by-unhooking-windows-apis",
-           "title": "Bypassing Cylance and other AVs/EDRs by Unhooking Windows APIs - Red Teaming Experiments"
-       },
-       {
-           "category": "Cracking",
-           "link": "https://research.801labs.org/cracking-an-ntlmv2-hash/",
-           "title": "A 9-step recipe to crack a NTLMv2 Hash from a freshly acquired .pcap"
+           "category": "Scam",
+           "link": "https://latesthackingnews.com/2019/04/28/godaddy-shut-down-15k-scam-subdomains-from-hacked-websites/",
+           "title": "GoDaddy Shut Down 15K Scam Subdomains From Hacked Websites"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/02/unsecured-database-exposed-information-of-80-million-us-households/",
-           "title": "Unsecured Database Exposed Information of 80 Million US Households"
+           "link": "https://latesthackingnews.com/2019/04/28/wifi-finder-app-goes-down-after-leaking-2-million-wifi-network-passwords/",
+           "title": "WiFi Finder App Goes Down After Leaking 2 Million WiFi-Network Passwords"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/05/01/qualcomm-chip-vulnerability-could-expose-private-keys-for-android-phones/",
-           "title": "Qualcomm Chip Vulnerability Could Expose Private Keys For Android Phones"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/04/08/pharma-giant-bayer-contained-cyber-attack-supposedly-by-a-chinese-hacking-group/",
+           "title": "Pharma Giant Bayer Contained Cyber Attack Supposedly By A Chinese Hacking Group"
        },
 	   {
-           "category": "Privacy",
-           "link": "https://latesthackingnews.com/2019/04/29/facebook-bans-personality-quizzes-alongside-other-notable-changes-for-users-privacy/",
-           "title": "Facebook Bans Personality Quizzes Alongside Other Notable Changes For Users’ Privacy"
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/04/12/microsoft-april-patch-tuesday-also-addresses-two-zero-day-bugs-with-numerous-others/",
+           "title": "Microsoft April Patch Tuesday Also Addresses Two Zero Day Bugs With Numerous Others"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/04/12/intel-patches-vulnerabilities-in-four-different-products/",
+           "title": "Intel Patches Vulnerabilities In Four Different Products"
        }
    ],
    "events": []
