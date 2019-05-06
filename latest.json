@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/06/unprotected-chinese-smart-city-database-exposed-facial-scans-and-other-explicit-details/",
+           "title": "Unprotected Chinese Smart City Database Exposed Facial Scans And Other Explicit Details"
+       },
+       {
            "category": "Tool",
-           "link": "https://github.com/fox-it/BloodHound.py",
-           "title": "GitHub - fox-it/BloodHound.py: A Python based ingestor for BloodHound"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://thehackernews.com/2019/05/dhs-patch-vulnerabilities.html",
-           "title": "DHS Orders Federal Agencies to Patch Critical Flaws Within 15 Days"
-       },
-	   {
-           "category": "Jailed",
-           "link": "https://thehackernews.com/2019/05/julian-assange-jailed.html",
-           "title": "WikiLeaks Julian Assange Sentenced to 50 Weeks in UK Jail"
-       },
-	   {
-           "category": "Privacy",
-           "link": "https://thehackernews.com/2019/05/google-web-location-history.html",
-           "title": "Google Adds New Option to Auto-Delete Your Location History and Activity Data"
+           "link": "https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/",
+           "title": "How To Do Firmware Analysis. Tools, Tips, and Tricks"
        },
        {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/05/dell-computer-hacking.html",
-           "title": "Pre-Installed Software Flaw Exposes Most Dell Computers to Remote Hacking"
+           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
+           "title": "Remote Code Execution on most Dell computers - Bill Demirkapi's Blog - The adventures of a 17 year old security researcher"
+       },
+       {
+           "category": "Reversing",
+           "link": "https://liveoverflow.com/unpacking-buhtrap-malware-basics-of-self-injection-packers-ft-oalabs-2/",
+           "title": "Unpacking Redaman Malware & Basics of Self-Injection Packers"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://wp.me/p7MIao-qO",
+           "title": "Abusing Catalog Hygiene to Bypass Application Whitelisting"
        }
    ],
    "linksCurated": [
        {
-           "category": "Scam",
-           "link": "https://latesthackingnews.com/2019/04/28/godaddy-shut-down-15k-scam-subdomains-from-hacked-websites/",
-           "title": "GoDaddy Shut Down 15K Scam Subdomains From Hacked Websites"
+           "category": "Hacktivist",
+           "link": "https://www.wired.com/story/barium-supply-chain-hackers/",
+           "title": "A Mysterious Hacker Group Is On a Supply Chain Hijacking Spree"
+       },
+	   {
+           "category": "DarkWeb",
+           "link": "https://thehackernews.com/2019/05/europol-darkweb-market.html",
+           "title": "Europol Shuts Down Two Major Illegal Dark Web Trading Platforms"
+       },
+	   {
+           "category": "WAF",
+           "link": "https://soroush.secproject.com/blog/2019/05/x-up-devcap-post-charset-header-in-aspnet-to-bypass-wafs-again/",
+           "title": "X-up-devcap-post-charset Header in ASP.NET to Bypass WAF"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/04/28/wifi-finder-app-goes-down-after-leaking-2-million-wifi-network-passwords/",
-           "title": "WiFi Finder App Goes Down After Leaking 2 Million WiFi-Network Passwords"
+           "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/docker-hub-repository-suffers-data-breach-190-000-users-potentially-affected?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0419_docker",
+           "title": "Docker Hub Repository Suffers Data Breach 190000 Users Potentially Affected"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/04/08/pharma-giant-bayer-contained-cyber-attack-supposedly-by-a-chinese-hacking-group/",
-           "title": "Pharma Giant Bayer Contained Cyber Attack Supposedly By A Chinese Hacking Group"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://latesthackingnews.com/2019/04/12/microsoft-april-patch-tuesday-also-addresses-two-zero-day-bugs-with-numerous-others/",
-           "title": "Microsoft April Patch Tuesday Also Addresses Two Zero Day Bugs With Numerous Others"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://latesthackingnews.com/2019/04/12/intel-patches-vulnerabilities-in-four-different-products/",
-           "title": "Intel Patches Vulnerabilities In Four Different Products"
+           "category": "Exploit",
+           "link": "http://nebelwelt.net/blog/20181231-BOP.html",
+           "title": "Automating data-only attacks through Block Oriented Programming"
        }
    ],
    "events": []
