@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/06/unprotected-chinese-smart-city-database-exposed-facial-scans-and-other-explicit-details/",
-           "title": "Unprotected Chinese Smart City Database Exposed Facial Scans And Other Explicit Details"
-       },
-       {
            "category": "Tool",
-           "link": "https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/",
-           "title": "How To Do Firmware Analysis. Tools, Tips, and Tricks"
+           "link": "https://github.com/j00ru/windows-syscalls",
+           "title": "GitHub - j00ru/windows-syscalls: Windows System Call Tables (NT/2000/XP/2003/Vista/2008/7/2012/8/10)"
        },
        {
            "category": "Exploit",
-           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
-           "title": "Remote Code Execution on most Dell computers - Bill Demirkapi's Blog - The adventures of a 17 year old security researcher"
+           "link": "https://github.com/0vercl0k/CVE-2019-9810",
+           "title": "GitHub - 0vercl0k/CVE-2019-9810: Exploit for CVE-2019-9810 Firefox on Windows 64 bits."
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/wyzant-data-breach.html",
+           "title": "Popular Online Tutoring Marketplace Wyzant Suffers Data Breach"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/06/amc-exposed-subscribers-database-containing-1-6-million-records/",
+           "title": "AMC Exposed Subscribers Database Containing 1.6 Million Records"
        },
        {
-           "category": "Reversing",
-           "link": "https://liveoverflow.com/unpacking-buhtrap-malware-basics-of-self-injection-packers-ft-oalabs-2/",
-           "title": "Unpacking Redaman Malware & Basics of Self-Injection Packers"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://wp.me/p7MIao-qO",
-           "title": "Abusing Catalog Hygiene to Bypass Application Whitelisting"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/06/unsecured-skymed-database-exposed-pii-data-of-137k-individuals/",
+           "title": "Unsecured SkyMed Database Exposed PII Data Of 137K Individuals"
        }
    ],
    "linksCurated": [
        {
-           "category": "Hacktivist",
-           "link": "https://www.wired.com/story/barium-supply-chain-hackers/",
-           "title": "A Mysterious Hacker Group Is On a Supply Chain Hijacking Spree"
-       },
-	   {
-           "category": "DarkWeb",
-           "link": "https://thehackernews.com/2019/05/europol-darkweb-market.html",
-           "title": "Europol Shuts Down Two Major Illegal Dark Web Trading Platforms"
-       },
-	   {
-           "category": "WAF",
-           "link": "https://soroush.secproject.com/blog/2019/05/x-up-devcap-post-charset-header-in-aspnet-to-bypass-wafs-again/",
-           "title": "X-up-devcap-post-charset Header in ASP.NET to Bypass WAF"
+           "category": "Firefox",
+           "link": "https://latesthackingnews.com/2019/04/08/firefox-now-blocks-authentication-required-prompts-by-scam-websites/",
+           "title": "Firefox Now Blocks Authentication Required Prompts By Scam Websites"
        },
 	   {
            "category": "Breach",
-           "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/docker-hub-repository-suffers-data-breach-190-000-users-potentially-affected?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0419_docker",
-           "title": "Docker Hub Repository Suffers Data Breach 190000 Users Potentially Affected"
+           "link": "https://latesthackingnews.com/2019/04/08/georgia-tech-data-breach-exposed-1-3-million-records/",
+           "title": "Georgia Tech Data Breach Exposed 1.3 Million Records"
        },
 	   {
-           "category": "Exploit",
-           "link": "http://nebelwelt.net/blog/20181231-BOP.html",
-           "title": "Automating data-only attacks through Block Oriented Programming"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/04/03/indian-health-agency-exposed-12-5-million-records-of-pregnant-women/",
+           "title": "Indian Health Agency Exposed 12.5 Million Records Of Pregnant Women"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/04/01/singapore-vendor-suffered-data-breach-compromising-details-of-800k-blood-donors/",
+           "title": "Singapore Vendor Suffered Data Breach Compromising Details Of 800K Blood Donors"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/04/01/asus-employees-exposed-their-corporate-passwords-on-github/",
+           "title": "Asus Employees Exposed Their Corporate Passwords On Github"
        }
    ],
    "events": []
