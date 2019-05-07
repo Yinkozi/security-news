@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/06/unprotected-chinese-smart-city-database-exposed-facial-scans-and-other-explicit-details/",
+           "title": "Unprotected Chinese Smart City Database Exposed Facial Scans And Other Explicit Details"
+       },
+       {
+           "category": "Tool",
+           "link": "https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/",
+           "title": "How To Do Firmware Analysis. Tools, Tips, and Tricks"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
+           "title": "Remote Code Execution on most Dell computers - Bill Demirkapi's Blog - The adventures of a 17 year old security researcher"
+       },
+       {
+           "category": "Reversing",
+           "link": "https://liveoverflow.com/unpacking-buhtrap-malware-basics-of-self-injection-packers-ft-oalabs-2/",
+           "title": "Unpacking Redaman Malware & Basics of Self-Injection Packers"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://wp.me/p7MIao-qO",
+           "title": "Abusing Catalog Hygiene to Bypass Application Whitelisting"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Hacktivist",
+           "link": "https://www.wired.com/story/barium-supply-chain-hackers/",
+           "title": "A Mysterious Hacker Group Is On a Supply Chain Hijacking Spree"
+       },
+	   {
+           "category": "DarkWeb",
+           "link": "https://thehackernews.com/2019/05/europol-darkweb-market.html",
+           "title": "Europol Shuts Down Two Major Illegal Dark Web Trading Platforms"
+       },
+	   {
+           "category": "WAF",
+           "link": "https://soroush.secproject.com/blog/2019/05/x-up-devcap-post-charset-header-in-aspnet-to-bypass-wafs-again/",
+           "title": "X-up-devcap-post-charset Header in ASP.NET to Bypass WAF"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/docker-hub-repository-suffers-data-breach-190-000-users-potentially-affected?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0419_docker",
+           "title": "Docker Hub Repository Suffers Data Breach 190000 Users Potentially Affected"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://nebelwelt.net/blog/20181231-BOP.html",
+           "title": "Automating data-only attacks through Block Oriented Programming"
+       }
+   ],
+   "events": []
+}
