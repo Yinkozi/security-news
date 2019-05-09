@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/binance-cryptocurrency-hacked.html",
+           "title": "Binance Hacked — Hackers Stole Over $40 Million Worth Of Bitcoin"
+       },
+       {
+           "category": "macOS",
+           "link": "https://blog.quarkslab.com/an-overview-of-macos-kernel-debugging.html",
+           "title": "An overview of macOS kernel debugging"
+       },
+       {
+           "category": "Breach",
+           "link": "https://www.nytimes.com/2019/05/06/us/politics/china-hacking-cyber.html",
+           "title": "How Chinese Spies Got the NSA Hacking Tools and Used Them for Attacks"
+       },
+	   {
+           "category": "Merge",
+           "link": "https://thehackernews.com/2019/05/windows-10-linux-kernel.html",
+           "title": "Microsoft Windows 10 will get a full built-in Linux Kernel for WSL 2"
+       },
+       {
+           "category": "Tool",
+           "link": "https://thehackernews.com/2019/05/cybersecurity-incident-response-tool.html",
+           "title": "Incident Response Tool — Stop Active Attacks With Greater Visibility"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit",
+           "title": "Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://thehackernews.com/2019/05/baltimore-ransomware-cyberattack.html",
+           "title": "Baltimore City Shuts Down Most of Its Servers After Ransomware Attack"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/reddr/LibScout",
+           "title": "Third-party library detector for Java and Android apps"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://securityaffairs.co/wordpress/85040/malware/mirai-servers-hack.html",
+           "title": "A bug in Mirai code allows crashing C2 servers"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/buckeye-nsa-hacking-tools.html",
+           "title": "Chinese Hackers Used NSA Hacking Tools Before Shadow Brokers Leaked Them"
+       }
+   ],
+   "events": []
+}
