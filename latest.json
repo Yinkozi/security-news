@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/binance-cryptocurrency-hacked.html",
-           "title": "Binance Hacked — Hackers Stole Over $40 Million Worth Of Bitcoin"
+           "category": "Tool",
+           "link": "https://github.com/0vercl0k/CVE-2019-9810",
+           "title": "GitHub - 0vercl0k/CVE-2019-9810: Exploit for CVE-2019-9810 Firefox on Windows 64 bits."
        },
        {
-           "category": "macOS",
-           "link": "https://blog.quarkslab.com/an-overview-of-macos-kernel-debugging.html",
-           "title": "An overview of macOS kernel debugging"
+           "category": "BReach",
+           "link": "https://enterprise.verizon.com/resources/reports/dbir/",
+           "title": "2019 Data Breach Investigations Report | Verizon Enterprise Solutions"
        },
        {
-           "category": "Breach",
-           "link": "https://www.nytimes.com/2019/05/06/us/politics/china-hacking-cyber.html",
-           "title": "How Chinese Spies Got the NSA Hacking Tools and Used Them for Attacks"
+           "category": "Exploit",
+           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
+           "title": "Remote Code Execution on most Dell computers"
        },
 	   {
-           "category": "Merge",
-           "link": "https://thehackernews.com/2019/05/windows-10-linux-kernel.html",
-           "title": "Microsoft Windows 10 will get a full built-in Linux Kernel for WSL 2"
+           "category": "Tool",
+           "link": "https://thehackernews.com/2019/05/chrome-samesite-cookies.html",
+           "title": "Google Chrome to Introduce Improved Cookie Controls Against Online Tracking"
        },
        {
-           "category": "Tool",
-           "link": "https://thehackernews.com/2019/05/cybersecurity-incident-response-tool.html",
-           "title": "Incident Response Tool — Stop Active Attacks With Greater Visibility"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/uc-browser-url-spoofing.html",
+           "title": "Unpatched Flaw in UC Browser Apps Could Let Hackers Launch Phishing Attacks"
        }
    ],
    "linksCurated": [
        {
-           "category": "Tool",
-           "link": "https://www.symantec.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit",
-           "title": "Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak"
-       },
-	   {
-           "category": "Ransomware",
-           "link": "https://thehackernews.com/2019/05/baltimore-ransomware-cyberattack.html",
-           "title": "Baltimore City Shuts Down Most of Its Servers After Ransomware Attack"
+           "category": "Attack",
+           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
+           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
        },
 	   {
            "category": "Tool",
-           "link": "https://github.com/reddr/LibScout",
-           "title": "Third-party library detector for Java and Android apps"
+           "link": "https://github.com/advanced-threat-research/xbypass",
+           "title": "Tool to facilitate ROP Chain Development for XML Character Sanitization"
        },
 	   {
            "category": "Exploit",
-           "link": "https://securityaffairs.co/wordpress/85040/malware/mirai-servers-hack.html",
-           "title": "A bug in Mirai code allows crashing C2 servers"
+           "link": "https://talosintelligence.com/vulnerability_reports/TALOS-2019-0782",
+           "title": "Alpine Linux Docker Image root User Hard Coded Credential Vulnerability"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/buckeye-nsa-hacking-tools.html",
-           "title": "Chinese Hackers Used NSA Hacking Tools Before Shadow Brokers Leaked Them"
+           "category": "Exploit",
+           "link": "https://blog.duszynski.eu/hijacking-browser-tls-traffic-through-client-domain-hooking/",
+           "title": "Hijacking browser TLS traffic through Client Domain Hooking"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986",
+           "title": "CSRFs Chained For Company Account Takeover"
        }
    ],
    "events": []
