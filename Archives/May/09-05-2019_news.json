@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/0vercl0k/CVE-2019-9810",
+           "title": "GitHub - 0vercl0k/CVE-2019-9810: Exploit for CVE-2019-9810 Firefox on Windows 64 bits."
+       },
+       {
+           "category": "BReach",
+           "link": "https://enterprise.verizon.com/resources/reports/dbir/",
+           "title": "2019 Data Breach Investigations Report | Verizon Enterprise Solutions"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
+           "title": "Remote Code Execution on most Dell computers"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://thehackernews.com/2019/05/chrome-samesite-cookies.html",
+           "title": "Google Chrome to Introduce Improved Cookie Controls Against Online Tracking"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/uc-browser-url-spoofing.html",
+           "title": "Unpatched Flaw in UC Browser Apps Could Let Hackers Launch Phishing Attacks"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Attack",
+           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
+           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/advanced-threat-research/xbypass",
+           "title": "Tool to facilitate ROP Chain Development for XML Character Sanitization"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://talosintelligence.com/vulnerability_reports/TALOS-2019-0782",
+           "title": "Alpine Linux Docker Image root User Hard Coded Credential Vulnerability"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.duszynski.eu/hijacking-browser-tls-traffic-through-client-domain-hooking/",
+           "title": "Hijacking browser TLS traffic through Client Domain Hooking"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986",
+           "title": "CSRFs Chained For Company Account Takeover"
+       }
+   ],
+   "events": []
+}
