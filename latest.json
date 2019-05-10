@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
+           "category": "VMware",
+           "link": "https://www.zerodayinitiative.com/blog/2019/5/7/taking-control-of-vmware-through-the-universal-host-controller-interface-part-1",
+           "title": "Zero Day Initiative - Taking Control of VMware Through the Universal Host Controller Interface: Part 1"
+       },
+       {
            "category": "Tool",
-           "link": "https://github.com/0vercl0k/CVE-2019-9810",
-           "title": "GitHub - 0vercl0k/CVE-2019-9810: Exploit for CVE-2019-9810 Firefox on Windows 64 bits."
+           "link": "https://devblogs.microsoft.com/commandline/announcing-wsl-2/",
+           "title": "Announcing WSL 2 | Windows Command Line Tools For Developers"
        },
        {
-           "category": "BReach",
-           "link": "https://enterprise.verizon.com/resources/reports/dbir/",
-           "title": "2019 Data Breach Investigations Report | Verizon Enterprise Solutions"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/",
-           "title": "Remote Code Execution on most Dell computers"
+           "category": "Tool",
+           "link": "https://1drv.ms/p/s!Akl-R_H0qTIPeiC5Ztb5uVED22k",
+           "title": "Microsoft OneDrive - Access files anywhere. Create docs with free Office Online."
        },
 	   {
-           "category": "Tool",
-           "link": "https://thehackernews.com/2019/05/chrome-samesite-cookies.html",
-           "title": "Google Chrome to Introduce Improved Cookie Controls Against Online Tracking"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
+           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
        },
        {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/05/uc-browser-url-spoofing.html",
-           "title": "Unpatched Flaw in UC Browser Apps Could Let Hackers Launch Phishing Attacks"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/chinese-hacker-anthem-breach.html",
+           "title": "U.S. Charges Chinese Hacker For 2015 Anthem Data Breach"
        }
    ],
    "linksCurated": [
        {
-           "category": "Attack",
-           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
-           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/north-korean-hacking-tool.html",
+           "title": "North Korean Hackers Using ELECTRICFISH Tunnels to Exfiltrate Data"
        },
 	   {
-           "category": "Tool",
-           "link": "https://github.com/advanced-threat-research/xbypass",
-           "title": "Tool to facilitate ROP Chain Development for XML Character Sanitization"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/10/freedom-mobile-exposed-5-million-records-through-unsecured-database/",
+           "title": "Freedom Mobile Exposed 5 Million Records Through Unsecured Database"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/10/binance-crypto-exchange-hacked-losing-41-million-worth-of-bitcoins/",
+           "title": "Binance Crypto Exchange Hacked Losing $41 Million Worth Of Bitcoins"
        },
 	   {
            "category": "Exploit",
-           "link": "https://talosintelligence.com/vulnerability_reports/TALOS-2019-0782",
-           "title": "Alpine Linux Docker Image root User Hard Coded Credential Vulnerability"
+           "link": "https://latesthackingnews.com/2019/05/08/multiple-vulnerabilities-in-printerlogic-software-could-allow-remote-code-execution/",
+           "title": "Multiple Vulnerabilities In PrinterLogic Software Could Allow Remote Code Execution"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://blog.duszynski.eu/hijacking-browser-tls-traffic-through-client-domain-hooking/",
-           "title": "Hijacking browser TLS traffic through Client Domain Hooking"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://medium.com/a-bugz-life/4x-csrfs-chained-for-company-account-takeover-f9fada416986",
-           "title": "CSRFs Chained For Company Account Takeover"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/06/amc-exposed-subscribers-database-containing-1-6-million-records/",
+           "title": "AMC Exposed Subscribers Database Containing 1.6 Million Records"
        }
    ],
    "events": []
