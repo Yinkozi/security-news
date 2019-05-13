@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "VMware",
-           "link": "https://www.zerodayinitiative.com/blog/2019/5/7/taking-control-of-vmware-through-the-universal-host-controller-interface-part-1",
-           "title": "Zero Day Initiative - Taking Control of VMware Through the Universal Host Controller Interface: Part 1"
+           "category": "Exploit",
+           "link": "https://secureyourit.co.uk/wp/2019/05/10/dynamic-microsoft-office-365-amsi-in-memory-bypass-using-vba/",
+           "title": "Dynamic Microsoft Office 365 AMSI In Memory Bypass Using VBA"
+       },
+       {
+           "category": "InfoSec",
+           "link": "https://medium.com/@mattifestation/improving-infosec-or-any-community-industry-in-one-simple-but-mindful-step-651e18296f9",
+           "title": "Improving Infosec in One Simple but Mindful Step"
        },
        {
            "category": "Tool",
-           "link": "https://devblogs.microsoft.com/commandline/announcing-wsl-2/",
-           "title": "Announcing WSL 2 | Windows Command Line Tools For Developers"
+           "link": "https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371",
+           "title": "Millions of people uploaded photos to the Ever app. Then the company used them to develop facial recognition tools. "
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.cybereason.com/blog/excel4.0-macros-now-with-twice-the-bits",
+           "title": "Excel4.0 Macros - Now with Twice The Bits!"
        },
        {
            "category": "Tool",
-           "link": "https://1drv.ms/p/s!Akl-R_H0qTIPeiC5Ztb5uVED22k",
-           "title": "Microsoft OneDrive - Access files anywhere. Create docs with free Office Online."
-       },
-	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
-           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
-       },
-       {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/chinese-hacker-anthem-breach.html",
-           "title": "U.S. Charges Chinese Hacker For 2015 Anthem Data Breach"
+           "link": "https://osandamalith.com/2019/05/11/shellcode-to-dump-the-lsass-process/",
+           "title": "Shellcode to Dump the Lsass Process"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/12/critical-vulnerability-in-ispsystem-software-could-allow-web-session-hijacking/",
+           "title": "Critical Vulnerability In ISPsystem Software Could Allow Web Session Hijacking"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/sim-swapping-hacking.html",
+           "title": "USA Charges 9 SIM Swapping Attackers For Stealing $2.5 Million"
+       },
+	   {
+           "category": "Breach",
            "link": "https://thehackernews.com/2019/05/north-korean-hacking-tool.html",
            "title": "North Korean Hackers Using ELECTRICFISH Tunnels to Exfiltrate Data"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/10/freedom-mobile-exposed-5-million-records-through-unsecured-database/",
-           "title": "Freedom Mobile Exposed 5 Million Records Through Unsecured Database"
+           "link": "https://thehackernews.com/2019/05/chinese-hacker-anthem-breach.html",
+           "title": "USA Charges Chinese Hacker For 2015 Anthem Data Breach"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/10/binance-crypto-exchange-hacked-losing-41-million-worth-of-bitcoins/",
-           "title": "Binance Crypto Exchange Hacked Losing $41 Million Worth Of Bitcoins"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/05/08/multiple-vulnerabilities-in-printerlogic-software-could-allow-remote-code-execution/",
-           "title": "Multiple Vulnerabilities In PrinterLogic Software Could Allow Remote Code Execution"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/06/amc-exposed-subscribers-database-containing-1-6-million-records/",
-           "title": "AMC Exposed Subscribers Database Containing 1.6 Million Records"
+           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
+           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
        }
    ],
    "events": []
