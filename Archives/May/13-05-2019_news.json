@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://secureyourit.co.uk/wp/2019/05/10/dynamic-microsoft-office-365-amsi-in-memory-bypass-using-vba/",
+           "title": "Dynamic Microsoft Office 365 AMSI In Memory Bypass Using VBA"
+       },
+       {
+           "category": "InfoSec",
+           "link": "https://medium.com/@mattifestation/improving-infosec-or-any-community-industry-in-one-simple-but-mindful-step-651e18296f9",
+           "title": "Improving Infosec in One Simple but Mindful Step"
+       },
+       {
+           "category": "Tool",
+           "link": "https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371",
+           "title": "Millions of people uploaded photos to the Ever app. Then the company used them to develop facial recognition tools. "
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.cybereason.com/blog/excel4.0-macros-now-with-twice-the-bits",
+           "title": "Excel4.0 Macros - Now with Twice The Bits!"
+       },
+       {
+           "category": "Tool",
+           "link": "https://osandamalith.com/2019/05/11/shellcode-to-dump-the-lsass-process/",
+           "title": "Shellcode to Dump the Lsass Process"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/12/critical-vulnerability-in-ispsystem-software-could-allow-web-session-hijacking/",
+           "title": "Critical Vulnerability In ISPsystem Software Could Allow Web Session Hijacking"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/sim-swapping-hacking.html",
+           "title": "USA Charges 9 SIM Swapping Attackers For Stealing $2.5 Million"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/north-korean-hacking-tool.html",
+           "title": "North Korean Hackers Using ELECTRICFISH Tunnels to Exfiltrate Data"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/chinese-hacker-anthem-breach.html",
+           "title": "USA Charges Chinese Hacker For 2015 Anthem Data Breach"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
+           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
+       }
+   ],
+   "events": []
+}
