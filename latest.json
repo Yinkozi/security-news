@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://secureyourit.co.uk/wp/2019/05/10/dynamic-microsoft-office-365-amsi-in-memory-bypass-using-vba/",
-           "title": "Dynamic Microsoft Office 365 AMSI In Memory Bypass Using VBA"
+           "link": "https://doar-e.github.io/blog/2019/05/09/circumventing-chromes-hardening-of-typer-bugs/",
+           "title": "Circumventing Chrome's hardening of typer bugs"
        },
        {
-           "category": "InfoSec",
-           "link": "https://medium.com/@mattifestation/improving-infosec-or-any-community-industry-in-one-simple-but-mindful-step-651e18296f9",
-           "title": "Improving Infosec in One Simple but Mindful Step"
+           "category": "Microsoft",
+           "link": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules",
+           "title": "Microsoft recommended block rules (Windows 10) | Microsoft Docs"
        },
-       {
-           "category": "Tool",
-           "link": "https://www.nbcnews.com/tech/security/millions-people-uploaded-photos-ever-app-then-company-used-them-n1003371",
-           "title": "Millions of people uploaded photos to the Ever app. Then the company used them to develop facial recognition tools. "
+	   {
+           "category": "Spyware",
+           "link": "https://thehackernews.com/2019/05/hack-whatsapp-vulnerability.html",
+           "title": "Hackers Used WhatsApp 0-Day Flaw to Secretly Install Spyware On Phones"
        },
-       {
+	   {
            "category": "Exploit",
-           "link": "https://www.cybereason.com/blog/excel4.0-macros-now-with-twice-the-bits",
-           "title": "Excel4.0 Macros - Now with Twice The Bits!"
+           "link": "https://latesthackingnews.com/2019/05/13/vulnerability-discovered-in-unhackable-eyedisk-flash-drive-passwords-exposed/",
+           "title": "Vulnerability Discovered In Unhackable eyeDisk Flash Drive"
        },
        {
-           "category": "Tool",
-           "link": "https://osandamalith.com/2019/05/11/shellcode-to-dump-the-lsass-process/",
-           "title": "Shellcode to Dump the Lsass Process"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/13/unsecured-database-exposed-over-275-million-records-of-indian-citizens/",
+           "title": "Unsecured Database Exposed Over 275 Million Records Of Indian Citizens"
        }
    ],
    "linksCurated": [
        {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/13/online-tutoring-platform-wyzant-suffered-data-breach-exposing-personal-data/",
+           "title": "Online Tutoring Platform Wyzant Suffered Data Breach Exposing Personal Data"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/05/12/critical-vulnerability-in-ispsystem-software-could-allow-web-session-hijacking/",
-           "title": "Critical Vulnerability In ISPsystem Software Could Allow Web Session Hijacking"
+           "link": "https://blog.talosintelligence.com/2019/05/vulnerability-spotlight-multiple.html",
+           "title": "Multiple vulnerabilities in the Roav A1 Dashcam"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/sim-swapping-hacking.html",
-           "title": "USA Charges 9 SIM Swapping Attackers For Stealing $2.5 Million"
+           "category": "Exploit",
+           "link": "https://tttang.com/archive/9/",
+           "title": "RouterOS SMB RCE CVE-2018-7554 Analysis"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/north-korean-hacking-tool.html",
-           "title": "North Korean Hackers Using ELECTRICFISH Tunnels to Exfiltrate Data"
+           "category": "Exploit",
+           "link": "https://www.thezdi.com/blog/2019/3/13/cve-2019-0604-details-of-a-microsoft-sharepoint-rce-vulnerability",
+           "title": "CVE-2019-0604: DETAILS OF A MICROSOFT SHAREPOINT RCE VULNERABILITY"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/chinese-hacker-anthem-breach.html",
-           "title": "USA Charges Chinese Hacker For 2015 Anthem Data Breach"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/magento-credit-card-hacking.html",
-           "title": "Ongoing Attack Stealing Credit Cards From Over A Hundred Shopping Sites"
+           "category": "Android",
+           "link": "https://arxiv.org/abs/1905.02713",
+           "title": "An Analysis of Pre-installed Android Software"
        }
    ],
    "events": []
