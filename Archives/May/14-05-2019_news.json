@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://doar-e.github.io/blog/2019/05/09/circumventing-chromes-hardening-of-typer-bugs/",
+           "title": "Circumventing Chrome's hardening of typer bugs"
+       },
+       {
+           "category": "Microsoft",
+           "link": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules",
+           "title": "Microsoft recommended block rules (Windows 10) | Microsoft Docs"
+       },
+	   {
+           "category": "Spyware",
+           "link": "https://thehackernews.com/2019/05/hack-whatsapp-vulnerability.html",
+           "title": "Hackers Used WhatsApp 0-Day Flaw to Secretly Install Spyware On Phones"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/13/vulnerability-discovered-in-unhackable-eyedisk-flash-drive-passwords-exposed/",
+           "title": "Vulnerability Discovered In Unhackable eyeDisk Flash Drive"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/13/unsecured-database-exposed-over-275-million-records-of-indian-citizens/",
+           "title": "Unsecured Database Exposed Over 275 Million Records Of Indian Citizens"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/13/online-tutoring-platform-wyzant-suffered-data-breach-exposing-personal-data/",
+           "title": "Online Tutoring Platform Wyzant Suffered Data Breach Exposing Personal Data"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.talosintelligence.com/2019/05/vulnerability-spotlight-multiple.html",
+           "title": "Multiple vulnerabilities in the Roav A1 Dashcam"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://tttang.com/archive/9/",
+           "title": "RouterOS SMB RCE CVE-2018-7554 Analysis"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.thezdi.com/blog/2019/3/13/cve-2019-0604-details-of-a-microsoft-sharepoint-rce-vulnerability",
+           "title": "CVE-2019-0604: DETAILS OF A MICROSOFT SHAREPOINT RCE VULNERABILITY"
+       },
+	   {
+           "category": "Android",
+           "link": "https://arxiv.org/abs/1905.02713",
+           "title": "An Analysis of Pre-installed Android Software"
+       }
+   ],
+   "events": []
+}
