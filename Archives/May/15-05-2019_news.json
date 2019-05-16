@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://blogs.technet.microsoft.com/msrc/2019/05/14/prevent-a-worm-by-updating-remote-desktop-services-cve-2019-0708/",
+           "title": "Prevent a worm by updating Remote Desktop Services (CVE-2019-0708)"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://research.checkpoint.com/the-nso-whatsapp-vulnerability-this-is-how-it-happened/",
+           "title": "The NSO WhatsApp Vulnerability - This is How It Happened"
+       },
+       {
+           "category": "Tool",
+           "link": "https://web-in-security.blogspot.com/2019/05/scanning-tls-server-configurations-with.html",
+           "title": "Scanning TLS Server Configurations with Burp Suite"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.bleepingcomputer.com/news/security/linux-kernel-prior-to-508-vulnerable-to-remote-code-execution/",
+           "title": "Linux Kernel Prior to 5.0.8 Vulnerable to Remote Code Execution"
+       },
+       {
+           "category": "Exploit",
+           "link": "http://www.mannulinux.org/2019/05/exploiting-rfi-in-php-bypass-remote-url-inclusion-restriction.html",
+           "title": "Exploiting Remote File Inclusion (RFI) in PHP application and bypassing remote URL inclusion restriction"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/intel-processor-vulnerabilities.html",
+           "title": "New Class of CPU Flaws Affect Almost Every Intel Processor Since 2011"
+       },
+	   {
+           "category": "Patches",
+           "link": "https://thehackernews.com/2019/05/microsoft-security-updates.html",
+           "title": "Microsoft Releases Patches For A Critical 'Wormable Flaw' and 78 Other Issues"
+       },
+	   {
+           "category": "Patches",
+           "link": "https://thehackernews.com/2019/05/adobe-software-updates.html",
+           "title": "Adobe Releases Critical Patches for Flash, Acrobat Reader, and Media Encoder"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/cisco-secure-boot-bypass.html",
+           "title": "Flaw Affecting Millions of Cisco Devices Let Attackers Implant Persistent Backdoor"
+       },
+	   {
+           "category": "Cryptocurrency",
+           "link": "https://thehackernews.com/2019/05/bitcoin-ethereum-hacks.html",
+           "title": "Cryptocurrency Hacks Still Growing — What Does That Mean for the Industry?"
+       }
+   ],
+   "events": []
+}
