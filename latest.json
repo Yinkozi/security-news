@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Microsoft",
-           "link": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules",
-           "title": "Microsoft recommended block rules - Windows 10"
+           "category": "Exploit",
+           "link": "https://blogs.technet.microsoft.com/msrc/2019/05/14/prevent-a-worm-by-updating-remote-desktop-services-cve-2019-0708/",
+           "title": "Prevent a worm by updating Remote Desktop Services (CVE-2019-0708)"
        },
        {
            "category": "Tool",
-           "link": "https://github.com/orangetw/awesome-jenkins-rce-2019",
-           "title": "GitHub - orangetw/awesome-jenkins-rce-2019: RCE in Jenkins"
+           "link": "https://www.microsoft.com/security/blog/2019/05/15/announcing-new-attack-surface-analyzer-2-0/",
+           "title": "Announcing the all new Attack Surface Analyzer 2.0"
        },
        {
-           "category": "Exploit",
-           "link": "https://www.wired.com/story/intel-mds-attack-speculative-execution-buffer/",
-           "title": "Intel Flaw Lets Hackers Siphon Secrets from Millions of PCs"
+           "category": "Malware",
+           "link": "https://www.europol.europa.eu/newsroom/news/goznym-malware-cybercriminal-network-dismantled-in-international-operation",
+           "title": "GOZNYM MALWARE: CYBERCRIMINAL NETWORK DISMANTLED IN INTERNATIONAL OPERATION | Europol"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/16/unsecured-database-exposed-millions-of-personal-records-of-panama-citizens/",
-           "title": "Unsecured Database Exposed Millions Of Personal Records Of Panama Citizens"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/google-titan-security-key.html",
+           "title": "Bluetooth Flaw Found in Google Titan Security Keys, Get Free Replacement"
        },
        {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/05/14/over-100-vulnerabilities-in-building-management-systems-could-trigger-hacks-on-buildings/",
-           "title": "Researcher Discovers Critical Vulnerabilities In Building Management Systems"
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/05/GozNym-banking-malware.html",
+           "title": "GozNym Banking Malware Gang Dismantled by International Law Enforcement"
        }
    ],
    "linksCurated": [
        {
-           "category": "Malware",
-           "link": "https://latesthackingnews.com/2019/05/14/hackers-deployed-malware-on-4600-websites-to-steal-user-information/",
-           "title": "Hackers Deployed Malware On 4600 Websites To Steal User Information"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/stack-overflow-databreach.html",
+           "title": "Hacker Breaks Into Stack Overflow Q and A Site, No Evidence of Data Breach"
+       },
+	   {
+           "category": "TLS",
+           "link": "https://www.bleepingcomputer.com/news/security/attackers-evade-detection-by-randomizing-tls-handshake-ciphers/",
+           "title": "Attackers Evade Detection By Randomizing TLS Handshake Ciphers"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/05/14/serious-sqlite-remote-code-execution-vulnerability-discovered/",
-           "title": "Serious SQLite Remote Code Execution Vulnerability Discovered"
+           "link": "https://www.nccgroup.trust/us/our-research/technical-advisory-citrix-workspace-receiver-remote-code-execution-vulnerability/",
+           "title": "Technical Advisory: Citrix Workspace - Receiver Remote Code Execution Vulnerability"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/14/basketball-firm-behind-indiana-pacer-faced-security-breach/",
-           "title": "Basketball Firm Behind Indiana Pacer Faced Security Breach"
+           "category": "Exploit",
+           "link": "https://blog.sucuri.net/2019/05/persistent-cross-site-scripting-in-wp-live-chat-support-plugin.html",
+           "title": "Persistent Cross-site Scripting in WP Live Chat Support Plugin"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/14/sms-bombing-operation-exposed-after-discovery-of-a-leaky-database/",
-           "title": "SMS Bombing Operation Exposed After Discovery of a Leaky Database"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://www.welivesecurity.com/2019/05/14/plead-malware-mitm-asus-webstorage/",
-           "title": "Plead malware distributed via MitM attacks at router level, misusing ASUS WebStorage"
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/05/17/a-twitter-ios-bug-caused-inadvertent-sharing-of-users-location-data/",
+           "title": "A Twitter iOS Bug Caused Inadvertent Sharing Of Users Location Data"
        }
    ],
    "events": []
