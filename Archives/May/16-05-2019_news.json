@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Microsoft",
+           "link": "https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules",
+           "title": "Microsoft recommended block rules - Windows 10"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/orangetw/awesome-jenkins-rce-2019",
+           "title": "GitHub - orangetw/awesome-jenkins-rce-2019: RCE in Jenkins"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.wired.com/story/intel-mds-attack-speculative-execution-buffer/",
+           "title": "Intel Flaw Lets Hackers Siphon Secrets from Millions of PCs"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/16/unsecured-database-exposed-millions-of-personal-records-of-panama-citizens/",
+           "title": "Unsecured Database Exposed Millions Of Personal Records Of Panama Citizens"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/14/over-100-vulnerabilities-in-building-management-systems-could-trigger-hacks-on-buildings/",
+           "title": "Researcher Discovers Critical Vulnerabilities In Building Management Systems"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Malware",
+           "link": "https://latesthackingnews.com/2019/05/14/hackers-deployed-malware-on-4600-websites-to-steal-user-information/",
+           "title": "Hackers Deployed Malware On 4600 Websites To Steal User Information"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/14/serious-sqlite-remote-code-execution-vulnerability-discovered/",
+           "title": "Serious SQLite Remote Code Execution Vulnerability Discovered"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/14/basketball-firm-behind-indiana-pacer-faced-security-breach/",
+           "title": "Basketball Firm Behind Indiana Pacer Faced Security Breach"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/14/sms-bombing-operation-exposed-after-discovery-of-a-leaky-database/",
+           "title": "SMS Bombing Operation Exposed After Discovery of a Leaky Database"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.welivesecurity.com/2019/05/14/plead-malware-mitm-asus-webstorage/",
+           "title": "Plead malware distributed via MitM attacks at router level, misusing ASUS WebStorage"
+       }
+   ],
+   "events": []
+}
