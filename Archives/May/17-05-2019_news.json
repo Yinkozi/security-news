@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://blogs.technet.microsoft.com/msrc/2019/05/14/prevent-a-worm-by-updating-remote-desktop-services-cve-2019-0708/",
+           "title": "Prevent a worm by updating Remote Desktop Services (CVE-2019-0708)"
+       },
+       {
+           "category": "Tool",
+           "link": "https://www.microsoft.com/security/blog/2019/05/15/announcing-new-attack-surface-analyzer-2-0/",
+           "title": "Announcing the all new Attack Surface Analyzer 2.0"
+       },
+       {
+           "category": "Malware",
+           "link": "https://www.europol.europa.eu/newsroom/news/goznym-malware-cybercriminal-network-dismantled-in-international-operation",
+           "title": "GOZNYM MALWARE: CYBERCRIMINAL NETWORK DISMANTLED IN INTERNATIONAL OPERATION | Europol"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/google-titan-security-key.html",
+           "title": "Bluetooth Flaw Found in Google Titan Security Keys, Get Free Replacement"
+       },
+       {
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/05/GozNym-banking-malware.html",
+           "title": "GozNym Banking Malware Gang Dismantled by International Law Enforcement"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/stack-overflow-databreach.html",
+           "title": "Hacker Breaks Into Stack Overflow Q and A Site, No Evidence of Data Breach"
+       },
+	   {
+           "category": "TLS",
+           "link": "https://www.bleepingcomputer.com/news/security/attackers-evade-detection-by-randomizing-tls-handshake-ciphers/",
+           "title": "Attackers Evade Detection By Randomizing TLS Handshake Ciphers"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.nccgroup.trust/us/our-research/technical-advisory-citrix-workspace-receiver-remote-code-execution-vulnerability/",
+           "title": "Technical Advisory: Citrix Workspace - Receiver Remote Code Execution Vulnerability"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.sucuri.net/2019/05/persistent-cross-site-scripting-in-wp-live-chat-support-plugin.html",
+           "title": "Persistent Cross-site Scripting in WP Live Chat Support Plugin"
+       },
+	   {
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/05/17/a-twitter-ios-bug-caused-inadvertent-sharing-of-users-location-data/",
+           "title": "A Twitter iOS Bug Caused Inadvertent Sharing Of Users Location Data"
+       }
+   ],
+   "events": []
+}
