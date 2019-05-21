@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/google/vxsig",
+           "title": "GitHub - google/vxsig: Automatically generate AV byte signatures from sets of similar binaries."
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/teamviewer-software-hacked.html",
+           "title": "Report Reveals TeamViewer Was Breached By Chinese Hackers In 2016"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://srcincite.io/blog/2019/05/17/panic-at-the-cisco-unauthenticated-rce-in-prime-infrastructure.html",
+           "title": "Unauthenticated Remote Code Execution in Cisco Prime Infrastructure"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/20/apple-pay-used-by-hackers-to-steal-from-prepaid-cards/",
+           "title": "Apple Pay Used By Hackers To Steal From PrePaid Cards"
+       },
+       {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/05/19/apple-rolls-out-ios-12-3-which-introduces-a-number-of-security-fixes/",
+           "title": "Apple Rolls-Out iOS 12.3 Which Introduces A Number of Security Fixes"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/05/19/adobe-may-patch-tuesday-fixes-numerous-critical-vulnerabilities-in-reader-flash-and-media-encoder/",
+           "title": "Adobe May Patch Tuesday Fixes Numerous Critical Vulnerabilities In Reader, Flash, And Media Encoder"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/05/19/microsoft-may-patch-tuesday-fixes-numerous-critical-bugs-as-well-as-a-zero-day/",
+           "title": "Microsoft May Patch Tuesday Fixes Numerous Critical Bugs As Well As A Zero-Day"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://grepharder.github.io/blog/0x04_calling_ios_native_functions_from_python_using_frida_and_rpc.html",
+           "title": "0x04 Calling iOS Native Functions from Python Using Frida and RPC"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://blog.exodusintel.com/2019/05/17/windows-within-windows/",
+           "title": "WINDOWS WITHIN WINDOWS – ESCAPING THE CHROME SANDBOX WITH A WIN32K NDAY"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://paper.seebug.org/926/",
+           "title": "The detailed analysis of WordPress 5.0 RCE"
+       }
+   ],
+   "events": []
+}
