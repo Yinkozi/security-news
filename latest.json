@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
+           "category": "Tool",
+           "link": "https://github.com/nccgroup/Cyber-Defence/blob/master/Signatures/suricata/2019_05_rdp_cve_2019_0708.txt",
+           "title": "Cyber-Defence/2019_05_rdp_cve_2019_0708.txt at master \u00b7 nccgroup/Cyber-Defence \u00b7 GitHub"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/SandboxEscaper/polarbearrepo",
+           "title": "GitHub - SandboxEscaper/polarbearrepo"
+       },
+       {
            "category": "Exploit",
-           "link": "https://blog.exodusintel.com/2019/05/19/pwn2own-2019-microsoft-edge-renderer-exploitation-cve-2019-9999-part-1/",
-           "title": "Pwn2Own 2019: Microsoft Edge Renderer Exploitation (CVE-2019-0940)"
+           "link": "https://shenaniganslabs.io/2019/05/21/LXD-LPE.html",
+           "title": "Linux Privilege Escalation via LXD & Hijacked UNIX Socket Credentials | Shenanigans Labs"
        },
-	   {
+       {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/05/21/linksys-smart-wifi-router-vulnerability-could-leak-sensitive-information-to-hackers/",
-           "title": "Linksys Smart WiFi Router Vulnerability Could Leak Sensitive Information To Hackers"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/21/unsecured-database-of-marketing-firm-ifficient-exposed-8-million-records-of-us-citizens/",
-           "title": "Unsecured Database Of Marketing Firm Ifficient Exposed 8 Million Records Of US Citizens"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/20/stack-overflow-data-breach-exposed-some-user-records-to-hackers/",
-           "title": "Stack Overflow Data Breach Exposed User Records To Hackers"
+           "link": "https://www.zerodayinitiative.com/blog/2019/5/21/rce-without-native-code-exploitation-of-a-write-what-where-in-internet-explorer",
+           "title": "Zero Day Initiative \u2014 RCE Without Native Code: Exploitation of a Write-What-Where in Internet Explorer "
        },
        {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/20/apple-pay-used-by-hackers-to-steal-from-prepaid-cards/",
-           "title": "Apple Pay Used By Hackers To Steal From PrePaid Cards"
+           "link": "https://www.wired.com/story/google-stored-gsuite-passwords-plaintext/",
+           "title": "Google Has Stored Some Passwords in Plaintext Since 2005 | WIRED"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://shenaniganslabs.io/2019/05/21/LXD-LPE.html",
-           "title": "Linux Privilege Escalation via LXD & Hijacked UNIX Socket Credentials"
-       },
-	   {
            "category": "Tool",
-           "link": "https://arxiv.org/abs/1905.07147",
-           "title": "Targeted Greybox Fuzzing with Static Lookahead Analysis"
+           "link": "https://github.com/zerosum0x0/CVE-2019-0708",
+           "title": "GitHub - zerosum0x0/CVE-2019-0708: Scanner PoC for CVE-2019-0708 RDP RCE vuln"
+       },
+	   {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/05/google-intel-huawei.html",
+           "title": "US Tech Giants Google, Intel, Qualcomm, Broadcom Break Up With Huawei"
        },
 	   {
            "category": "Exploit",
-           "link": "https://medium.com/@ab_65156/proactive-detection-content-cve-2019-0708-vs-mitre-att-ck-sigma-elastic-and-arcsight-22f9ebae7d82",
-           "title": "Proactive detection content: CVE-2019–0708 vs MITRE ATT&CK, Sigma, Elastic and ArcSight"
+           "link": "https://thehackernews.com/2019/05/windows-zero-day-vulnerability.html",
+           "title": "PoC Exploit For Unpatched Windows 10 Zero-Day Flaw Published Online"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://snyk.io/blog/crlf-injection-found-in-popular-python-dependency/",
-           "title": "CRLF injection found in popular Python dependency, urllib3"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/22/unsecured-database-exposed-49-million-instagram-influencers-records-from-scraped-data/",
+           "title": "Unsecured Database Exposed 49 Million Instagram Influencers Records From Scraped Data"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://arxiv.org/abs/1905.07643",
-           "title": "Methodically Defeating Nintendo Switch Security"
+           "category": "Decrypter",
+           "link": "https://sec.today/pulses/230bd7e7-5182-43c6-89ce-5fe958d0364f/",
+           "title": "Good news for the victims of the JSWorm 2.0 ransomware, thanks to experts at Emsisoft they can decrypt their file for free"
        }
    ],
    "events": []
