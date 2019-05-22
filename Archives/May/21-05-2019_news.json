@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://blog.exodusintel.com/2019/05/19/pwn2own-2019-microsoft-edge-renderer-exploitation-cve-2019-9999-part-1/",
+           "title": "Pwn2Own 2019: Microsoft Edge Renderer Exploitation (CVE-2019-0940)"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/21/linksys-smart-wifi-router-vulnerability-could-leak-sensitive-information-to-hackers/",
+           "title": "Linksys Smart WiFi Router Vulnerability Could Leak Sensitive Information To Hackers"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/21/unsecured-database-of-marketing-firm-ifficient-exposed-8-million-records-of-us-citizens/",
+           "title": "Unsecured Database Of Marketing Firm Ifficient Exposed 8 Million Records Of US Citizens"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/20/stack-overflow-data-breach-exposed-some-user-records-to-hackers/",
+           "title": "Stack Overflow Data Breach Exposed User Records To Hackers"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/20/apple-pay-used-by-hackers-to-steal-from-prepaid-cards/",
+           "title": "Apple Pay Used By Hackers To Steal From PrePaid Cards"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://shenaniganslabs.io/2019/05/21/LXD-LPE.html",
+           "title": "Linux Privilege Escalation via LXD & Hijacked UNIX Socket Credentials"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://arxiv.org/abs/1905.07147",
+           "title": "Targeted Greybox Fuzzing with Static Lookahead Analysis"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://medium.com/@ab_65156/proactive-detection-content-cve-2019-0708-vs-mitre-att-ck-sigma-elastic-and-arcsight-22f9ebae7d82",
+           "title": "Proactive detection content: CVE-2019–0708 vs MITRE ATT&CK, Sigma, Elastic and ArcSight"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://snyk.io/blog/crlf-injection-found-in-popular-python-dependency/",
+           "title": "CRLF injection found in popular Python dependency, urllib3"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://arxiv.org/abs/1905.07643",
+           "title": "Methodically Defeating Nintendo Switch Security"
+       }
+   ],
+   "events": []
+}
