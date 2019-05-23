@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/nccgroup/Cyber-Defence/blob/master/Signatures/suricata/2019_05_rdp_cve_2019_0708.txt",
-           "title": "Cyber-Defence/2019_05_rdp_cve_2019_0708.txt at master \u00b7 nccgroup/Cyber-Defence \u00b7 GitHub"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/SandboxEscaper/polarbearrepo",
-           "title": "GitHub - SandboxEscaper/polarbearrepo"
-       },
-       {
            "category": "Exploit",
-           "link": "https://shenaniganslabs.io/2019/05/21/LXD-LPE.html",
-           "title": "Linux Privilege Escalation via LXD & Hijacked UNIX Socket Credentials | Shenanigans Labs"
+           "link": "https://thehackernews.com/2019/05/microsoft-zero-day-vulnerability.html",
+           "title": "Hacker Disclosed 3 Unpatched Microsoft Zero-Day Exploits In Less Than 24 Hours"
        },
-       {
+	   {
+           "category": "Patch",
+           "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2019-13/#CVE-2019-9817",
+           "title": "Security vulnerabilities fixed in Firefox 67"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://www.zerodayinitiative.com/blog/2019/5/21/rce-without-native-code-exploitation-of-a-write-what-where-in-internet-explorer",
-           "title": "Zero Day Initiative \u2014 RCE Without Native Code: Exploitation of a Write-What-Where in Internet Explorer "
+           "link": "https://www.thezdi.com/blog/2019/5/21/rce-without-native-code-exploitation-of-a-write-what-where-in-internet-explorer",
+           "title": "RCE WITHOUT NATIVE CODE: EXPLOITATION OF A WRITE-WHAT-WHERE IN INTERNET EXPLORER"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/",
+           "title": "LFI ON PRODUCTION SERVERS IN SPRINGBOARD.GOOGLE.COM"
        },
        {
            "category": "Breach",
-           "link": "https://www.wired.com/story/google-stored-gsuite-passwords-plaintext/",
-           "title": "Google Has Stored Some Passwords in Plaintext Since 2005 | WIRED"
+           "link": "https://latesthackingnews.com/2019/05/23/unistellar-hacking-group-took-over-and-wiped-12000-unsecured-mongodb-databases/",
+           "title": "Unistellar Hacking Group Took Over and Wiped 12,000 Unsecured MongoDB Databases"
        }
    ],
    "linksCurated": [
        {
+           "category": "Exploit",
+           "link": "https://portswigger.net/blog/abusing-jquery-for-css-powered-timing-attacks",
+           "title": "Abusing jQuery for CSS powered timing attacks"
+       },
+       {
            "category": "Tool",
-           "link": "https://github.com/zerosum0x0/CVE-2019-0708",
-           "title": "GitHub - zerosum0x0/CVE-2019-0708: Scanner PoC for CVE-2019-0708 RDP RCE vuln"
+           "link": "https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/",
+           "title": "ScarCruft continues to evolve - introduces Bluetooth harvester"
        },
 	   {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/05/google-intel-huawei.html",
-           "title": "US Tech Giants Google, Intel, Qualcomm, Broadcom Break Up With Huawei"
+           "category": "Tool",
+           "link": "https://diablohorn.com/2019/05/21/introduction-to-analysing-full-disk-encryption-solutions/",
+           "title": "Introduction to analysing full disk encryption solutions"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/05/windows-zero-day-vulnerability.html",
-           "title": "PoC Exploit For Unpatched Windows 10 Zero-Day Flaw Published Online"
+           "link": "https://securelist.com/ddos-report-q1-2019/90792/",
+           "title": "DDoS attacks in Q1 2019"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/22/unsecured-database-exposed-49-million-instagram-influencers-records-from-scraped-data/",
-           "title": "Unsecured Database Exposed 49 Million Instagram Influencers Records From Scraped Data"
-       },
-	   {
-           "category": "Decrypter",
-           "link": "https://sec.today/pulses/230bd7e7-5182-43c6-89ce-5fe958d0364f/",
-           "title": "Good news for the victims of the JSWorm 2.0 ransomware, thanks to experts at Emsisoft they can decrypt their file for free"
+           "category": "Tool",
+           "link": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
+           "title": "Cellular Hacking Toolkit"
        }
    ],
    "events": []
