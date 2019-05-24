@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/05/microsoft-zero-day-vulnerability.html",
+           "title": "Hacker Disclosed 3 Unpatched Microsoft Zero-Day Exploits In Less Than 24 Hours"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.mozilla.org/en-US/security/advisories/mfsa2019-13/#CVE-2019-9817",
+           "title": "Security vulnerabilities fixed in Firefox 67"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.thezdi.com/blog/2019/5/21/rce-without-native-code-exploitation-of-a-write-what-where-in-internet-explorer",
+           "title": "RCE WITHOUT NATIVE CODE: EXPLOITATION OF A WRITE-WHAT-WHERE IN INTERNET EXPLORER"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://omespino.com/write-up-google-bug-bounty-lfi-on-production-servers-in-redacted-google-com-13337-usd/",
+           "title": "LFI ON PRODUCTION SERVERS IN SPRINGBOARD.GOOGLE.COM"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/23/unistellar-hacking-group-took-over-and-wiped-12000-unsecured-mongodb-databases/",
+           "title": "Unistellar Hacking Group Took Over and Wiped 12,000 Unsecured MongoDB Databases"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://portswigger.net/blog/abusing-jquery-for-css-powered-timing-attacks",
+           "title": "Abusing jQuery for CSS powered timing attacks"
+       },
+       {
+           "category": "Tool",
+           "link": "https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/",
+           "title": "ScarCruft continues to evolve - introduces Bluetooth harvester"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://diablohorn.com/2019/05/21/introduction-to-analysing-full-disk-encryption-solutions/",
+           "title": "Introduction to analysing full disk encryption solutions"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://securelist.com/ddos-report-q1-2019/90792/",
+           "title": "DDoS attacks in Q1 2019"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/W00t3k/Awesome-Cellular-Hacking",
+           "title": "Cellular Hacking Toolkit"
+       }
+   ],
+   "events": []
+}
