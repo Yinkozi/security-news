@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/patois/HRDevHelper",
-           "title": "GitHub - patois/HRDevHelper: HexRays decompiler plugin that visualizes the ctree of decompiled functions."
+           "category": "Exploit",
+           "link": "https://phoenhex.re/2019-05-26/attribution-is-hard-at-least-for-dock",
+           "title": "A Safari sandbox escape & LPE"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://modexp.wordpress.com/2019/05/25/windows-injection-finspy/",
+           "title": "Windows Process Injection: KernelCallbackTable used by FinFisher"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://tyranidslair.blogspot.com/2017/07/dg-on-windows-10-s-executing-arbitrary.html",
+           "title": "DG on Windows 10 S: Executing Arbitrary Code"
        },
        {
            "category": "Tool",
-           "link": "https://github.com/tyranid/DeviceGuardBypasses",
-           "title": "GitHub - tyranid/DeviceGuardBypasses: A repository of some of my Windows 10 Device Guard Bypasses"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://thehackernews.com/2019/05/tor-browser-for-android.html",
-           "title": "Tor Browser for Android — First Official App Released On Play Store"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://thehackernews.com/2019/05/cybersecurity-tools-enterprise.html",
-           "title": "5 Cybersecurity Tools Every Business Needs to Know"
+           "link": "https://gist.github.com/caseysmithrc/b7907dfbddb28f42a5b7c2f105994429",
+           "title": ".NET Assembly Bypass"
        },
        {
-           "category": "WikiLeaks",
-           "link": "https://thehackernews.com/2019/05/wikileaks-assange-espionage.html",
-           "title": "U.S. Charges WikiLeaks' Julian Assange With Violating Espionage Act"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/26/hcl-exposed-sensitive-data-passwords-in-plain-text-across-its-subdomains/",
+           "title": "HCL Exposed Sensitive Data, Passwords In Plain Text Across Its Subdomains"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/05/23/windows-10-zero-day-exploit-affecting-task-scheduler-disclosed-online/",
-           "title": "Windows 10 Zero-Day Exploit Affecting Task Scheduler Disclosed Online"
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/05/26/mozilla-patched-16-security-flaws-with-thunderbird-60-7/",
+           "title": "Mozilla Patched 16 Security Flaws With Thunderbird 60.7"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/24/game-golf-app-leaked-218k-user-records-online-through-unsecured-database/",
+           "title": "Game Golf App Leaked 218K User Records Online Through Unsecured Database"
        },
 	   {
            "category": "Exploit",
-           "link": "https://ssd-disclosure.com/archives/3923/ssd-advisory-firefox-sandbox-infoleak-from-uninitialized-handle-in-crosscall",
-           "title": "Firefox Sandbox Infoleak From Uninitialized Handle In CrossCall"
+           "link": "https://docs.microsoft.com/en-us/visualstudio/test/intellitest-manual/input-generation?view=vs-2019",
+           "title": "Input generation using dynamic symbolic execution"
        },
 	   {
            "category": "Exploit",
-           "link": "https://threatpost.com/shade-ransomware-expands-us/145020/",
-           "title": "Shade Ransomware Expands to U.S. Targets"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://www.microsoft.com/security/blog/2019/05/23/new-browser-extensions-for-integrating-microsofts-hardware-based-isolation/",
-           "title": "New browser extensions for integrating Microsoft’s hardware-based isolation"
+           "link": "https://remoteawesomethoughts.blogspot.com/2019/05/windows-10-task-schedulerservice.html",
+           "title": "Windows 10 - Task Scheduler service - Privilege Escalation/Persistence through DLL planting"
        },
 	   {
            "category": "Exploit",
-           "link": "https://pentest-tools.com/blog/wordpress-remote-code-execution-exploit-CVE-2019-8942/",
-           "title": "Analysis of a WordPress Remote Code Execution Attack"
+           "link": "https://www.pentestpartners.com/security-blog/pwning-the-nokelock-api/",
+           "title": "Pwning the Nokelock API"
        }
    ],
    "events": []
