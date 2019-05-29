@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://www.mdsec.co.uk/2019/05/persistence-the-continued-or-prolonged-existence-of-something-part-2-com-hijacking/",
+           "title": "Hijacking: continued or prolonged existence"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/zyantific/IDASkins/releases/tag/v2.1.0",
+           "title": "Release v2.1.0 zyantific/IDASkins"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/rdp-stands-for-really-do-patch-understanding-the-wormable-rdp-vulnerability-cve-2019-0708/",
+           "title": "Understanding the Wormable RDP Vulnerability CVE-2019-0708"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://labs.bluefrostsecurity.de/blog/2019/05/27/tee-exploitation-on-samsung-exynos-devices-introduction/",
+           "title": "TEE Exploitation on Samsung Exynos devices"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/26/hcl-exposed-sensitive-data-passwords-in-plain-text-across-its-subdomains/",
+           "title": "HCL Exposed Sensitive Data, Passwords In Plain Text Across Its Subdomains"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "http://woshub.com/who-reset-the-password-in-ad/",
+           "title": "How to Check Who Reset the Password of a User in Active Directory"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://medium.com/@SecurityBender/building-a-real-world-web-honeypot-for-cve-2019-6340-rce-in-drupal-core-f4240f989c3f",
+           "title": "Building a real-world web honeypot for CVE-2019–6340 (RCE in Drupal core)"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.securepatterns.com/2018/10/cve-2018-14665-xorg-x-server.html",
+           "title": "CVE-2018-14665 : Xorg X Server Vulnerabilities"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://sensepost.com/blog/2019/analysis-of-a-1day-cve-2019-0547-and-discovery-of-a-forgotten-condition-in-the-patch-cve-2019-0726-part-1-of-2/",
+           "title": "Analysis of a 1day (CVE-2019-0547) and discovery of a forgotten condition in the patch (CVE-2019-0726)"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://serhack.me/articles/unpacking-asic-firmware-antminer-exploited",
+           "title": "Unpacking ASIC firmware: AntMiner Exploited"
+       }
+   ],
+   "events": []
+}
