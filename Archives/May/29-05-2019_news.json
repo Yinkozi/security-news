@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://seclists.org/oss-sec/2019/q2/131",
+           "title": "CVE-2018-15664: docker (all versions) is vulnerable to a symlink-race attack"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://sensepost.com/blog/2019/analysis-of-a-1day-cve-2019-0547-and-discovery-of-a-forgotten-condition-in-the-patch-cve-2019-0726-part-1-of-2/",
+           "title": "Analysis of a 1day (cve-2019-0547) and discovery of a forgotten condition in the patch (cve-2019-0726)"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/compsec-snu/razzer",
+           "title": "compsec-snu/razzer: A Kernel fuzzer focusing on race bugs"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/IgorKorkin/MemoryRanger",
+           "title": "IgorKorkin/MemoryRanger: This hypervisor isolates the memory of protected drivers using separate EPT structures for each of them"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://blog.exodusintel.com/2019/05/27/pwn2own-2019-microsoft-edge-sandbox-escape-cve-2019-0938-part-2/",
+           "title": "Microsoft Edge Sandbox Escape (CVE-2019-0938)"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/RolfRolles/PandemicML",
+           "title": "RolfRolles/PandemicML: Pandemic binary program analysis framework in OCaml (abandoned)"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://blog.erratasec.com/2019/05/almost-one-million-vulnerable-to.html",
+           "title": "Almost One Million Vulnerable to BlueKeep Vuln (CVE-2019-0708)"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/TarlogicSecurity/tickey",
+           "title": "TarlogicSecurity/tickey: Tool to extract Kerberos tickets from Linux kernel keys."
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/05/28/first-american-financial-exposed-885-million-sensitive-files-online/",
+           "title": "First American Financial Exposed 885 Million Sensitive Files Online"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/05/28/sensor-calibration-attack-threatens-smartphone-users/",
+           "title": "Sensor Calibration Attack Threatens Smartphone Users"
+       }
+   ],
+   "events": []
+}
