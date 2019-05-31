@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://www.welivesecurity.com/2019/05/29/turla-powershell-usage/",
-           "title": "A dive into Turla PowerShell usage"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/flipboard-data-breach-hacking.html",
-           "title": "Flipboard Database Hacked — Users' Account Information Exposed"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://thehackernews.com/2019/05/hacking-mysql-phpmyadmin.html",
-           "title": "Hackers Infect 50,000 MS-SQL and PHPMyAdmin Servers with Rootkit Malware"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://medium.com/@fs0c131y/how-to-brick-all-samsung-phones-6aae4389bea",
-           "title": "How to brick all Samsung phones"
+           "category": "Adware",
+           "link": "https://9to5google.com/2019/05/29/chrome-ad-blocking-enterprise-manifest-v3/",
+           "title": "Chrome to limit full ad blocking extensions to enterprise users"
        },
        {
-           "category": "Exploit",
-           "link": "https://blogs.technet.microsoft.com/srd/2019/05/29/time-travel-debugging-its-a-blast-from-the-past/",
-           "title": "Time travel debugging: It’s a blast! from the past"
+           "category": "Patch",
+           "link": "https://help.github.com/en/articles/configuring-automated-security-fixes",
+           "title": "Configuring automated security fixes"
+       },
+       {
+           "category": "Malware",
+           "link": "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
+           "title": "HiddenWasp Malware Stings Targeted Linux Systems"
+       },
+       {
+           "category": "Malware",
+           "link": "https://blog.talosintelligence.com/2019/05/10-years-of-virtual-dynamite.html",
+           "title": "Comprehensive Threat Intelligence: A high-level retrospective of ATM malware"
+       },
+       {
+           "category": "Malware",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/05/learning-to-rank-strings-output-for-speedier-malware-analysis.html",
+           "title": "Learning to Rank Strings Output for Speedier Malware Analysis"
        }
    ],
    "linksCurated": [
        {
-           "category": "Defense",
-           "link": "https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software",
-           "title": "Anti Debugging Protection Techniques With Examples"
-       },
-	   {
-           "category": "Patches",
-           "link": "https://outflux.net/blog/archives/2019/05/27/security-things-in-linux-v5-1/",
-           "title": "Security things in Linux v5.1"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://blog.devsecurity.eu/en/blog/dnspy-deserialization-vulnerability",
-           "title": "Vulnerable deserialization in dnSpy and Resource.NET"
-       },
-	   {
-           "category": "Reverse-Engineering",
-           "link": "http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html",
-           "title": "Reverse-engineering Samsung Exynos 9820 bootloader and TZ"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/05/credit-card-checkers-restaurants.html",
+           "title": "Hackers Stole Customers Credit Cards from 103 Checkers and Rallys Restaurants"
        },
 	   {
            "category": "Breach",
-           "link": "https://threatpost.com/200k-personal-records-exposed-by-events-planning-firm/145133/",
-           "title": "200k Personal Records Exposed by Events Planning Firm"
+           "link": "https://latesthackingnews.com/2019/05/31/graphic-design-service-canva-suffers-data-breach-affecting-139-million-users/",
+           "title": "Graphic Design Service Canva Suffers Data Breach Affecting 139 Million Users"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://threatpost.com/wordpress-plugin-has-unpatched-privilege-escalation-flaw-warn-researchers/145150/",
+           "title": "WordPress Plugin Has Unpatched Privilege Escalation Flaw, Warn Researchers"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.airoav.com/mitm-proxy-a-new-search-hijack-method-on-mojave/",
+           "title": "MITM Proxy: New Search Hijack Method on Mojave"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/05/learning-to-rank-strings-output-for-speedier-malware-analysis.html",
+           "title": "Learning to Rank Strings Output for Speedier Malware Analysis"
        }
    ],
    "events": []
