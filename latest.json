@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Adware",
-           "link": "https://9to5google.com/2019/05/29/chrome-ad-blocking-enterprise-manifest-v3/",
-           "title": "Chrome to limit full ad blocking extensions to enterprise users"
+           "category": "Scam",
+           "link": "https://latesthackingnews.com/2019/06/02/beware-of-bitcoin-collector-free-cryptocurrency-scam/",
+           "title": "Beware Of ‘Bitcoin Collector’ Free Cryptocurrency Scam"
        },
        {
-           "category": "Patch",
-           "link": "https://help.github.com/en/articles/configuring-automated-security-fixes",
-           "title": "Configuring automated security fixes"
+           "category": "Exploit",
+           "link": "http://blog.k3170makan.com/2018/05/windows-exploit-development-primer.html",
+           "title": "Windows Exploit Development (primer) : Debugging Threads and Analyzing Memory"
        },
        {
-           "category": "Malware",
-           "link": "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
-           "title": "HiddenWasp Malware Stings Targeted Linux Systems"
+           "category": "Exploit",
+           "link": "http://blog.k3170makan.com/2018/05/windows-exploit-development-primer-ii.html",
+           "title": "Windows Exploit Development (primer II) : Corrupting Structured Exception Handling and Controlling Memory Pointers"
        },
        {
-           "category": "Malware",
-           "link": "https://blog.talosintelligence.com/2019/05/10-years-of-virtual-dynamite.html",
-           "title": "Comprehensive Threat Intelligence: A high-level retrospective of ATM malware"
+           "category": "Exploit",
+           "link": "https://blog.duszynski.eu/tor-ip-disclosure-through-http-301-cache-poisoning/",
+           "title": "Disclosing Tor users' real IP address through 301 HTTP Redirect Cache Poisoning \u2013 duszynski.eu \u2013 Piotr Duszy\u0144ski - Personal Blog"
        },
        {
-           "category": "Malware",
-           "link": "https://www.fireeye.com/blog/threat-research/2019/05/learning-to-rank-strings-output-for-speedier-malware-analysis.html",
-           "title": "Learning to Rank Strings Output for Speedier Malware Analysis"
+           "category": "Tool",
+           "link": "https://latesthackingnews.com/2019/06/02/australia-based-amazingco-exposed-user-data-through-unsecured-database/",
+           "title": "Australia-based AmazingCo Exposed User Data Through Unsecured Database"
        }
    ],
    "linksCurated": [
        {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/05/credit-card-checkers-restaurants.html",
-           "title": "Hackers Stole Customers Credit Cards from 103 Checkers and Rallys Restaurants"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/05/31/graphic-design-service-canva-suffers-data-breach-affecting-139-million-users/",
-           "title": "Graphic Design Service Canva Suffers Data Breach Affecting 139 Million Users"
-       },
-	   {
            "category": "Exploit",
-           "link": "https://threatpost.com/wordpress-plugin-has-unpatched-privilege-escalation-flaw-warn-researchers/145150/",
-           "title": "WordPress Plugin Has Unpatched Privilege Escalation Flaw, Warn Researchers"
+           "link": "https://latesthackingnews.com/2019/06/03/critical-vulnerability-found-in-convert-plus-wordpress-plugin/",
+           "title": "Critical Vulnerability Found In Convert Plus WordPress Plugin"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.airoav.com/mitm-proxy-a-new-search-hijack-method-on-mojave/",
-           "title": "MITM Proxy: New Search Hijack Method on Mojave"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/02/new-york-based-non-profit-people-inc-suffered-data-breach/",
+           "title": "New York-based Non-Profit People Inc. Suffered Data Breach"
        },
 	   {
-           "category": "Tool",
-           "link": "https://www.fireeye.com/blog/threat-research/2019/05/learning-to-rank-strings-output-for-speedier-malware-analysis.html",
-           "title": "Learning to Rank Strings Output for Speedier Malware Analysis"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/02/pyramid-hotel-group-exposed-85gb-of-hotel-security-logs/",
+           "title": "Pyramid Hotel Group Exposed 85GB Of Hotel Security Logs"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/02/checkers-disclosed-data-breach-following-pos-malware-attack/",
+           "title": "Checkers Disclosed Data Breach Following POS Malware Attack"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/02/theta360-exposed-11-million-photographs-through-its-unsecured-database/",
+           "title": "Theta360 Exposed 11 Million Photographs Through Its Unsecured Database"
        }
    ],
    "events": []
