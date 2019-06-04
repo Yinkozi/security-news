@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Scam",
-           "link": "https://latesthackingnews.com/2019/06/02/beware-of-bitcoin-collector-free-cryptocurrency-scam/",
-           "title": "Beware Of ‘Bitcoin Collector’ Free Cryptocurrency Scam"
-       },
-       {
-           "category": "Exploit",
-           "link": "http://blog.k3170makan.com/2018/05/windows-exploit-development-primer.html",
-           "title": "Windows Exploit Development (primer) : Debugging Threads and Analyzing Memory"
-       },
-       {
-           "category": "Exploit",
-           "link": "http://blog.k3170makan.com/2018/05/windows-exploit-development-primer-ii.html",
-           "title": "Windows Exploit Development (primer II) : Corrupting Structured Exception Handling and Controlling Memory Pointers"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://blog.duszynski.eu/tor-ip-disclosure-through-http-301-cache-poisoning/",
-           "title": "Disclosing Tor users' real IP address through 301 HTTP Redirect Cache Poisoning \u2013 duszynski.eu \u2013 Piotr Duszy\u0144ski - Personal Blog"
+           "category": "Tool",
+           "link": "https://casualhacking.io/blog/2019/6/2/debug-uefi-code-by-single-stepping-your-coffee-lake-s-hardware-cpu",
+           "title": "Debug UEFI code by single-stepping your Coffee Lake-S hardware CPU"
        },
        {
            "category": "Tool",
-           "link": "https://latesthackingnews.com/2019/06/02/australia-based-amazingco-exposed-user-data-through-unsecured-database/",
-           "title": "Australia-based AmazingCo Exposed User Data Through Unsecured Database"
+           "link": "https://github.com/0x4D31/fatt",
+           "title": "A pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/supra-smart-tv-hack.html",
+           "title": "SUPRA Smart TV Flaw Lets Attackers Hijack Screens With Any Video"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/macOS-synthetic-click.html",
+           "title": "macOS 0-Day Flaw Lets Hackers Bypass Security Features With Synthetic Clicks"
+       },
+       {
+           "category": "Security",
+           "link": "https://thehackernews.com/2019/06/apple-launches-privacy-focused-sign-in.html",
+           "title": "Apple Launches Privacy-Focused 'Sign in with Apple ID' Feature at WWDC 2019"
        }
    ],
    "linksCurated": [
        {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/01/multiple-chinese-dating-apps-focusing-us-citizens-exposed-42-5-million-records-through-a-single-open-database/",
+           "title": "Multiple Chinese Dating Apps Focusing US Citizens Exposed 42.5 Million Records Through A Single Open Database"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/01/london-based-snaptrip-exposed-customers-data-through-unsecured-database/",
+           "title": "London-based Snaptrip Exposed Customers’ Data Through Unsecured Database"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/06/03/critical-vulnerability-found-in-convert-plus-wordpress-plugin/",
-           "title": "Critical Vulnerability Found In Convert Plus WordPress Plugin"
+           "link": "https://threatpost.com/researcher-exploits-microsofts-notepad-to-pop-a-shell/145242/",
+           "title": "Researcher Exploits Microsoft’s Notepad to Pop a Shell"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/02/new-york-based-non-profit-people-inc-suffered-data-breach/",
-           "title": "New York-based Non-Profit People Inc. Suffered Data Breach"
+           "link": "https://latesthackingnews.com/2019/06/04/leicester-city-football-club-breach-impacted-customers-payment-card-details/",
+           "title": "Leicester City Football Club Breach Impacted Customers’ Payment Card Details"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/02/pyramid-hotel-group-exposed-85gb-of-hotel-security-logs/",
-           "title": "Pyramid Hotel Group Exposed 85GB Of Hotel Security Logs"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/02/checkers-disclosed-data-breach-following-pos-malware-attack/",
-           "title": "Checkers Disclosed Data Breach Following POS Malware Attack"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/02/theta360-exposed-11-million-photographs-through-its-unsecured-database/",
-           "title": "Theta360 Exposed 11 Million Photographs Through Its Unsecured Database"
+           "category": "Exploit",
+           "link": "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
+           "title": "HiddenWasp Malware Stings Targeted Linux Systems"
        }
    ],
    "events": []
