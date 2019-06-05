@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://casualhacking.io/blog/2019/6/2/debug-uefi-code-by-single-stepping-your-coffee-lake-s-hardware-cpu",
-           "title": "Debug UEFI code by single-stepping your Coffee Lake-S hardware CPU"
+           "link": "https://www.fireeye.com/blog/threat-research/2019/06/hunting-com-objects.html",
+           "title": "Hunting COM Objects"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/rdp-windows-lock-screen.html",
+           "title": "Unpatched Bug Let Attackers Bypass Windows Lock Screen On RDP Sessions"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://thehackernews.com/2019/06/firefox-tracking-cookies.html",
+           "title": "Firefox Web Browser Now Blocks Third-Party Tracking Cookies By Default"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://www.wikihow.com/Destroy-a-Hard-Drive",
+           "title": "How to Destroy a Hard Drive"
        },
        {
            "category": "Tool",
-           "link": "https://github.com/0x4D31/fatt",
-           "title": "A pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/06/supra-smart-tv-hack.html",
-           "title": "SUPRA Smart TV Flaw Lets Attackers Hijack Screens With Any Video"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/06/macOS-synthetic-click.html",
-           "title": "macOS 0-Day Flaw Lets Hackers Bypass Security Features With Synthetic Clicks"
-       },
-       {
-           "category": "Security",
-           "link": "https://thehackernews.com/2019/06/apple-launches-privacy-focused-sign-in.html",
-           "title": "Apple Launches Privacy-Focused 'Sign in with Apple ID' Feature at WWDC 2019"
+           "link": "https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/",
+           "title": "How Red Teams Bypass AMSI and WLDP for .NET Dynamic Code"
        }
    ],
    "linksCurated": [
        {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/01/multiple-chinese-dating-apps-focusing-us-citizens-exposed-42-5-million-records-through-a-single-open-database/",
-           "title": "Multiple Chinese Dating Apps Focusing US Citizens Exposed 42.5 Million Records Through A Single Open Database"
+           "category": "Tool",
+           "link": "https://blog.vonahi.io/post-exploitation-with-leprechaun/",
+           "title": "Post-Exploitation with Leprechaun"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/01/london-based-snaptrip-exposed-customers-data-through-unsecured-database/",
-           "title": "London-based Snaptrip Exposed Customers’ Data Through Unsecured Database"
+           "category": "Patch",
+           "link": "https://support.apple.com/en-us/HT210176",
+           "title": "Requirements for trusted certificates in iOS 13 and macOS 10.15"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://threatpost.com/researcher-exploits-microsofts-notepad-to-pop-a-shell/145242/",
-           "title": "Researcher Exploits Microsoft’s Notepad to Pop a Shell"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/04/leicester-city-football-club-breach-impacted-customers-payment-card-details/",
-           "title": "Leicester City Football Club Breach Impacted Customers’ Payment Card Details"
+           "category": "Patch",
+           "link": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html",
+           "title": "Stable Channel Update for Desktop"
        },
 	   {
            "category": "Exploit",
-           "link": "https://www.intezer.com/blog-hiddenwasp-malware-targeting-linux-systems/",
-           "title": "HiddenWasp Malware Stings Targeted Linux Systems"
+           "link": "https://offsec.provadys.com/osquery-windows-acl-misconfiguration-eop.html",
+           "title": "Osquery for Windows access right misconfiguration Elevation of Privilege (CVE-2019-3567)"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://support.apple.com/en-us/HT208050",
+           "title": "Use zsh as the default shell on your Mac"
        }
    ],
    "events": []
