@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://www.fireeye.com/blog/threat-research/2019/06/hunting-com-objects.html",
-           "title": "Hunting COM Objects"
+           "category": "Cryptography",
+           "link": "https://www.wired.com/story/apple-find-my-cryptography-bluetooth/",
+           "title": "Apple's Find My Feature Uses Some Clever Cryptography"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/06/rdp-windows-lock-screen.html",
-           "title": "Unpatched Bug Let Attackers Bypass Windows Lock Screen On RDP Sessions"
+           "link": "https://thehackernews.com/2019/06/iptv-software-hacking.html",
+           "title": "Critical Flaws Found in Widely Used IPTV Software for Online Streaming Services"
        },
 	   {
-           "category": "Tool",
-           "link": "https://thehackernews.com/2019/06/firefox-tracking-cookies.html",
-           "title": "Firefox Web Browser Now Blocks Third-Party Tracking Cookies By Default"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/06/komodo-agama-wallet-hacking.html",
+           "title": "Cryptocurrency Firm Itself Hacked Its Customers to Protect Their Funds From Hackers"
        },
 	   {
-           "category": "Tool",
-           "link": "https://www.wikihow.com/Destroy-a-Hard-Drive",
-           "title": "How to Destroy a Hard Drive"
+           "category": "Patch",
+           "link": "https://threatpost.com/mozilla-google-browsers-security-tracking/145380/",
+           "title": "Mozilla and Google Browsers Get Security, Anti-Tracking Boosts"
        },
        {
-           "category": "Tool",
-           "link": "https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/",
-           "title": "How Red Teams Bypass AMSI and WLDP for .NET Dynamic Code"
+           "category": "Exploit",
+           "link": "https://blog.lookout.com/beitaplugin-adware",
+           "title": "New adware BeiTaAd found hidden within popular applications in app store"
        }
    ],
    "linksCurated": [
        {
-           "category": "Tool",
-           "link": "https://blog.vonahi.io/post-exploitation-with-leprechaun/",
-           "title": "Post-Exploitation with Leprechaun"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/uchicago-medicine-secures-database-after-publicly-exposing-info-on-donors-and-patients/",
+           "title": "UChicago Medicine secures database after publicly exposing info on donors and patients"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/7-7-million-labcorp-patients-affected-by-same-breach-that-impacted-quest-diagnostics/",
+           "title": "7.7 million LabCorp patients affected by same breach that impacted Quest Diagnostics"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/premera-blue-cross-reaches-proposed-72m-settlement-with-2014-breach-victims/",
+           "title": "Premera Blue Cross reaches proposed $72M settlement with 2014 breach victims"
        },
 	   {
            "category": "Patch",
-           "link": "https://support.apple.com/en-us/HT210176",
-           "title": "Requirements for trusted certificates in iOS 13 and macOS 10.15"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/google-chrome-75-rolls-out-with-42-security-fixes/",
+           "title": "Google Chrome 75 rolls out with 42 security fixes"
        },
 	   {
            "category": "Patch",
-           "link": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html",
-           "title": "Stable Channel Update for Desktop"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://offsec.provadys.com/osquery-windows-acl-misconfiguration-eop.html",
-           "title": "Osquery for Windows access right misconfiguration Elevation of Privilege (CVE-2019-3567)"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://support.apple.com/en-us/HT208050",
-           "title": "Use zsh as the default shell on your Mac"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/nsa-urges-admins-to-patch-bluekeep-vulnerability/",
+           "title": "NSA urges admins to patch BlueKeep vulnerability"
        }
    ],
    "events": []
