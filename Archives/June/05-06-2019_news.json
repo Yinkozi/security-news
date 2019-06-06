@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/06/hunting-com-objects.html",
+           "title": "Hunting COM Objects"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/rdp-windows-lock-screen.html",
+           "title": "Unpatched Bug Let Attackers Bypass Windows Lock Screen On RDP Sessions"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://thehackernews.com/2019/06/firefox-tracking-cookies.html",
+           "title": "Firefox Web Browser Now Blocks Third-Party Tracking Cookies By Default"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://www.wikihow.com/Destroy-a-Hard-Drive",
+           "title": "How to Destroy a Hard Drive"
+       },
+       {
+           "category": "Tool",
+           "link": "https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/",
+           "title": "How Red Teams Bypass AMSI and WLDP for .NET Dynamic Code"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "https://blog.vonahi.io/post-exploitation-with-leprechaun/",
+           "title": "Post-Exploitation with Leprechaun"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://support.apple.com/en-us/HT210176",
+           "title": "Requirements for trusted certificates in iOS 13 and macOS 10.15"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://chromereleases.googleblog.com/2019/06/stable-channel-update-for-desktop.html",
+           "title": "Stable Channel Update for Desktop"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://offsec.provadys.com/osquery-windows-acl-misconfiguration-eop.html",
+           "title": "Osquery for Windows access right misconfiguration Elevation of Privilege (CVE-2019-3567)"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://support.apple.com/en-us/HT208050",
+           "title": "Use zsh as the default shell on your Mac"
+       }
+   ],
+   "events": []
+}
