@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Cryptography",
-           "link": "https://www.wired.com/story/apple-find-my-cryptography-bluetooth/",
-           "title": "Apple's Find My Feature Uses Some Clever Cryptography"
+           "category": "Tool",
+           "link": "https://blog.fox-it.com/2019/06/06/syncing-yourself-to-global-administrator-in-azure-active-directory/",
+           "title": "Syncing yourself to Global Administrator in Azure Active Directory"
        },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/06/iptv-software-hacking.html",
-           "title": "Critical Flaws Found in Widely Used IPTV Software for Online Streaming Services"
+       {
+           "category": "Tool",
+           "link": "https://www.blackhillsinfosec.com/check-localadminhash-exfiltrating-all-powershell-history/",
+           "title": "Check-LocalAdminHash & Exfiltrating All PowerShell History"
+       },
+       {
+           "category": "Cryptographic",
+           "link": "https://blog.cryptographyengineering.com/2019/06/05/how-does-apple-privately-find-your-offline-devices/",
+           "title": "How does Apple (privately) find your offline devices? - A Few Thoughts on Cryptographic Engineering"
        },
 	   {
            "category": "Breach",
-           "link": "https://thehackernews.com/2019/06/komodo-agama-wallet-hacking.html",
-           "title": "Cryptocurrency Firm Itself Hacked Its Customers to Protect Their Funds From Hackers"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://threatpost.com/mozilla-google-browsers-security-tracking/145380/",
-           "title": "Mozilla and Google Browsers Get Security, Anti-Tracking Boosts"
+           "link": "https://latesthackingnews.com/2019/06/06/quest-diagnostics-and-labcorp-fall-victims-to-american-medical-collection-agency-breach/",
+           "title": "Quest Diagnostics and LabCorp Fall Victims To American Medical Collection Agency Breach"
        },
        {
-           "category": "Exploit",
-           "link": "https://blog.lookout.com/beitaplugin-adware",
-           "title": "New adware BeiTaAd found hidden within popular applications in app store"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/06/uchicago-medicine-exposed-over-1-million-records-of-potential-donors/",
+           "title": "UChicago Medicine Exposed Over 1 Million Records Of Potential Donors"
        }
    ],
    "linksCurated": [
        {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/uchicago-medicine-secures-database-after-publicly-exposing-info-on-donors-and-patients/",
-           "title": "UChicago Medicine secures database after publicly exposing info on donors and patients"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/windows-eop-exploit.html",
+           "title": "Hacker Discloses Second Zero-Day to Bypass Patch for Windows EoP Flaw"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/7-7-million-labcorp-patients-affected-by-same-breach-that-impacted-quest-diagnostics/",
-           "title": "7.7 million LabCorp patients affected by same breach that impacted Quest Diagnostics"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/windows-rdp-brute-force.html",
+           "title": "New Brute-Force Botnet Targeting Over 1.5 Million RDP Servers Worldwide"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/premera-blue-cross-reaches-proposed-72m-settlement-with-2014-breach-victims/",
-           "title": "Premera Blue Cross reaches proposed $72M settlement with 2014 breach victims"
+           "category": "CyberNews",
+           "link": "https://www.scmagazine.com/home/security-news/assange-wont-face-charges-for-vault-7-releases-report/",
+           "title": "Assange won’t face charges for Vault 7 releases, report"
        },
 	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/google-chrome-75-rolls-out-with-42-security-fixes/",
-           "title": "Google Chrome 75 rolls out with 42 security fixes"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/a-security-researcher-with-a-history-of-finding-bugs-in-apple-products-discovered-a-zero-day-vulnerability-that-can-bypass-apples-security-protections-with-synthetic-clicks/",
+           "title": "MacOS 0-Day Flaw exploits Synthetic Clicks"
        },
 	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/nsa-urges-admins-to-patch-bluekeep-vulnerability/",
-           "title": "NSA urges admins to patch BlueKeep vulnerability"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/malware/blacksquid-malware-wants-to-wrap-its-tentacles-around-web-servers-and-drives/",
+           "title": "BlackSquid malware wants to wrap its tentacles around web servers and drives"
        }
    ],
    "events": []
