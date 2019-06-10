@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://blog.fox-it.com/2019/06/06/syncing-yourself-to-global-administrator-in-azure-active-directory/",
+           "title": "Syncing yourself to Global Administrator in Azure Active Directory"
+       },
+       {
+           "category": "Tool",
+           "link": "https://www.blackhillsinfosec.com/check-localadminhash-exfiltrating-all-powershell-history/",
+           "title": "Check-LocalAdminHash & Exfiltrating All PowerShell History"
+       },
+       {
+           "category": "Cryptographic",
+           "link": "https://blog.cryptographyengineering.com/2019/06/05/how-does-apple-privately-find-your-offline-devices/",
+           "title": "How does Apple (privately) find your offline devices? - A Few Thoughts on Cryptographic Engineering"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/06/quest-diagnostics-and-labcorp-fall-victims-to-american-medical-collection-agency-breach/",
+           "title": "Quest Diagnostics and LabCorp Fall Victims To American Medical Collection Agency Breach"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/06/uchicago-medicine-exposed-over-1-million-records-of-potential-donors/",
+           "title": "UChicago Medicine Exposed Over 1 Million Records Of Potential Donors"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/windows-eop-exploit.html",
+           "title": "Hacker Discloses Second Zero-Day to Bypass Patch for Windows EoP Flaw"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/windows-rdp-brute-force.html",
+           "title": "New Brute-Force Botnet Targeting Over 1.5 Million RDP Servers Worldwide"
+       },
+	   {
+           "category": "CyberNews",
+           "link": "https://www.scmagazine.com/home/security-news/assange-wont-face-charges-for-vault-7-releases-report/",
+           "title": "Assange won’t face charges for Vault 7 releases, report"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/a-security-researcher-with-a-history-of-finding-bugs-in-apple-products-discovered-a-zero-day-vulnerability-that-can-bypass-apples-security-protections-with-synthetic-clicks/",
+           "title": "MacOS 0-Day Flaw exploits Synthetic Clicks"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/malware/blacksquid-malware-wants-to-wrap-its-tentacles-around-web-servers-and-drives/",
+           "title": "BlackSquid malware wants to wrap its tentacles around web servers and drives"
+       }
+   ],
+   "events": []
+}
