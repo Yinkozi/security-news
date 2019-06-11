@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Breach",
-           "link": "https://arstechnica.com/information-technology/2019/06/google-confirms-2017-supply-chain-attack-that-sneaked-backdoor-on-android-devices/",
-           "title": "Google confirms that advanced backdoor came preinstalled on Android devices"
+           "category": "Tool",
+           "link": "https://github.com/xFreed0m/RDPassSpray",
+           "title": "GitHub - xFreed0m/RDPassSpray: Python3 tool to perform password spraying using RDP"
        },
        {
            "category": "Tool",
-           "link": "https://github.com/FuzzySecurity/Fermion",
-           "title": "GitHub - FuzzySecurity/Fermion: Fermion, an electron wrapper for Frida & Monaco."
+           "link": "https://cryptosense.com/blog/how-ledger-hacked-an-hsm/",
+           "title": "How Ledger Hacked an HSM"
        },
-       {
+	   {
            "category": "Exploit",
-           "link": "https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm",
-           "title": "Plot to steal cryptocurrency foiled by the npm"
+           "link": "https://thehackernews.com/2019/06/wordpress-live-chat-plugin.html",
+           "title": "New Flaw in WordPress Live Chat Plugin Lets Hackers Steal and Hijack Sessions"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/linux-vim-vulnerability.html",
+           "title": "Your Linux Can Get Hacked Just by Opening a File in Vim or Neovim Editor"
        },
        {
-           "category": "Tool",
-           "link": "https://github.com/thalium/icebox",
-           "title": "GitHub - thalium/icebox: Virtual Machine Introspection, Tracing & Debugging"
-       },
-       {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/a-series-of-data-breaches-involving-the-medical-information-of-more-than-20-million-has-attracted-the-attention-of-congress/",
-           "title": "Medical data breaches gain lawmakers attention"
+           "category": "Phishing",
+           "link": "https://www.scmagazine.com/home/security-news/phishing/the-irs-once-again-is-warning-taxpayers-to-be-on-the-lookout-for-phishing-scams-even-after-tax-season-has-ended/",
+           "title": "IRS warns users of post-tax season phishing scams"
        }
    ],
    "linksCurated": [
        {
-           "category": "Backdoor",
-           "link": "https://www.scmagazine.com/home/security-news/malware/new-hawkball-backdoor-attacks-government-sector-in-central-asia/",
-           "title": "New Hawkball backdoor attacks government sector in Central Asia"
-       },
-	   {
-           "category": "Indictment",
-           "link": "https://www.scmagazine.com/home/security-news/cybercrime/court-unseals-indictment-against-alleged-darkode-hacking-forum-members/",
-           "title": "Court unseals indictment against alleged Darkode hacking forum members"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/cryptocurrency/the-cryptocurrency-wallet-service-gatehub-was-hit-by-a-cyber-heist-that-netted-23-2-million-ripple-coins-xrp-worth-nearly-9-5-million/",
+           "title": "GateHub hit for $9.5 million worth of cryptocurrency"
        },
 	   {
            "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/russias-2016-election-interference-was-highly-organized-but-fixes-for-2020-are-possible-reports/",
-           "title": "Russia’s 2016 election interference was highly organized, but fixes for 2020 are possible"
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-9-5-billion-rows-of-email-metadata-owned-by-shanghai- -tong-university/",
+           "title": "Shanghai Jiao Tong University exposed 8.4 TB of email data"
        },
 	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-to-address-vulnerabilities-in-multiple-cisco-products-including-flaws-that-could-allow-a-remote-attacker-could-exploit-to-take-control-of-an-affected-system/",
-           "title": "Cisco updates include fixes for high rated RCE, DoS flaws"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/adversaries-exploit-weblogic-bug-to-deliver-cryptominer-use-cer-files-for-obfuscation/",
+           "title": "Adversaries exploit WebLogic bug to deliver cryptominer, use .cer files for obfuscation"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/10/opko-health-inc-comes-up-as-the-latest-prey-to-amca-data-breach/",
-           "title": "Opko Health Inc. Comes Up As The Latest Prey To AMCA Data Breach"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/muddywater-fin8-and-platinum-threat-actors-back-in-action/",
+           "title": "MuddyWater, Fin8 and Platinum threat actors back in action"
+       },
+	   {
+           "category": "Scam",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/russia-is-believed-to-have-hacked-the-europian-unions-embassy-in-moscow-in-a-sophisticated-cyber-espionage-attack-to-steal-highly-sensitive-material/",
+           "title": "Russia accused of hacking EU embassy in Moscow"
        }
    ],
    "events": []
