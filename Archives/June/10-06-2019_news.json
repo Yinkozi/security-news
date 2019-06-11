@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://arstechnica.com/information-technology/2019/06/google-confirms-2017-supply-chain-attack-that-sneaked-backdoor-on-android-devices/",
+           "title": "Google confirms that advanced backdoor came preinstalled on Android devices"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/FuzzySecurity/Fermion",
+           "title": "GitHub - FuzzySecurity/Fermion: Fermion, an electron wrapper for Frida & Monaco."
+       },
+       {
+           "category": "Exploit",
+           "link": "https://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm",
+           "title": "Plot to steal cryptocurrency foiled by the npm"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/thalium/icebox",
+           "title": "GitHub - thalium/icebox: Virtual Machine Introspection, Tracing & Debugging"
+       },
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/a-series-of-data-breaches-involving-the-medical-information-of-more-than-20-million-has-attracted-the-attention-of-congress/",
+           "title": "Medical data breaches gain lawmakers attention"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Backdoor",
+           "link": "https://www.scmagazine.com/home/security-news/malware/new-hawkball-backdoor-attacks-government-sector-in-central-asia/",
+           "title": "New Hawkball backdoor attacks government sector in Central Asia"
+       },
+	   {
+           "category": "Indictment",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/court-unseals-indictment-against-alleged-darkode-hacking-forum-members/",
+           "title": "Court unseals indictment against alleged Darkode hacking forum members"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/russias-2016-election-interference-was-highly-organized-but-fixes-for-2020-are-possible-reports/",
+           "title": "Russia’s 2016 election interference was highly organized, but fixes for 2020 are possible"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-to-address-vulnerabilities-in-multiple-cisco-products-including-flaws-that-could-allow-a-remote-attacker-could-exploit-to-take-control-of-an-affected-system/",
+           "title": "Cisco updates include fixes for high rated RCE, DoS flaws"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/10/opko-health-inc-comes-up-as-the-latest-prey-to-amca-data-breach/",
+           "title": "Opko Health Inc. Comes Up As The Latest Prey To AMCA Data Breach"
+       }
+   ],
+   "events": []
+}
