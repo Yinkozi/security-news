@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Future",
-           "link": "https://www.troyhunt.com/project-svalbard-the-future-of-have-i-been-pwned/",
-           "title": "Project Svalbard: The Future of Have I Been Pwned"
-       },
-       {
-           "category": "Scam",
-           "link": "https://www.vice.com/en_us/article/ywyxex/deepfake-of-mark-zuckerberg-facebook-fake-video-policy",
-           "title": "This Deepfake of Mark Zuckerberg Tests Facebook - Fake Video Policies"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/microsoft/avml",
-           "title": "GitHub - microsoft/avml: AVML - Acquire Volatile Memory for Linux"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/thalium/icebox",
-           "title": "GitHub - thalium/icebox: Virtual Machine Introspection, Tracing & Debugging"
+           "category": "Exploit",
+           "link": "https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/",
+           "title": "Heap Overflow Exploitation on Windows 10 Explained"
        },
        {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/opinion/executive-insight/a-sleeping-security-threat-how-to-protect-against-container-compromise/",
-           "title": "A sleeping security threat: How to protect against container compromise"
+           "link": "https://blog.preempt.com/security-advisory-critical-vulnerabilities-in-ntlm",
+           "title": "Security Advisory: Critical Vulnerabilities in NTLM Allow Remote Code Execution and Cloud Resources Compromise"
+       },
+       {
+           "category": "Ransomware",
+           "link": "https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst",
+           "title": "Ransomware identification for the judicious analyst"
+       },
+       {
+           "category": "Discussion",
+           "link": "https://theintercept.com/2019/06/12/darkmatter-uae-hack-intercept/",
+           "title": "Team of American Hackers and Emirati Spies Discussed Attacking The Intercept"
+       },
+       {
+           "category": "Tool",
+           "link": "https://medium.com/@olafhartong/sysmon-10-0-new-features-and-changes-e82106f2e00",
+           "title": "Sysmon 10.0 - New features and changes"
        }
    ],
    "linksCurated": [
        {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/travelers-photos-stolen-after-cbp-subcontractor-breached/",
-           "title": "Travelers photos stolen after CBP subcontractor breached"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/paradise-lost-1-1-million-accounts-exposed-in-2018-breach-of-gaming-site-emuparadise/",
-           "title": "Paradise lost - 1.1 million accounts exposed in 2018 breach of gaming site Emuparadise"
+           "category": "Spy",
+           "link": "https://0xffff0800.blogspot.com/2019/06/a-muddywater-cyber-spy.html",
+           "title": "A MUDDYWATER CYBER SPY"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/06/12/security-lapse-at-fortune-500-company-tech-data-leaked-264gb-of-data/",
-           "title": "Security Lapse At Fortune 500 Company Tech Data Leaked 264GB Of Data"
+           "link": "https://www.secjuice.com/bypass-xss-filters-using-javascript-global-variables/",
+           "title": "Bypass XSS filters using JavaScript global variables"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://securityaffairs.co/wordpress/86842/hacking/diebold-nixdorf-atm-flaw.html",
+           "title": "Automated teller machine vendor Diebold Nixdorf has released security updates to address a remote code execution vulnerability in older ATMs"
        },
 	   {
            "category": "Exploit",
-           "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2019-2725-exploited-and-certificate-files-used-for-obfuscation-to-deliver-monero-miner/",
-           "title": "CVE-2019-2725 Exploited and Certificate Files Used for Obfuscation to Deliver Monero Miner"
+           "link": "https://thehackernews.com/2019/06/evernote-extension-hacking.html",
+           "title": "Critical Flaw Reported in Popular Evernote Extension for Chrome Users"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/06/rambleed-dram-attack.html",
-           "title": "RAMBleed Attack – Flip Bits to Steal Sensitive Data from Computer Memory"
+           "category": "DDoS",
+           "link": "https://thehackernews.com/2019/06/telegram-ddos-attack.html",
+           "title": "Telegram Suffers Powerful DDoS Attack From China During Hong Kong Protests"
        }
    ],
    "events": []
