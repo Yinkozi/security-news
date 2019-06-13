@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Future",
+           "link": "https://www.troyhunt.com/project-svalbard-the-future-of-have-i-been-pwned/",
+           "title": "Project Svalbard: The Future of Have I Been Pwned"
+       },
+       {
+           "category": "Scam",
+           "link": "https://www.vice.com/en_us/article/ywyxex/deepfake-of-mark-zuckerberg-facebook-fake-video-policy",
+           "title": "This Deepfake of Mark Zuckerberg Tests Facebook - Fake Video Policies"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/microsoft/avml",
+           "title": "GitHub - microsoft/avml: AVML - Acquire Volatile Memory for Linux"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/thalium/icebox",
+           "title": "GitHub - thalium/icebox: Virtual Machine Introspection, Tracing & Debugging"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/a-sleeping-security-threat-how-to-protect-against-container-compromise/",
+           "title": "A sleeping security threat: How to protect against container compromise"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/travelers-photos-stolen-after-cbp-subcontractor-breached/",
+           "title": "Travelers photos stolen after CBP subcontractor breached"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/paradise-lost-1-1-million-accounts-exposed-in-2018-breach-of-gaming-site-emuparadise/",
+           "title": "Paradise lost - 1.1 million accounts exposed in 2018 breach of gaming site Emuparadise"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/06/12/security-lapse-at-fortune-500-company-tech-data-leaked-264gb-of-data/",
+           "title": "Security Lapse At Fortune 500 Company Tech Data Leaked 264GB Of Data"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2019-2725-exploited-and-certificate-files-used-for-obfuscation-to-deliver-monero-miner/",
+           "title": "CVE-2019-2725 Exploited and Certificate Files Used for Obfuscation to Deliver Monero Miner"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/rambleed-dram-attack.html",
+           "title": "RAMBleed Attack – Flip Bits to Steal Sensitive Data from Computer Memory"
+       }
+   ],
+   "events": []
+}
