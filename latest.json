@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/",
-           "title": "Heap Overflow Exploitation on Windows 10 Explained"
+           "link": "https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/",
+           "title": "Exploiting CVE-2019-1040 - Combining relay vulnerabilities for RCE and Domain Admin"
        },
-       {
+	   {
+           "category": "Patch",
+           "link": "https://thehackernews.com/2019/06/android-security-key-ios.html",
+           "title": "Android Built-in Security Key Now Works With iOS Devices For Secure Login"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://blog.preempt.com/security-advisory-critical-vulnerabilities-in-ntlm",
-           "title": "Security Advisory: Critical Vulnerabilities in NTLM Allow Remote Code Execution and Cloud Resources Compromise"
+           "link": "https://www.scmagazine.com/home/security-news/gaming-industry-has-become-popular-target-of-credential-stuffing-attacks-study/",
+           "title": "Gaming industry has become popular target of credential stuffing attacks"
+       },
+	   {
+           "category": "Outlaw",
+           "link": "https://www.scmagazine.com/home/security-news/malware/the-outlaw-hacking-group-was-detected-in-the-early-stages-of-a-botnet-campaign-spreading-monero-miners-bundled-with-perl-based-backdoors/",
+           "title": "The Outlaw hacking group back to spreading cryptominers and backdoors"
        },
        {
            "category": "Ransomware",
-           "link": "https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst",
-           "title": "Ransomware identification for the judicious analyst"
-       },
-       {
-           "category": "Discussion",
-           "link": "https://theintercept.com/2019/06/12/darkmatter-uae-hack-intercept/",
-           "title": "Team of American Hackers and Emirati Spies Discussed Attacking The Intercept"
-       },
-       {
-           "category": "Tool",
-           "link": "https://medium.com/@olafhartong/sysmon-10-0-new-features-and-changes-e82106f2e00",
-           "title": "Sysmon 10.0 - New features and changes"
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/lake-city-recovering-from-ransomware-attack/",
+           "title": "Lake City recovering from ransomware attack"
        }
    ],
    "linksCurated": [
        {
-           "category": "Spy",
-           "link": "https://0xffff0800.blogspot.com/2019/06/a-muddywater-cyber-spy.html",
-           "title": "A MUDDYWATER CYBER SPY"
-       },
-	   {
            "category": "Exploit",
-           "link": "https://www.secjuice.com/bypass-xss-filters-using-javascript-global-variables/",
-           "title": "Bypass XSS filters using JavaScript global variables"
+           "link": "https://latesthackingnews.com/2019/06/14/serious-bug-in-cisco-ios-xe-software-web-interface-could-allow-remote-attacks/",
+           "title": "Serious Bug In Cisco IOS XE Software Web Interface Could Allow Remote Attacks"
        },
 	   {
            "category": "Patch",
-           "link": "https://securityaffairs.co/wordpress/86842/hacking/diebold-nixdorf-atm-flaw.html",
-           "title": "Automated teller machine vendor Diebold Nixdorf has released security updates to address a remote code execution vulnerability in older ATMs"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/mozilla-google-patch-security-issues-in-thunderbird-and-chrome/",
+           "title": "Mozilla, Google patch security issues in Thunderbird and Chrome"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/06/evernote-extension-hacking.html",
-           "title": "Critical Flaw Reported in Popular Evernote Extension for Chrome Users"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/unpatched-bug-in-windows-symcrypt-library-could-cause-dos-condition-warns-researcher/",
+           "title": "Unpatched bug in Windows SymCrypt library could cause DoS condition, warns researcher"
        },
 	   {
-           "category": "DDoS",
-           "link": "https://thehackernews.com/2019/06/telegram-ddos-attack.html",
-           "title": "Telegram Suffers Powerful DDoS Attack From China During Hong Kong Protests"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/asco-industries-silent-on-ransomware-attack/",
+           "title": "Spirit AeroSystems confirms ASCO Industries cyberattack"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.zimperium.com/whatsapp-buffer-overflow-vulnerability-under-the-scope/",
+           "title": "WhatsApp Buffer Overflow Vulnerability: Under the Scope"
        }
    ],
    "events": []
