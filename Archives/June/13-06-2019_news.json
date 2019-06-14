@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/",
+           "title": "Heap Overflow Exploitation on Windows 10 Explained"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://blog.preempt.com/security-advisory-critical-vulnerabilities-in-ntlm",
+           "title": "Security Advisory: Critical Vulnerabilities in NTLM Allow Remote Code Execution and Cloud Resources Compromise"
+       },
+       {
+           "category": "Ransomware",
+           "link": "https://www.gdatasoftware.com/blog/2019/06/31666-ransomware-identification-for-the-judicious-analyst",
+           "title": "Ransomware identification for the judicious analyst"
+       },
+       {
+           "category": "Discussion",
+           "link": "https://theintercept.com/2019/06/12/darkmatter-uae-hack-intercept/",
+           "title": "Team of American Hackers and Emirati Spies Discussed Attacking The Intercept"
+       },
+       {
+           "category": "Tool",
+           "link": "https://medium.com/@olafhartong/sysmon-10-0-new-features-and-changes-e82106f2e00",
+           "title": "Sysmon 10.0 - New features and changes"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Spy",
+           "link": "https://0xffff0800.blogspot.com/2019/06/a-muddywater-cyber-spy.html",
+           "title": "A MUDDYWATER CYBER SPY"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.secjuice.com/bypass-xss-filters-using-javascript-global-variables/",
+           "title": "Bypass XSS filters using JavaScript global variables"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://securityaffairs.co/wordpress/86842/hacking/diebold-nixdorf-atm-flaw.html",
+           "title": "Automated teller machine vendor Diebold Nixdorf has released security updates to address a remote code execution vulnerability in older ATMs"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/evernote-extension-hacking.html",
+           "title": "Critical Flaw Reported in Popular Evernote Extension for Chrome Users"
+       },
+	   {
+           "category": "DDoS",
+           "link": "https://thehackernews.com/2019/06/telegram-ddos-attack.html",
+           "title": "Telegram Suffers Powerful DDoS Attack From China During Hong Kong Protests"
+       }
+   ],
+   "events": []
+}
