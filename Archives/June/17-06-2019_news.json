@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://modexp.wordpress.com/2019/06/15/4083/",
+           "title": "Windows Process Injection : Windows Notification Facility | modexp"
+       },
+       {
+           "category": "Tool",
+           "link": "https://www.hex-rays.com/products/ida/7.3/index.shtml",
+           "title": "IDA: What's new in 7.3"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/Kira-cxy/qemu-vm-escape",
+           "title": "GitHub - Kira-cxy/qemu-vm-escape"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/thalium/icebox",
+           "title": "GitHub - thalium/icebox: Virtual Machine Introspection, Tracing & Debugging"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/17/graceland-university-data-breach-exposed-sensitive-personal-information/",
+           "title": "Graceland University Data Breach Exposed Sensitive Personal Information"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/06/16/critical-vulnerability-in-drug-infusion-system-could-alter-drug-dosage/",
+           "title": "Critical Vulnerability In Drug Infusion System Could Alter Drug Dosage"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/06/16/microsoft-june-patch-tuesday-addressed-88-vulnerabilities-including-zero-days/",
+           "title": "Microsoft June Patch Tuesday Addressed 88 Vulnerabilities Including Zero-Days"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/17/oregon-state-university-data-breach-disclosed-sensitive-information/",
+           "title": "Oregon State University Data Breach Disclosed Sensitive Information"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/asco-industries-confirms-ransomware-attack/",
+           "title": "ASCO Industries confirms ransomware attack"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/u-s-defense-intel-ramp-up-efforts-to-insert-malware-in-russias-grid/",
+           "title": "U.S. defense, intel ramp up efforts to insert malware in Russia’s grid"
+       }
+   ],
+   "events": []
+}
