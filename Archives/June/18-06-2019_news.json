@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "undefined",
+           "link": "https://alephsecurity.com/2019/06/17/xnu-qemu-arm64-1/",
+           "title": "Running iOS in QEMU to an interactive bash shell (1): tutorial"
+       },
+       {
+           "category": "undefined",
+           "link": "https://ired.team/offensive-security/code-execution/forcing-iexplore.exe-to-load-a-malicious-dll-via-com-abuse",
+           "title": "Forcing Iexplore.exe to Load a Malicious DLL via COM Abuse - Red Teaming Experiments"
+       },
+	   {
+           "category": "Spoofing",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/what-can-be-done-about-the-growing-threat-of-spoofing/",
+           "title": "What can be done about the growing threat of spoofing?"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/mirai-malware-family-variants-rack-up-exploit-totals/",
+           "title": "Mirai malware family variants rack up exploit totals"
+       },
+       {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/trendmicro-researchers-have-discovered-in-the-wild-a-botnet-malware-that-infiltrates-containers-via-exposed-docker-apis/",
+           "title": "AESDDoS botnet malware target Docker containers"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flaw-in-alaris-medical-devices-exposes-infusion-pumps-to-possible-sabotage/",
+           "title": "Flaw in Alaris medical devices exposes infusion pumps to possible sabotage"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/email-security/exim-vulnerability-being-exploited-in-the-wild/",
+           "title": "Exim vulnerability being exploited in the wild"
+       },
+	   {
+           "category": "Surveillance",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/the-aclu-is-calling-for-increased-awareness-of-the-possibility-for-millions-of-surveillance-cameras-to-turn-into-ai-security-guards/",
+           "title": "ACLU warns security cameras could lead to surveillance"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/online-invitation-company-evite-announced-it-was-affected-by-a-data-breach-involving-the-unauthorized-access-of-customer-information/",
+           "title": "Evite hit with data breach"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/18/missouri-southern-state-university-suffered-data-breach-following-phishing-attack/",
+           "title": "Missouri Southern State University Suffered Data Breach Following Phishing Attack"
+       }
+   ],
+   "events": []
+}
