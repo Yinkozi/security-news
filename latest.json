@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "undefined",
-           "link": "https://alephsecurity.com/2019/06/17/xnu-qemu-arm64-1/",
-           "title": "Running iOS in QEMU to an interactive bash shell (1): tutorial"
+           "category": "Tool",
+           "link": "https://github.com/utkonos/lst2x64dbg",
+           "title": "GitHub - utkonos/lst2x64dbg: Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database."
        },
        {
-           "category": "undefined",
-           "link": "https://ired.team/offensive-security/code-execution/forcing-iexplore.exe-to-load-a-malicious-dll-via-com-abuse",
-           "title": "Forcing Iexplore.exe to Load a Malicious DLL via COM Abuse - Red Teaming Experiments"
-       },
-	   {
-           "category": "Spoofing",
-           "link": "https://www.scmagazine.com/home/opinion/executive-insight/what-can-be-done-about-the-growing-threat-of-spoofing/",
-           "title": "What can be done about the growing threat of spoofing?"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/mirai-malware-family-variants-rack-up-exploit-totals/",
-           "title": "Mirai malware family variants rack up exploit totals"
+           "category": "Tool",
+           "link": "https://github.com/SpiderLabs/scavenger.git",
+           "title": "GitHub - SpiderLabs/scavenger: scavenger :  is a multi-threaded post-exploitation scanning tool for scavenging systems, finding most frequently used files and folders as well as interesting files containing sensitive information."
        },
        {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/cybercrime/trendmicro-researchers-have-discovered-in-the-wild-a-botnet-malware-that-infiltrates-containers-via-exposed-docker-apis/",
-           "title": "AESDDoS botnet malware target Docker containers"
+           "category": "Exploit",
+           "link": "https://access.redhat.com/security/vulnerabilities/tcpsack",
+           "title": "TCP SACK PANIC - Kernel vulnerabilities - CVE-2019-11477, CVE-2019-11478, CVE-2019-11479"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/06/18/instagram-loophole-exposes-childrens-contact-details/",
+           "title": "Instagram Loophole Exposes Childrens Contact Details"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/19/xsocialmedia-exposed-150000-records-containing-personal-and-medical-information/",
+           "title": "XSocialMedia Exposed 150,000 Records Containing Personal And Medical Information"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flaw-in-alaris-medical-devices-exposes-infusion-pumps-to-possible-sabotage/",
-           "title": "Flaw in Alaris medical devices exposes infusion pumps to possible sabotage"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/19/australian-catholic-university-discloses-data-breach/",
+           "title": "Australian Catholic University Discloses Data Breach"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/email-security/exim-vulnerability-being-exploited-in-the-wild/",
-           "title": "Exim vulnerability being exploited in the wild"
-       },
-	   {
-           "category": "Surveillance",
-           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/the-aclu-is-calling-for-increased-awareness-of-the-possibility-for-millions-of-surveillance-cameras-to-turn-into-ai-security-guards/",
-           "title": "ACLU warns security cameras could lead to surveillance"
+           "category": "Phishing",
+           "link": "https://www.scmagazine.com/home/security-news/google-calendar-alerts-can-expose-users-to-phishing-scams/",
+           "title": "Google Calendar alerts can expose users to phishing scams"
        },
 	   {
            "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/online-invitation-company-evite-announced-it-was-affected-by-a-data-breach-involving-the-unauthorized-access-of-customer-information/",
-           "title": "Evite hit with data breach"
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-forces-amcas-parent-firm-to-file-chapter-11-bankruptcy/",
+           "title": "Data breach forces AMCA parent firm to file Chapter 11 bankruptcy"
+       },
+	   {
+           "category": "Cryptocurrency",
+           "link": "https://www.scmagazine.com/home/finance/facebook-announced-its-own-cryptocurrency-libra-that-will-be-backed-and-controlled-by-a-host-of-other-founding-members/",
+           "title": "Facebook unveils Libra cryptocurrency"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/18/missouri-southern-state-university-suffered-data-breach-following-phishing-attack/",
-           "title": "Missouri Southern State University Suffered Data Breach Following Phishing Attack"
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/eatstreet-data-breach-affecting-diners-restaurants-and-delivery-firms/",
+           "title": "EatStreet data breach affecting diners, restaurants and delivery firms"
        }
    ],
    "events": []
