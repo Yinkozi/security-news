@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/utkonos/lst2x64dbg",
+           "title": "GitHub - utkonos/lst2x64dbg: Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database."
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/SpiderLabs/scavenger.git",
+           "title": "GitHub - SpiderLabs/scavenger: scavenger :  is a multi-threaded post-exploitation scanning tool for scavenging systems, finding most frequently used files and folders as well as interesting files containing sensitive information."
+       },
+       {
+           "category": "Exploit",
+           "link": "https://access.redhat.com/security/vulnerabilities/tcpsack",
+           "title": "TCP SACK PANIC - Kernel vulnerabilities - CVE-2019-11477, CVE-2019-11478, CVE-2019-11479"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/06/18/instagram-loophole-exposes-childrens-contact-details/",
+           "title": "Instagram Loophole Exposes Childrens Contact Details"
+       },
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/19/xsocialmedia-exposed-150000-records-containing-personal-and-medical-information/",
+           "title": "XSocialMedia Exposed 150,000 Records Containing Personal And Medical Information"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/19/australian-catholic-university-discloses-data-breach/",
+           "title": "Australian Catholic University Discloses Data Breach"
+       },
+	   {
+           "category": "Phishing",
+           "link": "https://www.scmagazine.com/home/security-news/google-calendar-alerts-can-expose-users-to-phishing-scams/",
+           "title": "Google Calendar alerts can expose users to phishing scams"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-forces-amcas-parent-firm-to-file-chapter-11-bankruptcy/",
+           "title": "Data breach forces AMCA parent firm to file Chapter 11 bankruptcy"
+       },
+	   {
+           "category": "Cryptocurrency",
+           "link": "https://www.scmagazine.com/home/finance/facebook-announced-its-own-cryptocurrency-libra-that-will-be-backed-and-controlled-by-a-host-of-other-founding-members/",
+           "title": "Facebook unveils Libra cryptocurrency"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/eatstreet-data-breach-affecting-diners-restaurants-and-delivery-firms/",
+           "title": "EatStreet data breach affecting diners, restaurants and delivery firms"
+       }
+   ],
+   "events": []
+}
