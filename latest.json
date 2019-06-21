@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/OJ/gobuster",
-           "title": "GitHub - OJ/gobuster: Directory/File, DNS and VHost busting tool written in Go"
+           "category": "Exploit",
+           "link": "https://parsiya.net/blog/2019-06-18-chaining-three-bugs-to-get-rce-in-microsoft-attacksurfaceanalyzer/",
+           "title": "Chaining Three Bugs to Get RCE in Microsoft AttackSurfaceAnalyzer"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/645000-oregonians-affected-in-previously-disclosed-dept-of-human-services-breach/",
+           "title": "645,000 Oregonians affected in previously disclosed Dept. of Human Services breach"
+       },
+	   {
+           "category": "Rampage",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/maryland-governor-goes-on-a-cybersecurity-rampage/",
+           "title": "Maryland governor goes on a cybersecurity rampage"
        },
 	   {
            "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/chrome-announced-it-is-improving-the-security-and-privacy-for-extensions-users-by-reimagining-the-way-a-number-of-powerful-apis-work/",
-           "title": "Chrome updates improve security, privacy for extensions"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/netflix-researchers-uncovered-several-security-vulnerabilities-within-the-tcp-implementations-on-linux-and-freebsd-kernels/",
-           "title": "Netflix patches Linux SACK vulnerability"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/bouncing-golf-campaign-takes-swing-at-android-users-with-info-stealing-malware/",
-           "title": "Bouncing Golf campaign takes swing at Android users with info-stealing malware"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/samba-team-has-released-security-updates-to-address-vulnerabilities-in-samba-4-9-and-all-versions-of-samba-from-4-10-onward/",
+           "title": "Samba security updates address Samba flaws that could be used to execute DoS attacks"
        },
        {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/health-care/facebooks-xsocialmedia-ad-agency-exposes-150k-medical-histories/",
-           "title": "Facebook xSocialMedia ad agency exposes 150K medical histories"
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/ransomware-attack-on-software-company-residex-may-have-exposed-data-on-assisted-living-residents-workers/",
+           "title": "Ransomware attack on software company ResiDex may have exposed data on assisted-living residents"
        }
    ],
    "linksCurated": [
        {
            "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/as-gandcrab-gang-prepares-to-retire-decryptor-for-v5-2-of-ransomware-released/",
-           "title": "As GandCrab gang prepares to retire, decryptor for v5.2 of ransomware released"
+           "link": "https://www.scmagazine.com/home/security-news/firefox-updates-address-takeover-vulnerability/",
+           "title": "Firefox updates address takeover vulnerability"
        },
 	   {
-           "category": "Phishing",
-           "link": "https://latesthackingnews.com/2019/06/20/a-new-phishing-scam-states-encrypted-message-received-to-trick-the-victim/",
-           "title": "A New Phishing Scam States Encrypted Message Received To Trick The Victim"
-       },
-	   {
-           "category": "Espionage",
-           "link": "https://www.scmagazine.com/home/security-news/report-iran-claims-to-have-thwarted-a-u-s-cyber-espionage-operation/",
-           "title": "Iran claims to have thwarted a U.S. cyber espionage operation"
-       },
-	   {
-           "category": "Hoax",
-           "link": "https://www.scmagazine.com/home/security-news/malware/hoax-software-activity-has-seen-a-significant-uptick-in-activity-in-the-last-year-with-the-number-of-users-attacked/",
-           "title": "Hoax PC cleaner software on the rise"
+           "category": "Backdoor",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/the-looming-threat-of-malicious-backdoors-in-software-source-code/",
+           "title": "The looming threat of malicious backdoors in software source code"
        },
 	   {
            "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/a-duie-pyle-knocked-offline-by-ransomware-goes-extra-mile-to-keep-customers-informed/",
-           "title": "Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed"
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/riviera-beach-fla-pays-600000-ransom-payment/",
+           "title": "Riviera Beach, Fla pays $600,000 ransom payment"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/making-a-racket-loudminer-malware-cryptojacks-vms-comes-bundled-with-pirated-vst-software/",
+           "title": "LoudMiner malware cryptojacks VMs, comes bundled with pirated VST software"
+       },
+	   {
+           "category": "Defend",
+           "link": "https://latesthackingnews.com/2019/06/21/google-chrome-takes-new-security-measures-against-deceptive-sites/",
+           "title": "Google Chrome Takes New Security Measures Against Deceptive Sites"
        }
    ],
    "events": []
