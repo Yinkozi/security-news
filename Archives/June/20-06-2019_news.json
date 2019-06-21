@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/OJ/gobuster",
+           "title": "GitHub - OJ/gobuster: Directory/File, DNS and VHost busting tool written in Go"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/chrome-announced-it-is-improving-the-security-and-privacy-for-extensions-users-by-reimagining-the-way-a-number-of-powerful-apis-work/",
+           "title": "Chrome updates improve security, privacy for extensions"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/netflix-researchers-uncovered-several-security-vulnerabilities-within-the-tcp-implementations-on-linux-and-freebsd-kernels/",
+           "title": "Netflix patches Linux SACK vulnerability"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/bouncing-golf-campaign-takes-swing-at-android-users-with-info-stealing-malware/",
+           "title": "Bouncing Golf campaign takes swing at Android users with info-stealing malware"
+       },
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/health-care/facebooks-xsocialmedia-ad-agency-exposes-150k-medical-histories/",
+           "title": "Facebook xSocialMedia ad agency exposes 150K medical histories"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/as-gandcrab-gang-prepares-to-retire-decryptor-for-v5-2-of-ransomware-released/",
+           "title": "As GandCrab gang prepares to retire, decryptor for v5.2 of ransomware released"
+       },
+	   {
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/2019/06/20/a-new-phishing-scam-states-encrypted-message-received-to-trick-the-victim/",
+           "title": "A New Phishing Scam States Encrypted Message Received To Trick The Victim"
+       },
+	   {
+           "category": "Espionage",
+           "link": "https://www.scmagazine.com/home/security-news/report-iran-claims-to-have-thwarted-a-u-s-cyber-espionage-operation/",
+           "title": "Iran claims to have thwarted a U.S. cyber espionage operation"
+       },
+	   {
+           "category": "Hoax",
+           "link": "https://www.scmagazine.com/home/security-news/malware/hoax-software-activity-has-seen-a-significant-uptick-in-activity-in-the-last-year-with-the-number-of-users-attacked/",
+           "title": "Hoax PC cleaner software on the rise"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/a-duie-pyle-knocked-offline-by-ransomware-goes-extra-mile-to-keep-customers-informed/",
+           "title": "Duie Pyle knocked offline by ransomware, goes extra mile to keep customers informed"
+       }
+   ],
+   "events": []
+}
