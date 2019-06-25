@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://devco.re/blog/2019/06/21/operation-crack-hacking-IDA-Pro-installer-PRNG-from-an-unusual-way-en/",
+           "title": "Hacking IDA Pro Installer PRNG from an Unusual Way"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/vlc-media-player-hacking.html",
+           "title": "Beware! Playing Untrusted Videos On VLC Player Could Hack Your Computer"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/dells-supportassist-hacking.html",
+           "title": "Security Flaw in Pre-Installed Dell Support Software Affects Million of Computers"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/outlook-app-android.html",
+           "title": "Important Flaw in Outlook App for Android Affects Over 100 Millions Users"
+       },
+       {
+           "category": "Encryption",
+           "link": "https://thehackernews.com/2019/06/mongodb-fle-data-encryption.html",
+           "title": "MongoDB 4.2 Introduces End-to-End Field Level Encryption for Databases"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Patch",
+           "link": "MongoDB 4.2 Introduces End-to-End Field Level Encryption for Databases",
+           "title": "Tor Browser 8.5.2 Released — Update to Fix Critical Firefox Vulnerability"
+       },
+	   {
+           "category": "Cybersecurity",
+           "link": "https://thehackernews.com/2019/06/improve-your-cybersecurity.html",
+           "title": "5 Keys to Improve Your Cybersecurity"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://thehackernews.com/2019/06/gandcrab-ransomware-decryption-tool.html",
+           "title": "GandCrab Ransomware Decryption Tool [All Versions] — Recover Files for Free"
+       },
+	   {
+           "category": "Encryption",
+           "link": "https://thehackernews.com/2019/06/openssh-side-channel-vulnerability.html",
+           "title": "OpenSSH Now Encrypts Secret Keys in Memory Against Side-Channel Attacks"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/microsoft-outlook-vulnerability.html",
+           "title": "PoC Released for Outlook Flaw that Microsoft Patched 6 Month After Discovery"
+       }
+   ],
+   "events": []
+}
