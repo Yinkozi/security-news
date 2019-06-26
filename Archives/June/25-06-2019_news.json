@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/0vercl0k/pywinhv",
+           "title": "GitHub - 0vercl0k/pywinhv: Python bindings for the Microsoft Hypervisor Platform APIs."
+       },
+       {
+           "category": "Optimization",
+           "link": "https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/",
+           "title": "How Verizon and a BGP Optimizer Knocked Large Parts of the Internet Offline Today"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/06/emulated-malware.html",
+           "title": "This Cryptomining Malware Launches Linux VMs On Windows and macOS"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/06/macos-malware-gatekeeper.html",
+           "title": "New Mac Malware Exploits GateKeeper Bypass Bug that Apple Left Unpatched"
+       },
+       {
+           "category": "Encryption",
+           "link": "https://thehackernews.com/2019/06/openssh-side-channel-vulnerability.html",
+           "title": "OpenSSH Now Encrypts Secret Keys in Memory Against Side-Channel Attacks"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/isc-announced-a-race-condition-vulnerability-that-occurs-when-discarding-malformed-packets-that-can-cause-bind-to-exit-with-an-assertion-failure/",
+           "title": "ISC released BIND security update concerning race condition flaw"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/oracle-released-an-out-of-band-patch-for-a-weblogic-server-deserialization-vulnerability/",
+           "title": "Oracle releases second WebLogic Server patch in two months"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-announced-26-vulnerabilities-over-the-last-two-days-including-two-critical-flaws-affecting-core-equipment-that-could-grant-attackers-an-avenue-into-networks/",
+           "title": "Cisco announced 26 vulnerabilities in over the last two days, three critical"
+       },
+	   {
+           "category": "Phishing",
+           "link": "https://www.scmagazine.com/home/security-news/phishing/phishing-campaign-impersonates-email-alerts-from-dhs/",
+           "title": "Phishing campaign impersonates email alerts from DHS"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://latesthackingnews.com/2019/06/23/bouncing-golf-cyberespionage-campaign-hits-android-users-with-golfspy-malware/",
+           "title": "Bouncing Golf Cyberespionage Campaign Hits Android Users With GolfSpy Malware"
+       }
+   ],
+   "events": []
+}
