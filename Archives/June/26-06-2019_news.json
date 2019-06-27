@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Theft",
+           "link": "https://techcrunch.com/2019/06/24/hackers-cell-networks-call-records-theft/",
+           "title": "Hackers are stealing years of call records from hacked cell networks"
+       },
+       {
+           "category": "Campaign",
+           "link": "https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers",
+           "title": "Operation Soft Cell: A Worldwide Campaign Against Telecommunications Providers"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/0xffff0800/muddyc3",
+           "title": "GitHub - 0xffff0800/muddyc3: Leaked Muddyc3 C2 source."
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/ea-origin-game-hacking.html",
+           "title": "Account Takeover Vulnerability Found in Popular EA Games Origin Platform"
+       },
+       {
+           "category": "Spyware",
+           "link": "https://thehackernews.com/2019/06/android-malware-hacking.html",
+           "title": "Legit Apps Turned into Spyware Targeting Android Users in Middle East"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "2FA",
+           "link": "https://thehackernews.com/2019/06/microsoft-onedrive-personal-vault.html",
+           "title": "Microsoft Adds 2FA-Protected Personal Vault Within OneDrive Cloud Storage"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/25/indian-job-portal-talanton-ai-exposed-1-6-million-records-with-sensitive-information/",
+           "title": "Indian Job Portal Talanton AI Exposed 1.6 Million Records With Sensitive Information"
+       },
+	   {
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/2019/06/24/cisa-warns-internet-users-of-a-department-of-homeland-security-phishing-scam/",
+           "title": "CISA Warns Internet Users Of A Department of Homeland Security Phishing Scam"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/24/unsecured-database-leaked-vascepa-prescriptions-for-78000-patients/",
+           "title": "Unsecured Database Leaked Vascepa Prescriptions For 78,000 Patients"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/26/indian-firm-jiva-ayurveda-exposed-1-2-million-records-through-unsecured-database/",
+           "title": "Indian Medicinal Firm Jiva Ayurveda Exposed 1.2 Million Personal Records Through an Unsecured Database"
+       }
+   ],
+   "events": []
+}
