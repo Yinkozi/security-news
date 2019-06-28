@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Tool",
-           "link": "https://github.com/fox-it/cve-2019-1040-scanner",
-           "title": "GitHub - fox-it/cve-2019-1040-scanner"
+           "link": "https://github.com/HexHive/retrowrite",
+           "title": "GitHub - HexHive/retrowrite: RetroWrite - Retrofitting compiler passes though binary rewriting"
        },
        {
            "category": "Tool",
            "link": "https://github.com/0vercl0k/pywinhv",
-           "title": "GitHub - 0vercl0k/pywinhv: Python bindings for the Microsoft Hypervisor Platform APIs."
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/olafhartong/sysmon-cheatsheet",
-           "title": "GitHub - olafhartong/sysmon-cheatsheet: All sysmon event types and their fields explained"
+           "title": "GitHub - 0vercl0k/pywinhv: Python bindings for the Microsoft Hypervisor Platform APIs"
        },
 	   {
-           "category": "Raid",
-           "link": "https://thehackernews.com/2019/06/police-raid-omnirat-developer.html",
-           "title": "Exclusive: German Police Raid OmniRAT Developer and Seize Digital Assets"
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/28/dominion-national-disclosed-data-breach-that-lasted-for-almost-a-decade/",
+           "title": "Dominion National Disclosed Data Breach That Lasted For Almost A Decade"
+       },
+	   {
+           "category": "Election",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/gop-senators-nix-vote-on-election-security-act-similar-bills-wend-their-way-through-congress/",
+           "title": "GOP senators nix vote on Election Security Act, similar bills wend their way through Congress"
        },
        {
-           "category": "Ransomware",
-           "link": "https://thehackernews.com/2019/06/florida-ransomware-attack.html",
-           "title": "Two Florida Cities Paid $1.1 Million to Ransomware Hackers This Month"
+           "category": "pentester",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/four-attributes-that-make-for-a-valuable-pen-tester/",
+           "title": "Four attributes that make for a valuable pen tester"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/06/ea-origin-game-hacking.html",
-           "title": "Account Takeover Vulnerability Found in Popular EA Games Origin Platform"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/operation-soft-cell-campaign-targets-cellular-telecom-providers-points-to-chinas-apt10/",
+           "title": "Operation Soft Cell campaign targets cellular telecom providers, points to China’s APT10"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/malware/new-osx-linker-malware-created-to-exploit-bypass-bug-in-macos-x-gatekeeper/",
-           "title": "New OSX/Linker malware created to exploit bypass bug in macOS X Gatekeeper"
+           "category": "AI",
+           "link": "https://www.scmagazine.com/home/security-news/rolling-the-dice-on-ai/",
+           "title": "Rolling the Dice on AI"
        },
 	   {
            "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/sodinokibi-ransomware-campaigns-span-growing-array-of-attack-vectors/",
-           "title": "Sodinokibi ransomware campaigns span growing array of attack vectors"
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/second-florida-city-burned-by-ransomware-and-pays-attackers/",
+           "title": "Second Florida city burned by ransomware and pays attackers"
        },
 	   {
-           "category": "Trojan",
-           "link": "https://www.scmagazine.com/home/security-news/malware/the-riltok-banking-trojan-has-set-its-sights-for-the-european-market-after-a-few-modifications/",
-           "title": "Riltok banking trojan begins targeting Europe"
+           "category": "Cryptocurrency",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/six-people-in-the-u-k-and-netherlands-were-arrested-on-charges-stemming-from-a-e24-million-cryptocurrency-theft/",
+           "title": "Six arrested in European heist that netted $27.3M in cryptocurrency"
        },
 	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/malware/microsofts-familiar-refrain-disable-macros-to-avoid-malware-campaign-running-flawedammyy-trojan/",
-           "title": "Microsoft’s familiar refrain: Disable macros to avoid malware campaign running FlawedAmmyy trojan"
+           "category": "Exploits",
+           "link": "https://www.scmagazine.com/home/security-news/gaming/pair-of-vulnerabilities-could-have-enabled-takeover-of-ea-gamer-accounts/",
+           "title": "Pair of vulnerabilities could have enabled takeover of EA gamer accounts"
        }
    ],
    "events": []
