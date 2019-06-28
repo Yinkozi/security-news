@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/fox-it/cve-2019-1040-scanner",
+           "title": "GitHub - fox-it/cve-2019-1040-scanner"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/0vercl0k/pywinhv",
+           "title": "GitHub - 0vercl0k/pywinhv: Python bindings for the Microsoft Hypervisor Platform APIs."
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/olafhartong/sysmon-cheatsheet",
+           "title": "GitHub - olafhartong/sysmon-cheatsheet: All sysmon event types and their fields explained"
+       },
+	   {
+           "category": "Raid",
+           "link": "https://thehackernews.com/2019/06/police-raid-omnirat-developer.html",
+           "title": "Exclusive: German Police Raid OmniRAT Developer and Seize Digital Assets"
+       },
+       {
+           "category": "Ransomware",
+           "link": "https://thehackernews.com/2019/06/florida-ransomware-attack.html",
+           "title": "Two Florida Cities Paid $1.1 Million to Ransomware Hackers This Month"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/06/ea-origin-game-hacking.html",
+           "title": "Account Takeover Vulnerability Found in Popular EA Games Origin Platform"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/malware/new-osx-linker-malware-created-to-exploit-bypass-bug-in-macos-x-gatekeeper/",
+           "title": "New OSX/Linker malware created to exploit bypass bug in macOS X Gatekeeper"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/sodinokibi-ransomware-campaigns-span-growing-array-of-attack-vectors/",
+           "title": "Sodinokibi ransomware campaigns span growing array of attack vectors"
+       },
+	   {
+           "category": "Trojan",
+           "link": "https://www.scmagazine.com/home/security-news/malware/the-riltok-banking-trojan-has-set-its-sights-for-the-european-market-after-a-few-modifications/",
+           "title": "Riltok banking trojan begins targeting Europe"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/microsofts-familiar-refrain-disable-macros-to-avoid-malware-campaign-running-flawedammyy-trojan/",
+           "title": "Microsoft’s familiar refrain: Disable macros to avoid malware campaign running FlawedAmmyy trojan"
+       }
+   ],
+   "events": []
+}
