@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/HexHive/retrowrite",
+           "title": "GitHub - HexHive/retrowrite: RetroWrite - Retrofitting compiler passes though binary rewriting"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/0vercl0k/pywinhv",
+           "title": "GitHub - 0vercl0k/pywinhv: Python bindings for the Microsoft Hypervisor Platform APIs"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/28/dominion-national-disclosed-data-breach-that-lasted-for-almost-a-decade/",
+           "title": "Dominion National Disclosed Data Breach That Lasted For Almost A Decade"
+       },
+	   {
+           "category": "Election",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/gop-senators-nix-vote-on-election-security-act-similar-bills-wend-their-way-through-congress/",
+           "title": "GOP senators nix vote on Election Security Act, similar bills wend their way through Congress"
+       },
+       {
+           "category": "pentester",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/four-attributes-that-make-for-a-valuable-pen-tester/",
+           "title": "Four attributes that make for a valuable pen tester"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/operation-soft-cell-campaign-targets-cellular-telecom-providers-points-to-chinas-apt10/",
+           "title": "Operation Soft Cell campaign targets cellular telecom providers, points to China’s APT10"
+       },
+	   {
+           "category": "AI",
+           "link": "https://www.scmagazine.com/home/security-news/rolling-the-dice-on-ai/",
+           "title": "Rolling the Dice on AI"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/second-florida-city-burned-by-ransomware-and-pays-attackers/",
+           "title": "Second Florida city burned by ransomware and pays attackers"
+       },
+	   {
+           "category": "Cryptocurrency",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/six-people-in-the-u-k-and-netherlands-were-arrested-on-charges-stemming-from-a-e24-million-cryptocurrency-theft/",
+           "title": "Six arrested in European heist that netted $27.3M in cryptocurrency"
+       },
+	   {
+           "category": "Exploits",
+           "link": "https://www.scmagazine.com/home/security-news/gaming/pair-of-vulnerabilities-could-have-enabled-takeover-of-ea-gamer-accounts/",
+           "title": "Pair of vulnerabilities could have enabled takeover of EA gamer accounts"
+       }
+   ],
+   "events": []
+}
