@@ -1,57 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Exploit",
-           "link": "https://medium.com/@fsx30/weaponizing-vulnerable-driver-for-privilege-escalation-gigabyte-edition-e73ee523598b",
-           "title": "Weaponizing vulnerable driver for privilege escalation"
-       },
-
-       {
-           "category": "Emulation",
-           "link": "https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html",
-           "title": "Vectorized Emulation: Hardware accelerated taint tracking at 2 trillion instructions per second"
-       },
-       {
            "category": "Breach",
-           "link": "https://threatpost.com/leaky-amazon-s3-buckets-expose-data-of-netflix-td-bank/146084/",
-           "title": "Leaky Amazon S3 Buckets Expose Data of Netflix and TD Bank"
+           "link": "https://latesthackingnews.com/2019/06/28/dominion-national-disclosed-data-breach-that-lasted-for-almost-a-decade/",
+           "title": "Dominion National Disclosed Data Breach That Lasted For Almost A Decade"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/07/01/medicaresupplement-com-exposed-5-million-records-with-personal-information-through-unsecured-database/",
-           "title": "MedicareSupplement.com Exposed 5 Million Records With Personal Information Through Unsecured Database"
+           "link": "https://latesthackingnews.com/2019/07/02/attunity-data-leak-through-unsecured-amazon-s3-buckets-affected-netflix-ford-and-other-big-names/",
+           "title": "Attunity Data Leak Through Unsecured Amazon S3 Buckets Affected Netflix, Ford, And Other Big Names"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/01/cloud-solution-provider-pcm-inc-suffered-data-breach/",
+           "title": "Cloud Solution Provider PCM Inc. Suffered Data Breach"
+       },
+	   {
+           "category": "Exploits",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/huawei-products-riddled-with-backdoors-zero-days-and-critical-vulnerabilities/",
+           "title": "Huawei products riddled with backdoors, zero days and critical vulnerabilities"
        },
        {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/01/hackers-can-abuse-microsoft-excel-power-query-for-malware-attacks/",
-           "title": "Hackers Can Abuse Microsoft Excel Power Query For Malware Attacks"
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/mozilla-firefox-69-is-expected-to-launch-a-random-password-generator-similar-to-the-one-used-in-chrome-this-fall/",
+           "title": "Firefox expected to launch random password generator this fall"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/01/critical-vulnerabilities-patched-in-cisco-data-center-network-manager-software/",
-           "title": "Critical Vulnerabilities Patched In Cisco Data Center Network Manager Software"
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/shadowgate-malvertising-group-serves-up-seon-ransomware-via-greenflash-sundown-exploit-kit/",
+           "title": "ShadowGate malvertising group serves up SEON ransomware via Greenflash Sundown exploit kit"
        },
 	   {
            "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/28/bitrue-crypto-exchange-hacked-losing-over-4-5-million-worth-of-cryptocurrency/",
-           "title": "Bitrue Crypto Exchange Hacked Losing Over $4.5 Million Worth Of Cryptocurrency"
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/5-million-exposed-by-misconfigured-medicaresupplement-com-mongodb/",
+           "title": "5M records exposed by misconfigured MedicareSupplement.com MongoDB"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/28/ea-origin-vulnerability-posed-risk-of-account-hijacking-of-300-million-players/",
-           "title": "EA Origin Vulnerability Posed Risk Of Account Hijacking of 300 Million Players"
+           "category": "Fraud",
+           "link": "https://www.scmagazine.com/home/security-news/phishing/researches-wipro-breach-part-of-much-larger-gift-card-fraud-operation/",
+           "title": "Wipro breach part of much larger gift card fraud operation"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/06/28/taiwan-ministry-of-civil-service-suffered-data-breach-affecting-240k-civil-servants/",
-           "title": "Taiwan Ministry Of Civil Service Suffered Data Breach Affecting 240K Civil Servants"
+           "category": "Spoofed",
+           "link": "https://www.scmagazine.com/home/government/a-russian-based-information-operations-campaign-used-fake-social-media-accounts-across-multiple-platforms-to-attack-western-interests/",
+           "title": "Russian-based misinformation campaign sends fake news from spoofed accounts"
        },
 	   {
-           "category": "Encryption",
-           "link": "https://latesthackingnews.com/2019/06/28/microsoft-launches-personal-vault-in-onedrive-for-encrypted-data-storage/",
-           "title": "Microsoft Launches Personal Vault In OneDrive For Encrypted Data Storage"
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-for-data-center-network-manager-to-address-several-vulnerabilities-that-could-allow-a-remote-attacker-to-take-an-affected-system/",
+           "title": "Cisco releases security updates for Data Center Network Manager"
        }
    ],
    "events": []
