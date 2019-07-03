@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/06/28/dominion-national-disclosed-data-breach-that-lasted-for-almost-a-decade/",
+           "title": "Dominion National Disclosed Data Breach That Lasted For Almost A Decade"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/02/attunity-data-leak-through-unsecured-amazon-s3-buckets-affected-netflix-ford-and-other-big-names/",
+           "title": "Attunity Data Leak Through Unsecured Amazon S3 Buckets Affected Netflix, Ford, And Other Big Names"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/01/cloud-solution-provider-pcm-inc-suffered-data-breach/",
+           "title": "Cloud Solution Provider PCM Inc. Suffered Data Breach"
+       },
+	   {
+           "category": "Exploits",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/huawei-products-riddled-with-backdoors-zero-days-and-critical-vulnerabilities/",
+           "title": "Huawei products riddled with backdoors, zero days and critical vulnerabilities"
+       },
+       {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/mozilla-firefox-69-is-expected-to-launch-a-random-password-generator-similar-to-the-one-used-in-chrome-this-fall/",
+           "title": "Firefox expected to launch random password generator this fall"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/shadowgate-malvertising-group-serves-up-seon-ransomware-via-greenflash-sundown-exploit-kit/",
+           "title": "ShadowGate malvertising group serves up SEON ransomware via Greenflash Sundown exploit kit"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/5-million-exposed-by-misconfigured-medicaresupplement-com-mongodb/",
+           "title": "5M records exposed by misconfigured MedicareSupplement.com MongoDB"
+       },
+	   {
+           "category": "Fraud",
+           "link": "https://www.scmagazine.com/home/security-news/phishing/researches-wipro-breach-part-of-much-larger-gift-card-fraud-operation/",
+           "title": "Wipro breach part of much larger gift card fraud operation"
+       },
+	   {
+           "category": "Spoofed",
+           "link": "https://www.scmagazine.com/home/government/a-russian-based-information-operations-campaign-used-fake-social-media-accounts-across-multiple-platforms-to-attack-western-interests/",
+           "title": "Russian-based misinformation campaign sends fake news from spoofed accounts"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-for-data-center-network-manager-to-address-several-vulnerabilities-that-could-allow-a-remote-attacker-to-take-an-affected-system/",
+           "title": "Cisco releases security updates for Data Center Network Manager"
+       }
+   ],
+   "events": []
+}
