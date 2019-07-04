@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Malware",
-           "link": "https://www.vice.com/en_us/article/7xgame/at-chinese-border-tourists-forced-to-install-a-text-stealing-piece-of-malware",
-           "title": "China Is Forcing Tourists to Install Text-Stealing Malware at its Border"
+           "category": "Tool",
+           "link": "https://github.com/niemand-sec/AntiCheat-Testing-Framework",
+           "title": "GitHub - niemand-sec/AntiCheat-Testing-Framework: Framework for testing any Anti-Cheat"
        },
-       {
-           "category": "Patch",
-           "link": "https://www.microsoft.com/security/blog/2019/07/01/delivering-major-enhancements-in-windows-defender-application-control-with-the-windows-10-may-2019-update/",
-           "title": "Delivering major enhancements in Windows Defender Application Control with the Windows 10 May 2019 Update"
+	   {
+           "category": "Malicious",
+           "link": "https://latesthackingnews.com/2019/07/04/malicious-imessages-could-brick-iphones-owing-to-ios-vulnerabilities/",
+           "title": "Malicious iMessages Could Brick iPhones Owing To iOS Vulnerabilities"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/cloud-security/data-management-firm-exposed-client-info-on-open-amazon-s3-buckets-researchers/",
+           "title": "Data management firm exposed client info on open Amazon S3 buckets"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/03/new-phishing-campaign-exploits-qr-codes-to-bypass-security-controls/",
-           "title": "New Phishing Campaign Exploits QR Codes To Bypass Security Controls"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/03/multiple-vulnerabilities-spotted-in-lenovo-server-infrastructure/",
-           "title": "Multiple Vulnerabilities Spotted In Lenovo Server Infrastructure"
+           "link": "https://www.scmagazine.com/home/security-news/malware/threat-actors-were-spotted-using-a-decade-old-antivirus-evasion-technique-in-at-least-three-malware-distribution-campaigns/",
+           "title": "Heaven’s Gate exploit still defiled ten years later to deliver RATs and stealers"
        },
        {
-           "category": "Outage",
-           "link": "https://www.scmagazine.com/home/network-security/cloudflare-ceo-blames-massive-cpu-usage-for-outage/",
-           "title": "Cloudflare CEO blames massive CPU usage for outage"
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/report-ransomware-attack-disrupts-georgias-court-system/",
+           "title": "Ransomware attack disrupts Georgia’s court system"
        }
    ],
    "linksCurated": [
        {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-for-data-center-network-manager-to-address-several-vulnerabilities-that-could-allow-a-remote-attacker-to-take-an-affected-system/",
-           "title": "Cisco releases security updates for Data Center Network Manager"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/a-fake-flash-player-trojan-malware-is-targeting-macs-with-a-design-that-allows-it-to-evade-antivirus-solutions/",
+           "title": "Mac OSX/CrescentCore malware designed to evade antivirus"
        },
 	   {
-           "category": "Fraud",
-           "link": "https://www.scmagazine.com/home/security-news/cloud-security/cloud-provider-pcm-hacked-customer-info-likely-stolen-for-gift-card-scam/",
-           "title": "Cloud provider PCM hacked, customer info likely stolen for gift card scam"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/exposed-orvibo-database-leaks-two-billion-records/",
+           "title": "Exposed Orvibo database leaks two billion records"
+       },
+	   {
+           "category": "CEOs",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/encryption-is-key-for-ceos-to-avoid-potential-prison-time/",
+           "title": "Encryption is key for CEOs to avoid potential prison time"
+       },
+	   {
+           "category": "Social Engineering",
+           "link": "https://www.scmagazine.com/home/security-news/phishing/fake-facebook-political-pages-tricked-libyans-into-downloading-rats/",
+           "title": "Fake Facebook political pages tricked Libyans into downloading RATs"
        },
 	   {
            "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/baltimore-city-officials-approved-of-using-10-million-in-excess-revenue-to-cover-ongoing-expenses-related-to-the-ransomware-attack/",
-           "title": "Baltimore approves $10M for ransomware relief, expects $18M in damages"
-       },
-	   {
-           "category": "Sabotage",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/medtronic-recalls-insulin-pumps-due-to-potential-of-hacker-sabotage/",
-           "title": "Medtronic recalls insulin pumps due to potential of hacker sabotage"
-       },
-	   {
-           "category": "Encryption",
-           "link": "https://www.scmagazine.com/encryption-data-security/isreali-data-extraction-firm-cellebrite-announced-the-ability-to-break-into-any-iphone-or-android-device-for-law-enforcement-agencies-as-feds-weigh-banning-tough-encryption/",
-           "title": "Cellebrite claims it can crack any iPhone or Android, Trump admins weigh encryption ban"
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/the-u-s-virgin-island-police-department-was-hit-with-a-ransomware-attack-in-april-that-targeted-servers-housing-internal-affairs-records-and-citizen-complaints/",
+           "title": "U.S. Virgin Islands hit with ransomware and BEC attack"
        }
    ],
    "events": []
