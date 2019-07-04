@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Malware",
+           "link": "https://www.vice.com/en_us/article/7xgame/at-chinese-border-tourists-forced-to-install-a-text-stealing-piece-of-malware",
+           "title": "China Is Forcing Tourists to Install Text-Stealing Malware at its Border"
+       },
+       {
+           "category": "Patch",
+           "link": "https://www.microsoft.com/security/blog/2019/07/01/delivering-major-enhancements-in-windows-defender-application-control-with-the-windows-10-may-2019-update/",
+           "title": "Delivering major enhancements in Windows Defender Application Control with the Windows 10 May 2019 Update"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/03/new-phishing-campaign-exploits-qr-codes-to-bypass-security-controls/",
+           "title": "New Phishing Campaign Exploits QR Codes To Bypass Security Controls"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/03/multiple-vulnerabilities-spotted-in-lenovo-server-infrastructure/",
+           "title": "Multiple Vulnerabilities Spotted In Lenovo Server Infrastructure"
+       },
+       {
+           "category": "Outage",
+           "link": "https://www.scmagazine.com/home/network-security/cloudflare-ceo-blames-massive-cpu-usage-for-outage/",
+           "title": "Cloudflare CEO blames massive CPU usage for outage"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-for-data-center-network-manager-to-address-several-vulnerabilities-that-could-allow-a-remote-attacker-to-take-an-affected-system/",
+           "title": "Cisco releases security updates for Data Center Network Manager"
+       },
+	   {
+           "category": "Fraud",
+           "link": "https://www.scmagazine.com/home/security-news/cloud-security/cloud-provider-pcm-hacked-customer-info-likely-stolen-for-gift-card-scam/",
+           "title": "Cloud provider PCM hacked, customer info likely stolen for gift card scam"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/baltimore-city-officials-approved-of-using-10-million-in-excess-revenue-to-cover-ongoing-expenses-related-to-the-ransomware-attack/",
+           "title": "Baltimore approves $10M for ransomware relief, expects $18M in damages"
+       },
+	   {
+           "category": "Sabotage",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/medtronic-recalls-insulin-pumps-due-to-potential-of-hacker-sabotage/",
+           "title": "Medtronic recalls insulin pumps due to potential of hacker sabotage"
+       },
+	   {
+           "category": "Encryption",
+           "link": "https://www.scmagazine.com/encryption-data-security/isreali-data-extraction-firm-cellebrite-announced-the-ability-to-break-into-any-iphone-or-android-device-for-law-enforcement-agencies-as-feds-weigh-banning-tough-encryption/",
+           "title": "Cellebrite claims it can crack any iPhone or Android, Trump admins weigh encryption ban"
+       }
+   ],
+   "events": []
+}
