@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/niemand-sec/AntiCheat-Testing-Framework",
-           "title": "GitHub - niemand-sec/AntiCheat-Testing-Framework: Framework for testing any Anti-Cheat"
-       },
-	   {
-           "category": "Malicious",
-           "link": "https://latesthackingnews.com/2019/07/04/malicious-imessages-could-brick-iphones-owing-to-ios-vulnerabilities/",
-           "title": "Malicious iMessages Could Brick iPhones Owing To iOS Vulnerabilities"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/cloud-security/data-management-firm-exposed-client-info-on-open-amazon-s3-buckets-researchers/",
-           "title": "Data management firm exposed client info on open Amazon S3 buckets"
+           "category": "Exploit",
+           "link": "medium.com/@technicalsyn/eternalrelayx-py-non-admin-ntlm-relaying-eternalblue-exploitation-dab9e2b97337",
+           "title": "Non-Admin NTLM Relaying & Eternalblue Exploitation"
        },
 	   {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/malware/threat-actors-were-spotted-using-a-decade-old-antivirus-evasion-technique-in-at-least-three-malware-distribution-campaigns/",
-           "title": "Heaven’s Gate exploit still defiled ten years later to deliver RATs and stealers"
+           "link": "https://latesthackingnews.com/2019/07/05/hackers-can-exploit-zipato-smart-home-hub-flaws-to-break-in/",
+           "title": "Hackers can exploit zipato smart home hub flaws to break in"
+       },
+	   {
+           "category": "RanRatTro",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/wannalocker-ransomware-found-combined-with-rat-and-banking-trojan/",
+           "title": "WannaLocker ransomware found combined with RAT and banking trojan"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/cyber-command-warns-outlook-vulnerability-exploited-to-attack-govt-agencies/",
+           "title": "Cyber Command warns hackers exploiting Outlook vulnerability to attack gov’t agencies"
        },
        {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/report-ransomware-attack-disrupts-georgias-court-system/",
-           "title": "Ransomware attack disrupts Georgia’s court system"
+           "category": "Election",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/canadian-intelligence-agencies-warn-of-election-tampering/",
+           "title": "Canadian intelligence agencies warn of election tampering"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/cybercrime/a-fake-flash-player-trojan-malware-is-targeting-macs-with-a-design-that-allows-it-to-evade-antivirus-solutions/",
-           "title": "Mac OSX/CrescentCore malware designed to evade antivirus"
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/network-security/vmware-begins-patching-process-for-linux-sack-vulnerabilities/",
+           "title": "VMware begins patching process for Linux SACK vulnerabilities"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/exposed-orvibo-database-leaks-two-billion-records/",
-           "title": "Exposed Orvibo database leaks two billion records"
+           "category": "Bounties",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/uber-pays-out-375k-in-bug-bounties-during-challenge-in",
+           "title": "Uber pays out $375K in bug bounties during challenge in London"
        },
 	   {
-           "category": "CEOs",
-           "link": "https://www.scmagazine.com/home/opinion/executive-insight/encryption-is-key-for-ceos-to-avoid-potential-prison-time/",
-           "title": "Encryption is key for CEOs to avoid potential prison time"
+           "category": "Cyberattack",
+           "link": "https://www.scmagazine.com/home/government/border-surveillance-subcontractor-perceptics-was-suspended-after-a-cyberattack-against-the-firm-revealed-sensitive-monitoring-details/",
+           "title": "Border-surveillance subcontractor suspended after cyberattack"
        },
 	   {
-           "category": "Social Engineering",
-           "link": "https://www.scmagazine.com/home/security-news/phishing/fake-facebook-political-pages-tricked-libyans-into-downloading-rats/",
-           "title": "Fake Facebook political pages tricked Libyans into downloading RATs"
+           "category": "RAT",
+           "link": "https://www.scmagazine.com/home/security-news/malware/ta505-cybergang-debuts-andromut-downloader-to-deliver-flawedammyy-rat-globally/",
+           "title": "Cybergang debuts ‘AndroMut” downloader to deliver FlawedAmmyy RAT globally"
        },
 	   {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/the-u-s-virgin-island-police-department-was-hit-with-a-ransomware-attack-in-april-that-targeted-servers-housing-internal-affairs-records-and-citizen-complaints/",
-           "title": "U.S. Virgin Islands hit with ransomware and BEC attack"
+           "category": "TLS",
+           "link": "https://thehackernews.com/2019/07/firefox-https-security.html",
+           "title": "Firefox to Automatically Trust OS-Installed CA Certificates to Prevent TLS Errors"
        }
    ],
    "events": []
