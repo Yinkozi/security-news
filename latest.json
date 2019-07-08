@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Exploit",
-           "link": "medium.com/@technicalsyn/eternalrelayx-py-non-admin-ntlm-relaying-eternalblue-exploitation-dab9e2b97337",
-           "title": "Non-Admin NTLM Relaying & Eternalblue Exploitation"
+           "category": "Tool",
+           "link": "https://github.com/FuzzySecurity/Sharp-Suite",
+           "title": "GitHub - FuzzySecurity/Sharp-Suite: My musings with C#"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/05/hackers-can-exploit-zipato-smart-home-hub-flaws-to-break-in/",
-           "title": "Hackers can exploit zipato smart home hub flaws to break in"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/07/british-airways-breach-gdpr-fine.html",
+           "title": "British Airways Fined £183 Million Under GDPR Over 2018 Data Breach"
        },
 	   {
-           "category": "RanRatTro",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/wannalocker-ransomware-found-combined-with-rat-and-banking-trojan/",
-           "title": "WannaLocker ransomware found combined with RAT and banking trojan"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/07/canonical-ubuntu-github-hacked.html",
+           "title": "Ubuntu-Maker Canonical GitHub Account Gets Hacked"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/cyber-command-warns-outlook-vulnerability-exploited-to-attack-govt-agencies/",
-           "title": "Cyber Command warns hackers exploiting Outlook vulnerability to attack gov’t agencies"
+           "category": "Cyber Arrest",
+           "link": "https://thehackernews.com/2019/07/christmas-ddos-attacks.html",
+           "title": "DDoS Attacker Who Ruined Gamers Christmas Gets 27 Months in Prison"
        },
        {
-           "category": "Election",
-           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/canadian-intelligence-agencies-warn-of-election-tampering/",
-           "title": "Canadian intelligence agencies warn of election tampering"
+           "category": "Web Security",
+           "link": "https://thehackernews.com/2019/07/apptrana-web-application-security.html",
+           "title": "AppTrana — Website Security Solution That Actually Works"
        }
    ],
    "linksCurated": [
        {
            "category": "Patch",
-           "link": "https://www.scmagazine.com/home/network-security/vmware-begins-patching-process-for-linux-sack-vulnerabilities/",
-           "title": "VMware begins patching process for Linux SACK vulnerabilities"
+           "link": "https://thehackernews.com/2019/07/android-security-update.html",
+           "title": "Android July 2019 Security Update Patches 33 New Vulnerabilities"
        },
 	   {
-           "category": "Bounties",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/uber-pays-out-375k-in-bug-bounties-during-challenge-in",
-           "title": "Uber pays out $375K in bug bounties during challenge in London"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/06/serious-vulnerabilities-discovered-that-affect-arlo-wireless-security-cameras/",
+           "title": "Serious Vulnerabilities Discovered That Affect Arlo Wireless Security Cameras"
        },
 	   {
-           "category": "Cyberattack",
-           "link": "https://www.scmagazine.com/home/government/border-surveillance-subcontractor-perceptics-was-suspended-after-a-cyberattack-against-the-firm-revealed-sensitive-monitoring-details/",
-           "title": "Border-surveillance subcontractor suspended after cyberattack"
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-to-address-vulnerabilities-in-multiple-products-which-could-allow-an-attacker-to-take-control-of-an-affected-system/",
+           "title": "Cisco releases updates for 10 high-rated vulnerabilities"
        },
 	   {
-           "category": "RAT",
-           "link": "https://www.scmagazine.com/home/security-news/malware/ta505-cybergang-debuts-andromut-downloader-to-deliver-flawedammyy-rat-globally/",
-           "title": "Cybergang debuts ‘AndroMut” downloader to deliver FlawedAmmyy RAT globally"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/05/hackers-can-exploit-zipato-smart-home-hub-flaws-to-break-in/",
+           "title": "Zipato Smart Home Hub Exploits Discovered That Could Allow An Attacker to Open iOT Door Locks"
        },
 	   {
-           "category": "TLS",
-           "link": "https://thehackernews.com/2019/07/firefox-https-security.html",
-           "title": "Firefox to Automatically Trust OS-Installed CA Certificates to Prevent TLS Errors"
+           "category": "AdBlock",
+           "link": "https://latesthackingnews.com/2019/07/06/google-chrome-will-block-heavy-ads-from-loading-in-future/",
+           "title": "Google Chrome Will Block Heavy Ads From Loading In Future"
        }
    ],
    "events": []
