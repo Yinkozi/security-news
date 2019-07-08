@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "medium.com/@technicalsyn/eternalrelayx-py-non-admin-ntlm-relaying-eternalblue-exploitation-dab9e2b97337",
+           "title": "Non-Admin NTLM Relaying & Eternalblue Exploitation"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/05/hackers-can-exploit-zipato-smart-home-hub-flaws-to-break-in/",
+           "title": "Hackers can exploit zipato smart home hub flaws to break in"
+       },
+	   {
+           "category": "RanRatTro",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/wannalocker-ransomware-found-combined-with-rat-and-banking-trojan/",
+           "title": "WannaLocker ransomware found combined with RAT and banking trojan"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/cyber-command-warns-outlook-vulnerability-exploited-to-attack-govt-agencies/",
+           "title": "Cyber Command warns hackers exploiting Outlook vulnerability to attack gov’t agencies"
+       },
+       {
+           "category": "Election",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/canadian-intelligence-agencies-warn-of-election-tampering/",
+           "title": "Canadian intelligence agencies warn of election tampering"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/network-security/vmware-begins-patching-process-for-linux-sack-vulnerabilities/",
+           "title": "VMware begins patching process for Linux SACK vulnerabilities"
+       },
+	   {
+           "category": "Bounties",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/uber-pays-out-375k-in-bug-bounties-during-challenge-in",
+           "title": "Uber pays out $375K in bug bounties during challenge in London"
+       },
+	   {
+           "category": "Cyberattack",
+           "link": "https://www.scmagazine.com/home/government/border-surveillance-subcontractor-perceptics-was-suspended-after-a-cyberattack-against-the-firm-revealed-sensitive-monitoring-details/",
+           "title": "Border-surveillance subcontractor suspended after cyberattack"
+       },
+	   {
+           "category": "RAT",
+           "link": "https://www.scmagazine.com/home/security-news/malware/ta505-cybergang-debuts-andromut-downloader-to-deliver-flawedammyy-rat-globally/",
+           "title": "Cybergang debuts ‘AndroMut” downloader to deliver FlawedAmmyy RAT globally"
+       },
+	   {
+           "category": "TLS",
+           "link": "https://thehackernews.com/2019/07/firefox-https-security.html",
+           "title": "Firefox to Automatically Trust OS-Installed CA Certificates to Prevent TLS Errors"
+       }
+   ],
+   "events": []
+}
