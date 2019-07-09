@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/FuzzySecurity/Sharp-Suite",
-           "title": "GitHub - FuzzySecurity/Sharp-Suite: My musings with C#"
+           "category": "Exploit",
+           "link": "https://doar-e.github.io/blog/2019/06/17/a-journey-into-ionmonkey-root-causing-cve-2019-9810/",
+           "title": "A journey into IonMonkey: root-causing CVE-2019-9810."
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/07/british-airways-breach-gdpr-fine.html",
-           "title": "British Airways Fined £183 Million Under GDPR Over 2018 Data Breach"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/07/old-unpatched-firefox-vulnerability-allows-stealing-files-by-opening-html-files/",
+           "title": "Old Unpatched Firefox Vulnerability Allows For Stealing of Files Via a Malicious HTML File"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/07/canonical-ubuntu-github-hacked.html",
-           "title": "Ubuntu-Maker Canonical GitHub Account Gets Hacked"
+           "category": "Adware",
+           "link": "https://latesthackingnews.com/2019/07/08/over-100-apps-linked-to-an-adware-campaign-removed-from-google-play-store/",
+           "title": "Over 100 Apps Linked To An Adware Campaign Removed From Google Play Store"
        },
 	   {
-           "category": "Cyber Arrest",
-           "link": "https://thehackernews.com/2019/07/christmas-ddos-attacks.html",
-           "title": "DDoS Attacker Who Ruined Gamers Christmas Gets 27 Months in Prison"
+           "category": "Fraud",
+           "link": "https://latesthackingnews.com/2019/07/08/fake-jquery-campaign-on-the-rise-for-ad-fraud-and-malvertising/",
+           "title": "Fake JQuery Campaign On the Rise For Ad Fraud And Malvertising"
        },
        {
-           "category": "Web Security",
-           "link": "https://thehackernews.com/2019/07/apptrana-web-application-security.html",
-           "title": "AppTrana — Website Security Solution That Actually Works"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/08/xss-vulnerability-found-in-wp-statistics-wordpress-plugin/",
+           "title": "XSS Vulnerability Found In WP Statistics WordPress Plugin"
        }
    ],
    "linksCurated": [
        {
-           "category": "Patch",
-           "link": "https://thehackernews.com/2019/07/android-security-update.html",
-           "title": "Android July 2019 Security Update Patches 33 New Vulnerabilities"
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/2019/07/08/onenote-audio-note-phishing-scam-looks-for-victims-microsoft-account-credentials/",
+           "title": "OneNote Audio Note Phishing Scam Looks For Victims Microsoft Account Credentials"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/06/serious-vulnerabilities-discovered-that-affect-arlo-wireless-security-cameras/",
-           "title": "Serious Vulnerabilities Discovered That Affect Arlo Wireless Security Cameras"
+           "link": "https://latesthackingnews.com/2019/07/09/numerous-vulnerabilities-found-in-huawei-web-applications-and-servers/",
+           "title": "Numerous Vulnerabilities Found In Huawei Web Applications And Servers"
        },
 	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-to-address-vulnerabilities-in-multiple-products-which-could-allow-an-attacker-to-take-control-of-an-affected-system/",
-           "title": "Cisco releases updates for 10 high-rated vulnerabilities"
+           "category": "Cyberattack",
+           "link": "https://www.scmagazine.com/home/security-news/malware/cyberattack-shuts-down-la-porte-county-indiana-government/",
+           "title": "Cyberattack shuts down La Porte County (Indiana) government"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/05/hackers-can-exploit-zipato-smart-home-hub-flaws-to-break-in/",
-           "title": "Zipato Smart Home Hub Exploits Discovered That Could Allow An Attacker to Open iOT Door Locks"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/real-estate-group-alta-warns-members-of-possible-data-breach/",
+           "title": "Real estate group ALTA warns members of possible data breach"
        },
 	   {
-           "category": "AdBlock",
-           "link": "https://latesthackingnews.com/2019/07/06/google-chrome-will-block-heavy-ads-from-loading-in-future/",
-           "title": "Google Chrome Will Block Heavy Ads From Loading In Future"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/hackers-breach-canonical-github-account-create-repositories-leave-source-code-untouched/",
+           "title": "Hackers breach Canonical GitHub account, create repositories, leave source code untouched"
        }
    ],
    "events": []
