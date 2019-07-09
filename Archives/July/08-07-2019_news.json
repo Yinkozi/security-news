@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/FuzzySecurity/Sharp-Suite",
+           "title": "GitHub - FuzzySecurity/Sharp-Suite: My musings with C#"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/07/british-airways-breach-gdpr-fine.html",
+           "title": "British Airways Fined £183 Million Under GDPR Over 2018 Data Breach"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/07/canonical-ubuntu-github-hacked.html",
+           "title": "Ubuntu-Maker Canonical GitHub Account Gets Hacked"
+       },
+	   {
+           "category": "Cyber Arrest",
+           "link": "https://thehackernews.com/2019/07/christmas-ddos-attacks.html",
+           "title": "DDoS Attacker Who Ruined Gamers Christmas Gets 27 Months in Prison"
+       },
+       {
+           "category": "Web Security",
+           "link": "https://thehackernews.com/2019/07/apptrana-web-application-security.html",
+           "title": "AppTrana — Website Security Solution That Actually Works"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Patch",
+           "link": "https://thehackernews.com/2019/07/android-security-update.html",
+           "title": "Android July 2019 Security Update Patches 33 New Vulnerabilities"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/06/serious-vulnerabilities-discovered-that-affect-arlo-wireless-security-cameras/",
+           "title": "Serious Vulnerabilities Discovered That Affect Arlo Wireless Security Cameras"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-to-address-vulnerabilities-in-multiple-products-which-could-allow-an-attacker-to-take-control-of-an-affected-system/",
+           "title": "Cisco releases updates for 10 high-rated vulnerabilities"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/05/hackers-can-exploit-zipato-smart-home-hub-flaws-to-break-in/",
+           "title": "Zipato Smart Home Hub Exploits Discovered That Could Allow An Attacker to Open iOT Door Locks"
+       },
+	   {
+           "category": "AdBlock",
+           "link": "https://latesthackingnews.com/2019/07/06/google-chrome-will-block-heavy-ads-from-loading-in-future/",
+           "title": "Google Chrome Will Block Heavy Ads From Loading In Future"
+       }
+   ],
+   "events": []
+}
