@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
+           "category": "Tool",
+           "link": "https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/",
+           "title": "P1 Labs   \u00bb Presenting QCSuper: a tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://medium.com/@jonathan.leitschuh/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5",
-           "title": "Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!"
+           "link": "https://techcommunity.microsoft.com/t5/Premier-Field-Engineering/Changes-to-Ticket-Granting-Ticket-TGT-Delegation-Across-Trusts/ba-p/440283",
+           "title": "Changes to Ticket-Granting Ticket (TGT) Delegation Across Trusts in Windows Server (PFE edition)"
        },
 	   {
-           "category": "Facial Recognition",
-           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/ice-fbi-using-drivers-license-photos-without-permission-for-facial-recognition-searches/",
-           "title": "ICE, FBI using driver’s license photos, without permission, for facial recognition searches"
+           "category": "Exploit",
+           "link": "https://www.welivesecurity.com/2019/07/10/windows-zero-day-cve-2019-1132-exploit/",
+           "title": "Windows zero\u2011day CVE\u20112019\u20111132 exploited in targeted attacks"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/ico-hits-british-airways-with-a-record-breaking-183-million-fine-for-last-years-data-breach-that-compromised-the-personal-data-of-half-a-million-customers/",
-           "title": "British Airways hit with record £183 million GDPR fine for last year’s breach"
-       },
-	   {
-           "category": "Android",
-           "link": "https://www.scmagazine.com/home/security-news/malware/bianlian-banking-trojan-adds-screen-recorder-to-face-off-against-android-users/",
-           "title": "BianLian banking trojan adds screen recorder to face off against Android users"
+           "category": "Exploit",
+           "link": "https://www.buzzfeednews.com/article/albertonardelli/salvini-russia-oil-deal-secret-recording",
+           "title": "A Secret Recording Reveals How Russia Tried To Funnel Millions To Matteo Salvini's Lega Party"
        },
        {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/web-services-security-e-commerce-security/automated-magecart-campaign-infects-962-online-stores/",
-           "title": "Automated Magecart campaign infects 962 online stores"
+           "link": "https://blog.preempt.com/security-advisory-targeting-ad-fs-with-external-brute-force-attacks",
+           "title": "Targeting AD FS With External Brute-Force Attacks"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/webcam-hacking-video-conferencing.html",
-           "title": "Flaw in Zoom Video Conferencing Software Lets Websites Hijack Mac Webcams"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/astaroth-fileless-malware.html",
-           "title": "Watch Out! Microsoft Spotted Spike in Astaroth Fileless Malware Attacks"
-       },
-	   {
-           "category": "Android",
-           "link": "https://thehackernews.com/2019/07/android-permission-bypass.html",
-           "title": "Over 1,300 Android Apps Caught Collecting Data Even If You Deny Permissions"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/lodash-prototype-pollution.html",
-           "title": "Unpatched Prototype Pollution Flaw Affects All Versions of Popular Lodash Library"
+           "category": "Hijacking",
+           "link": "https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html",
+           "title": "Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques"
        },
 	   {
            "category": "Patch",
-           "link": "https://thehackernews.com/2019/07/microsoft-security-updates.html",
-           "title": "Microsoft Releases July 2019 Security Updates, 2 Flaws Under Active Attack"
+           "link": "https://latesthackingnews.com/2019/07/11/mozilla-patches-a-17-year-old-flaw-and-other-bugs-with-the-release-of-firefox-68/",
+           "title": "Mozilla Patches a 17-Year Old Flaw And Other Bugs With The Release Of Firefox 68"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/07/11/microsoft-july-patch-tuesday-addressed-78-security-flaws-including-two-zero-days/",
+           "title": "Microsoft July Patch Tuesday Addressed 78 Security Flaws Including Two Zero-Days"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/11/zero-day-vulnerability-in-zoom-could-allow-webcam-takeovers-on-mac/",
+           "title": "Zero-Day Vulnerability in Zoom Could Allow Webcam Takeovers On Mac"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/11/hackers-exploited-a-7-eleven-app-flaw-to-steal-500k-from-customers/",
+           "title": "Hackers Exploited A 7-Eleven App Flaw To Steal $500K From Customers"
        }
    ],
    "events": []
