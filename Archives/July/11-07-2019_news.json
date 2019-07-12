@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/",
+           "title": "P1 Labs   \u00bb Presenting QCSuper: a tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://techcommunity.microsoft.com/t5/Premier-Field-Engineering/Changes-to-Ticket-Granting-Ticket-TGT-Delegation-Across-Trusts/ba-p/440283",
+           "title": "Changes to Ticket-Granting Ticket (TGT) Delegation Across Trusts in Windows Server (PFE edition)"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.welivesecurity.com/2019/07/10/windows-zero-day-cve-2019-1132-exploit/",
+           "title": "Windows zero\u2011day CVE\u20112019\u20111132 exploited in targeted attacks"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.buzzfeednews.com/article/albertonardelli/salvini-russia-oil-deal-secret-recording",
+           "title": "A Secret Recording Reveals How Russia Tried To Funnel Millions To Matteo Salvini's Lega Party"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://blog.preempt.com/security-advisory-targeting-ad-fs-with-external-brute-force-attacks",
+           "title": "Targeting AD FS With External Brute-Force Attacks"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Hijacking",
+           "link": "https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html",
+           "title": "Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/07/11/mozilla-patches-a-17-year-old-flaw-and-other-bugs-with-the-release-of-firefox-68/",
+           "title": "Mozilla Patches a 17-Year Old Flaw And Other Bugs With The Release Of Firefox 68"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/07/11/microsoft-july-patch-tuesday-addressed-78-security-flaws-including-two-zero-days/",
+           "title": "Microsoft July Patch Tuesday Addressed 78 Security Flaws Including Two Zero-Days"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/11/zero-day-vulnerability-in-zoom-could-allow-webcam-takeovers-on-mac/",
+           "title": "Zero-Day Vulnerability in Zoom Could Allow Webcam Takeovers On Mac"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/11/hackers-exploited-a-7-eleven-app-flaw-to-steal-500k-from-customers/",
+           "title": "Hackers Exploited A 7-Eleven App Flaw To Steal $500K From Customers"
+       }
+   ],
+   "events": []
+}
