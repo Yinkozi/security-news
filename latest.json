@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/",
-           "title": "P1 Labs   \u00bb Presenting QCSuper: a tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://techcommunity.microsoft.com/t5/Premier-Field-Engineering/Changes-to-Ticket-Granting-Ticket-TGT-Delegation-Across-Trusts/ba-p/440283",
-           "title": "Changes to Ticket-Granting Ticket (TGT) Delegation Across Trusts in Windows Server (PFE edition)"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.welivesecurity.com/2019/07/10/windows-zero-day-cve-2019-1132-exploit/",
-           "title": "Windows zero\u2011day CVE\u20112019\u20111132 exploited in targeted attacks"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.buzzfeednews.com/article/albertonardelli/salvini-russia-oil-deal-secret-recording",
-           "title": "A Secret Recording Reveals How Russia Tried To Funnel Millions To Matteo Salvini's Lega Party"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://blog.preempt.com/security-advisory-targeting-ad-fs-with-external-brute-force-attacks",
-           "title": "Targeting AD FS With External Brute-Force Attacks"
-       }
-   ],
-   "linksCurated": [
-       {
-           "category": "Hijacking",
-           "link": "https://blog.talosintelligence.com/2019/07/sea-turtle-keeps-on-swimming.html",
-           "title": "Sea Turtle keeps on swimming, finds new victims, DNS hijacking techniques"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://latesthackingnews.com/2019/07/11/mozilla-patches-a-17-year-old-flaw-and-other-bugs-with-the-release-of-firefox-68/",
-           "title": "Mozilla Patches a 17-Year Old Flaw And Other Bugs With The Release Of Firefox 68"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://latesthackingnews.com/2019/07/11/microsoft-july-patch-tuesday-addressed-78-security-flaws-including-two-zero-days/",
-           "title": "Microsoft July Patch Tuesday Addressed 78 Security Flaws Including Two Zero-Days"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/11/zero-day-vulnerability-in-zoom-could-allow-webcam-takeovers-on-mac/",
-           "title": "Zero-Day Vulnerability in Zoom Could Allow Webcam Takeovers On Mac"
+           "category": "Malware",
+           "link": "https://latesthackingnews.com/2019/07/11/fake-samsung-update-app-downloaded-by-over-10-million-android-users/",
+           "title": "Fake Samsung Update App Downloaded By Over 10 Million Android Users"
        },
 	   {
            "category": "Exploit",
            "link": "https://latesthackingnews.com/2019/07/11/hackers-exploited-a-7-eleven-app-flaw-to-steal-500k-from-customers/",
            "title": "Hackers Exploited A 7-Eleven App Flaw To Steal $500K From Customers"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/07/12/adobe-july-patch-tuesday-addressed-important-security-flaws-in-multiple-products/",
+           "title": "Adobe July Patch Tuesday Addressed Important Security Flaws In Multiple Products"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/marriott-hit-with-124-million-fine-for-2018-data-breach/",
+           "title": "Marriott hit with $124 million fine for 2018 data breach"
+       },
+       {
+           "category": "Huawei",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/rep-blackburn-china-using-huawei-to-build-spy-network-warns-against-access-to-u-s-5g/",
+           "title": "Rep. Blackburn: China using Huawei to build spy network, warns against access to U.S. 5G"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/what-fresh-hell-is-this-fileless-malware-campaign-spread-astaroth-backdoor-last-spring/",
+           "title": "Fileless malware campaign spread Astaroth backdoor last spring"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/patch-management/microsofts-july-2019-patch-tuesday-included-updates-for-77-vulnerabilities-including-two-actively-exploited-zero-days-and-five-publicly-disclosed-vulnerabilities/",
+           "title": "Microsoft’s Patch Tuesday addresses two actively exploited zero-days"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/new-ech0raix-ransomware-now-hitting-qnap-nas-drives/",
+           "title": "New eCh0raix ransomware now hitting QNAP NAS drives"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/u-s-mayors-resolve-to-no-longer-pay-ransomware-attackers/",
+           "title": "U.S. mayors resolve to no longer pay ransomware attackers"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/a-data-breach-at-a-l-a-county-department-of-health-services-contractor-resulted-in-the-compromise-of-data-from-several-thousand-patients/",
+           "title": "L.A. County Health Services Department contractor breach leaks patient data"
        }
    ],
    "events": []
