@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/mozillas-latest-firefox-releases-fix-21-bugs/",
-           "title": "Mozilla’s latest Firefox releases fix 21 bugs"
-       },
-	   {
-           "category": "Android",
-           "link": "https://latesthackingnews.com/2019/07/14/hundreds-of-popular-android-apps-evade-app-permissions-to-access-user-data/",
-           "title": "Hundreds Of Popular Android Apps Evade App Permissions To Access User Data"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://latesthackingnews.com/2019/07/14/intel-july-updates-with-security-fixes-rolled-out-amidst-patch-tuesday/",
-           "title": "Intel July Updates With Security Fixes Rolled-Out Amidst Patch Tuesday"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/intel-releases-updates-for-processor-diagnostic-tool-and-ssd-dc-s4500-s4600-series/",
-           "title": "Intel releases updates for Processor Diagnostic tool and SSD DC S4500/S4600 Series"
-       },
-       {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-released-security-updates-for-a-high-rated-vulnerability-in-its-adaptive-security-appliance-software-and-firepower-threat-defense-software-products/",
-           "title": "Cisco releases updates for DoS vulnerability"
-       }
-   ],
-   "linksCurated": [
-       {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/over-and-out-apple-temporarily-disables-walkie-talkie-app-after-bug-discovery/",
-           "title": "Apple temporarily disables Walkie Talkie app after bug discovery"
+           "link": "https://latesthackingnews.com/2019/07/16/magento-killer-attacks-magento-ecommerce-sites-to-steal-payment-data/",
+           "title": "Magento Killer Attacks Magento Ecommerce Sites To Steal Payment Data"
+       },
+	   {
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/2019/07/16/microsoft-introduce-automatic-phishing-detection-to-their-forms-software/",
+           "title": "Microsoft Introduce Automatic Phishing Detection to Their Forms Software"
        },
 	   {
            "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/malware/a-new-variant-of-mobile-malware-dubbed-agent-smith-has-already-infected-25-million-devices-15-million-of-which-are-in-india/",
-           "title": "Agent Smith Android malware infiltrates 25 million devices"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/juniper-networks-patches-dozens-of-vulnerabilities/",
-           "title": "Juniper Networks patches dozens of vulnerabilities"
-       },
-	   {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/intezer-successfully-shuts-down-qnapcrypt-ransomware-campaigns/",
-           "title": "Intezer successfully shuts down QNAPCrypt ransomware campaigns"
+           "link": "https://latesthackingnews.com/2019/07/15/agent-smith-android-malware-infected-25-million-devices-globally/",
+           "title": "Agent Smith Android Malware Infected 25 Million Devices Globally"
        },
 	   {
            "category": "Exploit",
            "link": "https://www.scmagazine.com/home/security-news/magecart-group-compromises-17000-domains-by-overwriting-amazon-s3-buckets/",
            "title": "Magecart group compromises 17,000 domains by overwriting Amazon S3 buckets"
+       },
+       {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/zoom-finally-patches-two-long-ago-reported-vulnerabilities-in-their-platform-including-one-which-exposed-as-many-as-750000-companies/",
+           "title": "Zoom finally patches video vulnerability months after discovery"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Facebook",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/facebook-to-pony-up-5-billion-in-ftc-settlement/",
+           "title": "Facebook to pony up $5 billion in FTC settlement"
+       },
+	   {
+           "category": "Spam",
+           "link": "https://www.scmagazine.com/home/security-news/trickbot-adds-new-spam-module-harvests-250m-email-addresses/",
+           "title": "TrickBot adds new spam module, harvests 250M email addresses"
+       },
+	   {
+           "category": "RIP",
+           "link": "https://www.scmagazine.com/home/network-security/computer-password-inventor-fernando-corbato-dies-at-93/",
+           "title": "Computer password inventor Fernando Corbató dies at 93"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://thehackernews.com/2019/07/microsoft-security-updates.html",
+           "title": "Microsoft Releases July 2019 Security Updates, 2 Flaws Under Active Attack"
+       },
+	   {
+           "category": "Spyware",
+           "link": "https://thehackernews.com/2019/07/finspy-spyware-android-ios.html",
+           "title": "Powerful FinSpy Spyware Found Targeting iOS and Android Users in Myanmar"
        }
    ],
    "events": []
