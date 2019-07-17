@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/16/magento-killer-attacks-magento-ecommerce-sites-to-steal-payment-data/",
-           "title": "Magento Killer Attacks Magento Ecommerce Sites To Steal Payment Data"
-       },
-	   {
-           "category": "Phishing",
-           "link": "https://latesthackingnews.com/2019/07/16/microsoft-introduce-automatic-phishing-detection-to-their-forms-software/",
-           "title": "Microsoft Introduce Automatic Phishing Detection to Their Forms Software"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://latesthackingnews.com/2019/07/15/agent-smith-android-malware-infected-25-million-devices-globally/",
-           "title": "Agent Smith Android Malware Infected 25 Million Devices Globally"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/magecart-group-compromises-17000-domains-by-overwriting-amazon-s3-buckets/",
-           "title": "Magecart group compromises 17,000 domains by overwriting Amazon S3 buckets"
+           "link": "https://www.zerodayinitiative.com/blog/2019/7/16/mindshare-automated-bug-hunting-by-modeling-vulnerable-code",
+           "title": "Zero Day Initiative - MindShaRE: Automated Bug Hunting by Modeling Vulnerable Code"
        },
        {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/zoom-finally-patches-two-long-ago-reported-vulnerabilities-in-their-platform-including-one-which-exposed-as-many-as-750000-companies/",
-           "title": "Zoom finally patches video vulnerability months after discovery"
+           "category": "Exploit",
+           "link": "https://blog.quarkslab.com/cve-2018-6924-freebsd-elf-header-parsing-kernel-memory-disclosure.html",
+           "title": "CVE-2018-6924: FreeBSD ELF Header Parsing Kernel Memory Disclosure"
+       },
+       {
+           "category": "Ransomware",
+           "link": "https://www.bleepingcomputer.com/news/security/fbi-releases-master-decryption-keys-for-gandcrab-ransomware/",
+           "title": "FBI Releases Master Decryption Keys for GandCrab Ransomware"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment",
+           "title": "Hunting for Privilege Escalation in Windows Environment"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://medium.com/@ruvlol/rce-in-jira-cve-2019-11581-901b845f0f",
+           "title": "RCE in Jira(CVE-2019\u201311581)"
        }
    ],
    "linksCurated": [
        {
-           "category": "Facebook",
-           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/facebook-to-pony-up-5-billion-in-ftc-settlement/",
-           "title": "Facebook to pony up $5 billion in FTC settlement"
+           "category": "Ransomware",
+           "link": "https://thehackernews.com/2019/07/ransomware-nas-devices.html",
+           "title": "A New Ransomware Is Targeting Network Attached Storage (NAS) Devices"
+       },
+       {
+           "category": "Tool",
+           "link": "https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/",
+           "title": "Tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://staaldraad.github.io/post/2019-07-16-cve-2019-13139-docker-build/",
+           "title": "CVE-2019-13139 - Docker build code execution"
        },
 	   {
-           "category": "Spam",
-           "link": "https://www.scmagazine.com/home/security-news/trickbot-adds-new-spam-module-harvests-250m-email-addresses/",
-           "title": "TrickBot adds new spam module, harvests 250M email addresses"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/16/smart-hair-straightener-vulnerability-discovered-that-could-set-your-house-on-fire/",
+           "title": "Smart Hair Straightener Vulnerability Discovered That Could Set Your House on Fire"
        },
 	   {
-           "category": "RIP",
-           "link": "https://www.scmagazine.com/home/network-security/computer-password-inventor-fernando-corbato-dies-at-93/",
-           "title": "Computer password inventor Fernando Corbató dies at 93"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://thehackernews.com/2019/07/microsoft-security-updates.html",
-           "title": "Microsoft Releases July 2019 Security Updates, 2 Flaws Under Active Attack"
-       },
-	   {
-           "category": "Spyware",
-           "link": "https://thehackernews.com/2019/07/finspy-spyware-android-ios.html",
-           "title": "Powerful FinSpy Spyware Found Targeting iOS and Android Users in Myanmar"
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/report-suggests-gandcrabs-developers-may-have-created-sodinokibi-ransomware/",
+           "title": "Report suggests GandCrab’s developers may have created Sodinokibi ransomware"
        }
    ],
    "events": []
