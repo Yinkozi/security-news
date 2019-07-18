@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://www.zerodayinitiative.com/blog/2019/7/16/mindshare-automated-bug-hunting-by-modeling-vulnerable-code",
-           "title": "Zero Day Initiative - MindShaRE: Automated Bug Hunting by Modeling Vulnerable Code"
+           "link": "https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html",
+           "title": "Orange: Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!"
        },
        {
            "category": "Exploit",
-           "link": "https://blog.quarkslab.com/cve-2018-6924-freebsd-elf-header-parsing-kernel-memory-disclosure.html",
-           "title": "CVE-2018-6924: FreeBSD ELF Header Parsing Kernel Memory Disclosure"
-       },
-       {
-           "category": "Ransomware",
-           "link": "https://www.bleepingcomputer.com/news/security/fbi-releases-master-decryption-keys-for-gandcrab-ransomware/",
-           "title": "FBI Releases Master Decryption Keys for GandCrab Ransomware"
+           "link": "https://d4stiny.github.io/Local-Privilege-Escalation-on-most-Dell-computers/",
+           "title": "Local Privilege Escalation on Dell machines running Windows"
        },
        {
            "category": "Exploit",
-           "link": "https://speakerdeck.com/heirhabarov/hunting-for-privilege-escalation-in-windows-environment",
-           "title": "Hunting for Privilege Escalation in Windows Environment"
+           "link": "https://eclypsium.com/2019/07/16/vulnerable-firmware-in-the-supply-chain-of-enterprise-servers/",
+           "title": " Vulnerable Firmware in the Supply Chain of Enterprise Servers"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/rickygate-puerto-rican-governors-private-chat-group-messages-leaked-on-telegram/",
+           "title": "Puerto Rican governors private chat group messages leaked on Telegram"
        },
        {
-           "category": "Exploit",
-           "link": "https://medium.com/@ruvlol/rce-in-jira-cve-2019-11581-901b845f0f",
-           "title": "RCE in Jira(CVE-2019\u201311581)"
+           "category": "Malicious",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/an-unofficial-telegram-app-is-secretly-loading-malicious-sites-onto-the-devices-of-unsuspecting-users-and-running-other-malicious-services-in-the-background/",
+           "title": "Unofficial Telegram app secretly loads malicious sites"
        }
    ],
    "linksCurated": [
        {
-           "category": "Ransomware",
-           "link": "https://thehackernews.com/2019/07/ransomware-nas-devices.html",
-           "title": "A New Ransomware Is Targeting Network Attached Storage (NAS) Devices"
-       },
-       {
-           "category": "Tool",
-           "link": "https://labs.p1sec.com/2019/07/09/presenting-qcsuper-a-tool-for-capturing-your-2g-3g-4g-air-traffic-on-qualcomm-based-phones/",
-           "title": "Tool for capturing your 2G/3G/4G air traffic on Qualcomm-based phones"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://staaldraad.github.io/post/2019-07-16-cve-2019-13139-docker-build/",
-           "title": "CVE-2019-13139 - Docker build code execution"
+           "category": "Panic",
+           "link": "https://www.scmagazine.com/home/security-news/jetblue-flight-evacuated-after-photo-of-suicide-vest-sent-to-crew-passengers-via-airdrop/",
+           "title": "JetBlue flight evacuated after photo of suicide vest sent to crew, passengers via AirDrop"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/16/smart-hair-straightener-vulnerability-discovered-that-could-set-your-house-on-fire/",
-           "title": "Smart Hair Straightener Vulnerability Discovered That Could Set Your House on Fire"
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/malware-framework-generates-1b-fake-ad-impressions-in-3-months/",
+           "title": "Malware framework generates 1B fake ad impressions in 3 months"
        },
 	   {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/report-suggests-gandcrabs-developers-may-have-created-sodinokibi-ransomware/",
-           "title": "Report suggests GandCrab’s developers may have created Sodinokibi ransomware"
+           "category": "McAfee",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/dutch-police-mcafee-nail-macro-toolkit-builder-rubella/",
+           "title": "Dutch police, McAfee nail macro toolkit-builder"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
+           "title": "2.2 million Clinical Pathology Laboratories patients exposed in AMCA breach"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/sprint-is-notifying-customers-that-threat-actors-gained-unauthorized-access-to-an-undisclosed-number-of-customer-accounts-via-a-compromised-samsung-website/",
+           "title": "Sprint customer data breached via Samsung website flaw"
        }
    ],
    "events": []
