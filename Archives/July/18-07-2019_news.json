@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html",
+           "title": "Orange: Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://d4stiny.github.io/Local-Privilege-Escalation-on-most-Dell-computers/",
+           "title": "Local Privilege Escalation on Dell machines running Windows"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://eclypsium.com/2019/07/16/vulnerable-firmware-in-the-supply-chain-of-enterprise-servers/",
+           "title": " Vulnerable Firmware in the Supply Chain of Enterprise Servers"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/rickygate-puerto-rican-governors-private-chat-group-messages-leaked-on-telegram/",
+           "title": "Puerto Rican governors private chat group messages leaked on Telegram"
+       },
+       {
+           "category": "Malicious",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/an-unofficial-telegram-app-is-secretly-loading-malicious-sites-onto-the-devices-of-unsuspecting-users-and-running-other-malicious-services-in-the-background/",
+           "title": "Unofficial Telegram app secretly loads malicious sites"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Panic",
+           "link": "https://www.scmagazine.com/home/security-news/jetblue-flight-evacuated-after-photo-of-suicide-vest-sent-to-crew-passengers-via-airdrop/",
+           "title": "JetBlue flight evacuated after photo of suicide vest sent to crew, passengers via AirDrop"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/malware-framework-generates-1b-fake-ad-impressions-in-3-months/",
+           "title": "Malware framework generates 1B fake ad impressions in 3 months"
+       },
+	   {
+           "category": "McAfee",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/dutch-police-mcafee-nail-macro-toolkit-builder-rubella/",
+           "title": "Dutch police, McAfee nail macro toolkit-builder"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
+           "title": "2.2 million Clinical Pathology Laboratories patients exposed in AMCA breach"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/sprint-is-notifying-customers-that-threat-actors-gained-unauthorized-access-to-an-undisclosed-number-of-customer-accounts-via-a-compromised-samsung-website/",
+           "title": "Sprint customer data breached via Samsung website flaw"
+       }
+   ],
+   "events": []
+}
