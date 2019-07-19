@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Exploit",
-           "link": "https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html",
-           "title": "Orange: Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://d4stiny.github.io/Local-Privilege-Escalation-on-most-Dell-computers/",
-           "title": "Local Privilege Escalation on Dell machines running Windows"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://eclypsium.com/2019/07/16/vulnerable-firmware-in-the-supply-chain-of-enterprise-servers/",
-           "title": " Vulnerable Firmware in the Supply Chain of Enterprise Servers"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-dump-suggests-that-evite-data-breach-affected-100m-accounts/",
+           "title": "Data dump suggests that Evite data breach affected 100M accounts"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/rickygate-puerto-rican-governors-private-chat-group-messages-leaked-on-telegram/",
-           "title": "Puerto Rican governors private chat group messages leaked on Telegram"
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/the-infamous-mirai-malware-has-grown-into-more-than-60-known-variants-and-has-since-set-its-sights-on-enterprise-devices/",
+           "title": "Mirai malware sets sights on enterprise IoT devices ripe for picking"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/cryptojacking-the-growing-malware-menace/",
+           "title": "Cryptojacking: The growing malware menace"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/drupal-released-a-security-update-to-patch-an-access-bypass-vulnerability-in-drupal-core-which-could-allow-an-attacker-to-take-control-of-an-affected-website/",
+           "title": "Drupal patches access bypass vulnerability"
        },
        {
-           "category": "Malicious",
-           "link": "https://www.scmagazine.com/home/security-news/cybercrime/an-unofficial-telegram-app-is-secretly-loading-malicious-sites-onto-the-devices-of-unsuspecting-users-and-running-other-malicious-services-in-the-background/",
-           "title": "Unofficial Telegram app secretly loads malicious sites"
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-releases-security-updates-for-multiple-products-some-of-which-contain-vulnerabilities-that-if-exploited-would-allow-an-attacker-to-take-control-of-an-affected-system/",
+           "title": "Cisco releases updates, one Critical and two High severity ratings"
        }
    ],
    "linksCurated": [
        {
-           "category": "Panic",
-           "link": "https://www.scmagazine.com/home/security-news/jetblue-flight-evacuated-after-photo-of-suicide-vest-sent-to-crew-passengers-via-airdrop/",
-           "title": "JetBlue flight evacuated after photo of suicide vest sent to crew, passengers via AirDrop"
+           "category": "Bypass",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/researchers-devise-method-to-track-bluetooth-devices-despite-built-in-protections/",
+           "title": "Researchers devise method to track Bluetooth devices, despite built-in protections"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/magecart-amazon-s3-hacking.html",
+           "title": "Magecart Hackers Infect 17,000 Sites Through Misconfigured Amazon S3 Buckets"
        },
 	   {
            "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/malware/malware-framework-generates-1b-fake-ad-impressions-in-3-months/",
-           "title": "Malware framework generates 1B fake ad impressions in 3 months"
+           "link": "https://thehackernews.com/2019/07/whatsapp-android-malware.html",
+           "title": "New Malware Replaced Legit Android Apps With Fake Ones On 25 Million Devices"
        },
 	   {
-           "category": "McAfee",
-           "link": "https://www.scmagazine.com/home/security-news/cybercrime/dutch-police-mcafee-nail-macro-toolkit-builder-rubella/",
-           "title": "Dutch police, McAfee nail macro toolkit-builder"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/zoom-video-conferencing-hacking.html",
+           "title": "Zoom Video Conferencing for macOS Also Vulnerable to Critical RCE Flaw"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
-           "title": "2.2 million Clinical Pathology Laboratories patients exposed in AMCA breach"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/sprint-is-notifying-customers-that-threat-actors-gained-unauthorized-access-to-an-undisclosed-number-of-customer-accounts-via-a-compromised-samsung-website/",
-           "title": "Sprint customer data breached via Samsung website flaw"
+           "category": "MiTM",
+           "link": "https://thehackernews.com/2019/07/ios-custom-url-scheme.html",
+           "title": "iOS URL Scheme Could Let App-in-the-Middle Attackers Hijack Your Accounts"
        }
    ],
    "events": []
