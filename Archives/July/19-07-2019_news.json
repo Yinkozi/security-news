@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-dump-suggests-that-evite-data-breach-affected-100m-accounts/",
+           "title": "Data dump suggests that Evite data breach affected 100M accounts"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/the-infamous-mirai-malware-has-grown-into-more-than-60-known-variants-and-has-since-set-its-sights-on-enterprise-devices/",
+           "title": "Mirai malware sets sights on enterprise IoT devices ripe for picking"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/cryptojacking-the-growing-malware-menace/",
+           "title": "Cryptojacking: The growing malware menace"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/drupal-released-a-security-update-to-patch-an-access-bypass-vulnerability-in-drupal-core-which-could-allow-an-attacker-to-take-control-of-an-affected-website/",
+           "title": "Drupal patches access bypass vulnerability"
+       },
+       {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/cisco-releases-security-updates-for-multiple-products-some-of-which-contain-vulnerabilities-that-if-exploited-would-allow-an-attacker-to-take-control-of-an-affected-system/",
+           "title": "Cisco releases updates, one Critical and two High severity ratings"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Bypass",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/researchers-devise-method-to-track-bluetooth-devices-despite-built-in-protections/",
+           "title": "Researchers devise method to track Bluetooth devices, despite built-in protections"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/magecart-amazon-s3-hacking.html",
+           "title": "Magecart Hackers Infect 17,000 Sites Through Misconfigured Amazon S3 Buckets"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/07/whatsapp-android-malware.html",
+           "title": "New Malware Replaced Legit Android Apps With Fake Ones On 25 Million Devices"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/zoom-video-conferencing-hacking.html",
+           "title": "Zoom Video Conferencing for macOS Also Vulnerable to Critical RCE Flaw"
+       },
+	   {
+           "category": "MiTM",
+           "link": "https://thehackernews.com/2019/07/ios-custom-url-scheme.html",
+           "title": "iOS URL Scheme Could Let App-in-the-Middle Attackers Hijack Your Accounts"
+       }
+   ],
+   "events": []
+}
