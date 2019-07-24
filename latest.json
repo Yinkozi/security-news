@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
+           "category": "Spyware",
+           "link": "https://latesthackingnews.com/2019/07/20/spearphone-attack-allows-android-apps-to-listen-to-your-loudspeaker-conversations/",
+           "title": "Spearphone Attack Allows Android Apps to Listen To Your Loudspeaker Conversations"
+       },
+	   {
+           "category": "Hijack",
+           "link": "https://latesthackingnews.com/2019/07/21/misusing-ios-url-scheme-could-allow-attackers-hijack-user-accounts/",
+           "title": "Misusing iOS URL Scheme Could Allow Attackers Hijack User Accounts"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://github.com/blackorbird/APT_REPORT/blob/master/exploit_report/%23bluekeep%20RDP%20from%20patch%20to%20remote%20code%20execution.pdf",
-           "title": "APT_REPORT/#bluekeep RDP from patch to remote code execution"
+           "link": "https://latesthackingnews.com/2019/07/22/hackers-can-manipulate-twitter-cards-to-phish-twitter-users/",
+           "title": "Hackers Can Manipulate Twitter Cards To Phish Twitter Users"
+       },
+	   {
+           "category": "Social Engineering",
+           "link": "https://latesthackingnews.com/2019/07/22/phishing-campaign-tricks-users-via-shtml-file-attachments/",
+           "title": "Phishing Campaign Tricks Users Via SHTML File Attachments"
        },
        {
            "category": "Exploit",
-           "link": "https://www.mdsec.co.uk/2019/07/introducing-the-office-365-attack-toolkit/",
-           "title": "Introducing the Office 365 Attack Toolkit"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://medium.com/tenable-techblog/comodo-from-sandbox-to-system-cve-2019-3969-b6a34cc85e67",
-           "title": "COModo: From Sandbox to SYSTEM (CVE-2019\u20133969)"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://hubs.ly/H0jPPCs0",
-           "title": "Automating local DTD discovery for XXE exploitation"
-       },
-       {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/07/bulgaria-nra-data-breach.html",
-           "title": "Hacker Stole Data of Over 70% Bulgarian Citizens from Tax Agency Servers"
+           "link": "https://latesthackingnews.com/2019/07/22/whatsapp-telegram-and-other-android-apps-vulnerable-to-media-file-jacking/",
+           "title": "WhatsApp, Telegram And Other Android Apps Vulnerable To Media File Jacking"
        }
    ],
    "linksCurated": [
        {
-           "category": "Backdoor",
-           "link": "https://thehackernews.com/2019/07/linux-gnome-spyware.html",
-           "title": "EvilGnome: A New Backdoor Implant Spies On Linux Desktop Users"
-       },
-	   {
-           "category": "Interception",
-           "link": "https://thehackernews.com/2019/07/kazakhstan-https-security-certificate.html",
-           "title": "Kazakhstan Begins Intercepting HTTPS Internet Traffic Of All Citizens Forcefully"
-       },
-	   {
-           "category": "Slack",
-           "link": "https://thehackernews.com/2019/07/slack-password-data-breach.html",
-           "title": "Slack Resets Passwords For Users Who Hadn't Changed It Since 2015 Breach"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/07/equifax-data-breach-fine.html",
-           "title": "Equifax to Pay up to $700 Million in 2017 Data Breach Settlement"
+           "category": "Ransomware",
+           "link": "https://latesthackingnews.com/2019/07/22/gandcrab-out-sodinokibi-in-meet-the-new-sodinokibi-ransom",
+           "title": "GandCrab Out – Sodinokibi In! Meet The New Sodinokibi Ransomware"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/20/apple-ios-13-vulnerability-could-allow-unauthenticated-access-to-saved-passwords-and-emails/",
-           "title": "Apple iOS 13 Vulnerability Could Allow Unauthenticated Access To Saved Passwords And Emails"
+           "link": "https://latesthackingnews.com/2019/07/22/critical-vlc-media-player-vulnerability-discovered-by-german-researchers/",
+           "title": "Critical VLC Media Player Vulnerability Discovered By German Researchers"
+       },
+	   {
+           "category": "Scam",
+           "link": "https://latesthackingnews.com/2019/07/23/beware-of-free-faceapp-pro-version-scams/",
+           "title": "Beware Of FREE FaceApp Pro Scams"
+       },
+	   {
+           "category": "Scam",
+           "link": "https://latesthackingnews.com/2019/07/23/fake-alert-phishing-scam-targets-microsoft-office-365-admins/",
+           "title": "Fake Alert Phishing Scam Targets Microsoft Office 365 Admins"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/researchers-bypass-cylances-ai-based-av-solution-by-masking-malware-with-video-game-code/",
+           "title": "Researchers bypass Cylances AI-based AV solution by masking malware with video game code"
        }
    ],
    "events": []
