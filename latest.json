@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/26/wordpress-plugin-exploitation-on-the-rise-for-malvertising-based-exploits/",
-           "title": "WordPress Plugin Exploitation on The Rise For Malvertising Based Exploits"
+           "link": "https://posts.specterops.io/cve-2019-13382-local-privilege-escalation-in-snagit-abe5f31c349",
+           "title": "CVE-2019\u201313382: Local Privilege Escalation in SnagIt"
        },
-	   {
-           "category": "Cyber Attack",
-           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/louisiana-declares-state-of-emergency-after-cyberattacks-hit-three-school-districts/",
-           "title": "Louisiana declares state of emergency after cyberattacks hit three school districts"
+       {
+           "category": "Tool",
+           "link": "https://github.com/google/AFL",
+           "title": "GitHub - google/AFL: american fuzzy lop - a security-oriented fuzzer"
        },
-	   {
-           "category": "Patch",
-           "link": "https://latesthackingnews.com/2019/07/25/apple-patched-walkie-talkie-bug-with-ios-12-4-as-well-as-other-fixes/",
-           "title": "Apple Patched Walkie-Talkie Bug With iOS 12.4, As Well As Other Fixes"
+       {
+           "category": "Exploit",
+           "link": "https://modexp.wordpress.com/2019/07/21/inmem-exec-script/",
+           "title": "Shellcode: In-Memory Execution of JavaScript, VBScript, JScript and XSL | modexp"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/25/facebook-messenger-kids-app-vulnerability-exposed-kids-to-strangers/",
-           "title": "Facebook Messenger Kids App Vulnerability Exposed Kids To Strangers"
+           "link": "https://thehackernews.com/2019/07/linux-ftp-server-security.html",
+           "title": "A New Arbitrary File Copy Flaw Affects ProFTPD Powered FTP Servers"
        },
        {
-           "category": "Scam",
-           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/researchers-at-intrusion-truth-are-claiming-the-cyberespionage-group-apt17-is-ran-by-the-jinan-bureau-of-the-chinese-ministry-of-state-security/",
-           "title": "APT-hunting group claims China’s Security Ministry is behind APT17"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/siemens-logic-bomb.html",
+           "title": "Siemens Contractor Pleads Guilty to Planting 'Logic Bomb' in Spreadsheets"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/mozilla-calls-facebook-political-ad-api-inadequate/",
-           "title": "Mozilla calls Facebook political ad API inadequate"
+           "category": "Facebook",
+           "link": "https://thehackernews.com/2019/07/ftc-facebook-privacy-program.html",
+           "title": "Facebook Agrees to Pay $5 Billion Fine and Setup New Privacy Program for 20 Years"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-cost-rises-to-4-million-per-incident-u-s-victims-hit-even-harder/",
-           "title": "Data breach cost rises to $4 million per incident; U.S. victims hit even harder"
+           "category": "Spyware",
+           "link": "https://thehackernews.com/2019/07/russian-android-spying-apps.html",
+           "title": "New Android Spyware Created by Russian Defense Contractor Found in the Wild"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/android-media-framework-hack.html",
-           "title": "Your Android Phone Can Get Hacked Just By Playing This Video"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://thehackernews.com/2019/07/process-doppelganging-malware.html",
-           "title": "Popular Malware Families Using 'Process Doppelgänging' to Evade Detection"
+           "category": "Jailed",
+           "link": "https://thehackernews.com/2019/07/silk-road-dark-web-admin.html",
+           "title": "Silk Road Admin Sentenced to 78 Months in Prison On Drug Trafficking Charges"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/linux-malware-windows-bluekeep.html",
-           "title": "Linux Botnet Adding BlueKeep-Flawed Windows RDP Servers to Its Target List"
+           "link": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1818",
+           "title": "Universal XSS due to synchronous page loads"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://cpr-zero.checkpoint.com/vulns/cprid-2131/",
+           "title": "Windows 10 x64 1809 • 10.0.17763.437 (WinBuild.160101.0800)"
        }
    ],
    "events": []
