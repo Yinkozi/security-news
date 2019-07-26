@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/26/wordpress-plugin-exploitation-on-the-rise-for-malvertising-based-exploits/",
+           "title": "WordPress Plugin Exploitation on The Rise For Malvertising Based Exploits"
+       },
+	   {
+           "category": "Cyber Attack",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/louisiana-declares-state-of-emergency-after-cyberattacks-hit-three-school-districts/",
+           "title": "Louisiana declares state of emergency after cyberattacks hit three school districts"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/07/25/apple-patched-walkie-talkie-bug-with-ios-12-4-as-well-as-other-fixes/",
+           "title": "Apple Patched Walkie-Talkie Bug With iOS 12.4, As Well As Other Fixes"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/25/facebook-messenger-kids-app-vulnerability-exposed-kids-to-strangers/",
+           "title": "Facebook Messenger Kids App Vulnerability Exposed Kids To Strangers"
+       },
+       {
+           "category": "Scam",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/researchers-at-intrusion-truth-are-claiming-the-cyberespionage-group-apt17-is-ran-by-the-jinan-bureau-of-the-chinese-ministry-of-state-security/",
+           "title": "APT-hunting group claims China’s Security Ministry is behind APT17"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/mozilla-calls-facebook-political-ad-api-inadequate/",
+           "title": "Mozilla calls Facebook political ad API inadequate"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-cost-rises-to-4-million-per-incident-u-s-victims-hit-even-harder/",
+           "title": "Data breach cost rises to $4 million per incident; U.S. victims hit even harder"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/android-media-framework-hack.html",
+           "title": "Your Android Phone Can Get Hacked Just By Playing This Video"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/07/process-doppelganging-malware.html",
+           "title": "Popular Malware Families Using 'Process Doppelgänging' to Evade Detection"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/linux-malware-windows-bluekeep.html",
+           "title": "Linux Botnet Adding BlueKeep-Flawed Windows RDP Servers to Its Target List"
+       }
+   ],
+   "events": []
+}
