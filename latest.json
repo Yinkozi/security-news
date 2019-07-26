@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Spyware",
-           "link": "https://latesthackingnews.com/2019/07/20/spearphone-attack-allows-android-apps-to-listen-to-your-loudspeaker-conversations/",
-           "title": "Spearphone Attack Allows Android Apps to Listen To Your Loudspeaker Conversations"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/26/wordpress-plugin-exploitation-on-the-rise-for-malvertising-based-exploits/",
+           "title": "WordPress Plugin Exploitation on The Rise For Malvertising Based Exploits"
        },
 	   {
-           "category": "Hijack",
-           "link": "https://latesthackingnews.com/2019/07/21/misusing-ios-url-scheme-could-allow-attackers-hijack-user-accounts/",
-           "title": "Misusing iOS URL Scheme Could Allow Attackers Hijack User Accounts"
+           "category": "Cyber Attack",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/louisiana-declares-state-of-emergency-after-cyberattacks-hit-three-school-districts/",
+           "title": "Louisiana declares state of emergency after cyberattacks hit three school districts"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://latesthackingnews.com/2019/07/25/apple-patched-walkie-talkie-bug-with-ios-12-4-as-well-as-other-fixes/",
+           "title": "Apple Patched Walkie-Talkie Bug With iOS 12.4, As Well As Other Fixes"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/22/hackers-can-manipulate-twitter-cards-to-phish-twitter-users/",
-           "title": "Hackers Can Manipulate Twitter Cards To Phish Twitter Users"
-       },
-	   {
-           "category": "Social Engineering",
-           "link": "https://latesthackingnews.com/2019/07/22/phishing-campaign-tricks-users-via-shtml-file-attachments/",
-           "title": "Phishing Campaign Tricks Users Via SHTML File Attachments"
+           "link": "https://latesthackingnews.com/2019/07/25/facebook-messenger-kids-app-vulnerability-exposed-kids-to-strangers/",
+           "title": "Facebook Messenger Kids App Vulnerability Exposed Kids To Strangers"
        },
        {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/22/whatsapp-telegram-and-other-android-apps-vulnerable-to-media-file-jacking/",
-           "title": "WhatsApp, Telegram And Other Android Apps Vulnerable To Media File Jacking"
+           "category": "Scam",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/researchers-at-intrusion-truth-are-claiming-the-cyberespionage-group-apt17-is-ran-by-the-jinan-bureau-of-the-chinese-ministry-of-state-security/",
+           "title": "APT-hunting group claims China’s Security Ministry is behind APT17"
        }
    ],
    "linksCurated": [
        {
-           "category": "Ransomware",
-           "link": "https://latesthackingnews.com/2019/07/22/gandcrab-out-sodinokibi-in-meet-the-new-sodinokibi-ransom",
-           "title": "GandCrab Out – Sodinokibi In! Meet The New Sodinokibi Ransomware"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/mozilla-calls-facebook-political-ad-api-inadequate/",
+           "title": "Mozilla calls Facebook political ad API inadequate"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-cost-rises-to-4-million-per-incident-u-s-victims-hit-even-harder/",
+           "title": "Data breach cost rises to $4 million per incident; U.S. victims hit even harder"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/22/critical-vlc-media-player-vulnerability-discovered-by-german-researchers/",
-           "title": "Critical VLC Media Player Vulnerability Discovered By German Researchers"
-       },
-	   {
-           "category": "Scam",
-           "link": "https://latesthackingnews.com/2019/07/23/beware-of-free-faceapp-pro-version-scams/",
-           "title": "Beware Of FREE FaceApp Pro Scams"
-       },
-	   {
-           "category": "Scam",
-           "link": "https://latesthackingnews.com/2019/07/23/fake-alert-phishing-scam-targets-microsoft-office-365-admins/",
-           "title": "Fake Alert Phishing Scam Targets Microsoft Office 365 Admins"
+           "link": "https://thehackernews.com/2019/07/android-media-framework-hack.html",
+           "title": "Your Android Phone Can Get Hacked Just By Playing This Video"
        },
 	   {
            "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/researchers-bypass-cylances-ai-based-av-solution-by-masking-malware-with-video-game-code/",
-           "title": "Researchers bypass Cylances AI-based AV solution by masking malware with video game code"
+           "link": "https://thehackernews.com/2019/07/process-doppelganging-malware.html",
+           "title": "Popular Malware Families Using 'Process Doppelgänging' to Evade Detection"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/linux-malware-windows-bluekeep.html",
+           "title": "Linux Botnet Adding BlueKeep-Flawed Windows RDP Servers to Its Target List"
        }
    ],
    "events": []
