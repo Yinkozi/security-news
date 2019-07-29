@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://posts.specterops.io/cve-2019-13382-local-privilege-escalation-in-snagit-abe5f31c349",
+           "title": "CVE-2019\u201313382: Local Privilege Escalation in SnagIt"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/google/AFL",
+           "title": "GitHub - google/AFL: american fuzzy lop - a security-oriented fuzzer"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://modexp.wordpress.com/2019/07/21/inmem-exec-script/",
+           "title": "Shellcode: In-Memory Execution of JavaScript, VBScript, JScript and XSL | modexp"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/linux-ftp-server-security.html",
+           "title": "A New Arbitrary File Copy Flaw Affects ProFTPD Powered FTP Servers"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/siemens-logic-bomb.html",
+           "title": "Siemens Contractor Pleads Guilty to Planting 'Logic Bomb' in Spreadsheets"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Facebook",
+           "link": "https://thehackernews.com/2019/07/ftc-facebook-privacy-program.html",
+           "title": "Facebook Agrees to Pay $5 Billion Fine and Setup New Privacy Program for 20 Years"
+       },
+	   {
+           "category": "Spyware",
+           "link": "https://thehackernews.com/2019/07/russian-android-spying-apps.html",
+           "title": "New Android Spyware Created by Russian Defense Contractor Found in the Wild"
+       },
+	   {
+           "category": "Jailed",
+           "link": "https://thehackernews.com/2019/07/silk-road-dark-web-admin.html",
+           "title": "Silk Road Admin Sentenced to 78 Months in Prison On Drug Trafficking Charges"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1818",
+           "title": "Universal XSS due to synchronous page loads"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://cpr-zero.checkpoint.com/vulns/cprid-2131/",
+           "title": "Windows 10 x64 1809 • 10.0.17763.437 (WinBuild.160101.0800)"
+       }
+   ],
+   "events": []
+}
