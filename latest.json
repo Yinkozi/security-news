@@ -1,54 +1,54 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/86hh/cfg-teleport-demo",
-           "title": "GitHub - 86hh/cfg-teleport-demo: Control Flow Guard Teleportation demo"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/vxworks-rtos-vulnerability.html",
+           "title": "Critical Flaws Found in VxWorks RTOS That Powers Over 2 Billion Devices"
        },
-       {
-           "category": "5G",
-           "link": "https://privacyinternational.org/long-read/3100/welcome-5g-privacy-and-security-hyperconnected-world-or-not",
-           "title": "Welcome to 5G: Privacy and security in a hyperconnected world (or not?) | Privacy International"
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/07/capital-one-data-breach.html",
+           "title": "Capital One Data Breach Affects 106 Million Customers; Hacker Arrested"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/personal-info-on-2500-lapd-members-17-5k-applicants-stolen/",
+           "title": "Personal info on 2500 LAPD members, 17.5K applicants stolen"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/capital-one-hacker-who-stole-personal-info-on-100m-arrested/",
+           "title": "Capital One hacker who stole personal info on 100M arrested"
        },
        {
            "category": "Exploit",
-           "link": "http://blog.infosectcbr.com.au/2019/07/linux-heap-tcache-poisoning.html",
-           "title": "Linux Heap TCache Poisoning"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://pwnrip.com/exploiting-cve-2019-1132-another-null-pointer-dereference-in-windows-kernel/",
-           "title": "Exploiting CVE-2019-1132: Another NULL Pointer Dereference in Windows Kernel"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/faceapp-facebook-privacy.html",
-           "title": "Viral FaceApp Unnecessarily Requests Access to Users' Facebook Friends List"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/over-2b-devices-affected-by-critical-flaws-found-in-real-time-operating-system/",
+           "title": "Over 200M devices affected by critical flaws found in real-time operating system"
        }
    ],
    "linksCurated": [
        {
            "category": "Ransomware",
-           "link": "https://thehackernews.com/2019/07/marcus-hutchins-sentenced.html",
-           "title": "Judge Rules No Jail Time for WannaCry 'Killer' Marcus Hutchins, a.k.a. MalwareTech"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/libreoffice-vulnerability.html",
-           "title": "Just Opening A Document in LibreOffice Can Hack Your Computer (Unpatched)"
+           "link": "https://www.scmagazine.com/home/security-news/mobile-security/flawed-but-promising-android-ransomware-uncovered/",
+           "title": "Flawed, but promising, Android ransomware uncovered"
        },
 	   {
            "category": "Ransomware",
-           "link": "https://thehackernews.com/2019/07/cyberattack-power-outage.html",
-           "title": "Ransomware Attack Caused Power Outages in the Biggest South African City"
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/georgia-state-patrol-agency-infected-with-ransomware/",
+           "title": "Georgia State Patrol agency infected with ransomware"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/28/microsoft-office-365-webmail-shows-senders-ip-addresses-in-email-headers/",
-           "title": "Microsoft Office 365 Webmail Shows Senders’ IP Addresses In Email Headers"
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/2019/07/29/phishing-campaign-exploits-wetransfer-alerts-to-bypass-email-gateways/",
+           "title": "Phishing Campaign Exploits WeTransfer Alerts To Bypass Email Gateways"
        },
 	   {
-           "category": "Exploit",
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/category/cyber-security-news/",
+           "title": "Phishing Campaign Exploits WeTransfer Alerts To Bypass Email Gateways"
+       },
+	   {
+           "category": "Scam",
            "link": "https://latesthackingnews.com/2019/07/28/fake-google-domains-used-to-target-magento-websites-for-credit-card-skimming/",
            "title": "Fake Google Domains Used To Target Magento Websites For Credit Card Skimming"
        }
