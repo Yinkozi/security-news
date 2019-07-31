@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/26/customers-wrongly-billed-after-deliveroo-accounts-got-hacked/",
+           "title": "Customers Wrongly Billed After Deliveroo Accounts Got Hacked"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/27/financial-service-robinhood-stored-customers-passwords-in-plain-text/",
+           "title": "Financial Service Robinhood Stored Customers Passwords In Plain Text"
+       },
+	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/vxworks-rtos-vulnerability.html",
-           "title": "Critical Flaws Found in VxWorks RTOS That Powers Over 2 Billion Devices"
+           "link": "https://latesthackingnews.com/2019/07/27/android-media-framework-flaw-could-get-phones-hacked-by-playing-malicious-video/",
+           "title": "Android Media Framework Flaw Could Get Phones Hacked By Playing Malicious Video"
        },
 	   {
            "category": "Breach",
-           "link": "https://thehackernews.com/2019/07/capital-one-data-breach.html",
-           "title": "Capital One Data Breach Affects 106 Million Customers; Hacker Arrested"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/personal-info-on-2500-lapd-members-17-5k-applicants-stolen/",
-           "title": "Personal info on 2500 LAPD members, 17.5K applicants stolen"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/capital-one-hacker-who-stole-personal-info-on-100m-arrested/",
-           "title": "Capital One hacker who stole personal info on 100M arrested"
+           "link": "https://latesthackingnews.com/2019/07/28/brazilian-financial-service-exposed-250gb-of-local-banks-customers-data-via-unsecured-server/",
+           "title": "Brazilian Financial Service Exposed 250GB Of Local Banks’ Customers Data Via Unsecured Server"
        },
        {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/over-2b-devices-affected-by-critical-flaws-found-in-real-time-operating-system/",
-           "title": "Over 200M devices affected by critical flaws found in real-time operating system"
+           "link": "https://latesthackingnews.com/2019/07/28/multiple-vulnerabilities-discovered-in-comodo-antivirus-patch-pending/",
+           "title": "Multiple Vulnerabilities Discovered In Comodo Antivirus – Patch Pending!"
        }
    ],
    "linksCurated": [
        {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/mobile-security/flawed-but-promising-android-ransomware-uncovered/",
-           "title": "Flawed, but promising, Android ransomware uncovered"
-       },
-	   {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/georgia-state-patrol-agency-infected-with-ransomware/",
-           "title": "Georgia State Patrol agency infected with ransomware"
-       },
-	   {
-           "category": "Phishing",
-           "link": "https://latesthackingnews.com/2019/07/29/phishing-campaign-exploits-wetransfer-alerts-to-bypass-email-gateways/",
-           "title": "Phishing Campaign Exploits WeTransfer Alerts To Bypass Email Gateways"
-       },
-	   {
-           "category": "Phishing",
-           "link": "https://latesthackingnews.com/category/cyber-security-news/",
-           "title": "Phishing Campaign Exploits WeTransfer Alerts To Bypass Email Gateways"
-       },
-	   {
            "category": "Scam",
            "link": "https://latesthackingnews.com/2019/07/28/fake-google-domains-used-to-target-magento-websites-for-credit-card-skimming/",
            "title": "Fake Google Domains Used To Target Magento Websites For Credit Card Skimming"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/security-firm-immunity-developed-a-working-bluekeep-exploit-module-and-added-it-to-an-automated-exploitation-platform/",
+           "title": "BlueKeep built into exploitation tool, sparks fear of Wannacry style infections"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/sephora-reports-data-breach-but-few-details/",
+           "title": "Sephora reports data breach, but few details"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/capital-one-breach-exposes-not-just-data-but-dangers-of-cloud-misconfigurations/",
+           "title": "Capital One breach exposes not just data, but dangers of cloud misconfigurations"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/google-project-zero-researchers-discovered-six-iphone-security-vulnerabilities-one-of-which-remains-unpatched-and-four-of-which-could-lead-to-the-execution-of-malicious-code/",
+           "title": "Google researchers discover six iPhone vulnerabilities, one unpatched"
        }
    ],
    "events": []
