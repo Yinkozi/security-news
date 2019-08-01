@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/07/26/customers-wrongly-billed-after-deliveroo-accounts-got-hacked/",
-           "title": "Customers Wrongly Billed After Deliveroo Accounts Got Hacked"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/07/27/financial-service-robinhood-stored-customers-passwords-in-plain-text/",
-           "title": "Financial Service Robinhood Stored Customers Passwords In Plain Text"
+           "category": "Surveillance",
+           "link": "https://thehackernews.com/2019/08/cisco-surveillance-technology.html",
+           "title": "Cisco Knowingly Sold Hackable Video Surveillance System to U.S Government"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/27/android-media-framework-flaw-could-get-phones-hacked-by-playing-malicious-video/",
-           "title": "Android Media Framework Flaw Could Get Phones Hacked By Playing Malicious Video"
+           "link": "https://thehackernews.com/2019/07/airplane-can-bus-hacking.html",
+           "title": "DHS Warns Small Airplanes Vulnerable to Flight Data Manipulation Attacks"
        },
 	   {
-           "category": "Breach",
-           "link": "https://latesthackingnews.com/2019/07/28/brazilian-financial-service-exposed-250gb-of-local-banks-customers-data-via-unsecured-server/",
-           "title": "Brazilian Financial Service Exposed 250GB Of Local Banks’ Customers Data Via Unsecured Server"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/oxid-eshop-ecommerce.html",
+           "title": "Critical Flaws in OXID eShop Software Expose eCommerce Sites to Hacking"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flaws-in-visa-contactless-cards-allow-for-bypass-of-anti-fraud-checks-researchers-warn/",
+           "title": "Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn"
        },
        {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/07/28/multiple-vulnerabilities-discovered-in-comodo-antivirus-patch-pending/",
-           "title": "Multiple Vulnerabilities Discovered In Comodo Antivirus – Patch Pending!"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/the-department-of-homeland-security-dhs-issued-a-warning-that-small-aircraft-can-easily-be-hacked-by-threat-actors-with-physical-access-to-the-vehicles/",
+           "title": "DHS warns small aircraft are vulnerable to cyberattacks from those with physical access"
        }
    ],
    "linksCurated": [
        {
-           "category": "Scam",
-           "link": "https://latesthackingnews.com/2019/07/28/fake-google-domains-used-to-target-magento-websites-for-credit-card-skimming/",
-           "title": "Fake Google Domains Used To Target Magento Websites For Credit Card Skimming"
-       },
-	   {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/security-firm-immunity-developed-a-working-bluekeep-exploit-module-and-added-it-to-an-automated-exploitation-platform/",
-           "title": "BlueKeep built into exploitation tool, sparks fear of Wannacry style infections"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/sephora-reports-data-breach-but-few-details/",
-           "title": "Sephora reports data breach, but few details"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/capital-one-breach-exposes-not-just-data-but-dangers-of-cloud-misconfigurations/",
-           "title": "Capital One breach exposes not just data, but dangers of cloud misconfigurations"
+           "category": "Exploit",
+           "link": "https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/",
+           "title": "Bypassing Cloudflare WAF with the origin server IP address"
        },
 	   {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/google-project-zero-researchers-discovered-six-iphone-security-vulnerabilities-one-of-which-remains-unpatched-and-four-of-which-could-lead-to-the-execution-of-malicious-code/",
-           "title": "Google researchers discover six iPhone vulnerabilities, one unpatched"
+           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/jet-database-engine-flaw-may-lead-to-exploitation-analyzing-cve-2018-8423/",
+           "title": "Jet Database Engine Flaw May Lead to Exploitation: Analyzing CVE-2018-8423"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://blog.infosectcbr.com.au/2019/07/linux-heap-glibc-227-double-free.html",
+           "title": "Linux Heap glibc 2.27 Double Free Exploitation"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://sec.today/pulses/c187f54a-ba34-4420-9fcf-77e7f0bbc63d/",
+           "title": "Android ransomware is back"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://blog.infosectcbr.com.au/2019/07/linux-heap-tcache-poisoning.html",
+           "title": "Linux Heap TCache Poisoning"
        }
    ],
    "events": []
