@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/26/customers-wrongly-billed-after-deliveroo-accounts-got-hacked/",
+           "title": "Customers Wrongly Billed After Deliveroo Accounts Got Hacked"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/27/financial-service-robinhood-stored-customers-passwords-in-plain-text/",
+           "title": "Financial Service Robinhood Stored Customers Passwords In Plain Text"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/27/android-media-framework-flaw-could-get-phones-hacked-by-playing-malicious-video/",
+           "title": "Android Media Framework Flaw Could Get Phones Hacked By Playing Malicious Video"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://latesthackingnews.com/2019/07/28/brazilian-financial-service-exposed-250gb-of-local-banks-customers-data-via-unsecured-server/",
+           "title": "Brazilian Financial Service Exposed 250GB Of Local Banks’ Customers Data Via Unsecured Server"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/07/28/multiple-vulnerabilities-discovered-in-comodo-antivirus-patch-pending/",
+           "title": "Multiple Vulnerabilities Discovered In Comodo Antivirus – Patch Pending!"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Scam",
+           "link": "https://latesthackingnews.com/2019/07/28/fake-google-domains-used-to-target-magento-websites-for-credit-card-skimming/",
+           "title": "Fake Google Domains Used To Target Magento Websites For Credit Card Skimming"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/security-firm-immunity-developed-a-working-bluekeep-exploit-module-and-added-it-to-an-automated-exploitation-platform/",
+           "title": "BlueKeep built into exploitation tool, sparks fear of Wannacry style infections"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/sephora-reports-data-breach-but-few-details/",
+           "title": "Sephora reports data breach, but few details"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/capital-one-breach-exposes-not-just-data-but-dangers-of-cloud-misconfigurations/",
+           "title": "Capital One breach exposes not just data, but dangers of cloud misconfigurations"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/google-project-zero-researchers-discovered-six-iphone-security-vulnerabilities-one-of-which-remains-unpatched-and-four-of-which-could-lead-to-the-execution-of-malicious-code/",
+           "title": "Google researchers discover six iPhone vulnerabilities, one unpatched"
+       }
+   ],
+   "events": []
+}
