@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Surveillance",
-           "link": "https://thehackernews.com/2019/08/cisco-surveillance-technology.html",
-           "title": "Cisco Knowingly Sold Hackable Video Surveillance System to U.S Government"
+           "category": "Exploit",
+           "link": "https://rhys.io/post/rce-in-ruby-using-mustache-templates",
+           "title": "RCE in Ruby using Mustache Templates"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/airplane-can-bus-hacking.html",
-           "title": "DHS Warns Small Airplanes Vulnerable to Flight Data Manipulation Attacks"
+           "category": "Trojan",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/fiendish-amavaldo-banking-trojan-strikes-in-mexico-after-targeting-brazilians/",
+           "title": "Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/07/oxid-eshop-ecommerce.html",
-           "title": "Critical Flaws in OXID eShop Software Expose eCommerce Sites to Hacking"
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/rig-fallout-eks-used-to-deliver-new-systembc-malware/",
+           "title": "RIG, Fallout EKs used to deliver new SystemBC malware"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flaws-in-visa-contactless-cards-allow-for-bypass-of-anti-fraud-checks-researchers-warn/",
-           "title": "Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn"
+           "category": "Phishing",
+           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/u-s-indicts-three-over-alleged-phishing-campaign-targeting-universities-businesses/",
+           "title": "U.S. indicts three over alleged phishing campaign targeting universities, businesses"
        },
        {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/the-department-of-homeland-security-dhs-issued-a-warning-that-small-aircraft-can-easily-be-hacked-by-threat-actors-with-physical-access-to-the-vehicles/",
-           "title": "DHS warns small aircraft are vulnerable to cyberattacks from those with physical access"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/",
+           "title": "Honda Motors Company databases leaked 40GB of employee data"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
-           "link": "https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/",
-           "title": "Bypassing Cloudflare WAF with the origin server IP address"
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/proposed-microchips-act-would-require-protections-for-technology-supply-chain/",
+           "title": "Proposed MICROCHIPS Act would require protections for technology supply chain"
        },
 	   {
            "category": "Exploit",
-           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/jet-database-engine-flaw-may-lead-to-exploitation-analyzing-cve-2018-8423/",
-           "title": "Jet Database Engine Flaw May Lead to Exploitation: Analyzing CVE-2018-8423"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/a-group-of-researchers-developed-an-attack-to-trick-autonomous-vehicle-sensors-by-using-drone-projectors/",
+           "title": "Autonomous vehicle sensors tricked by invisible drone projections of road signs"
        },
 	   {
            "category": "Exploit",
-           "link": "http://blog.infosectcbr.com.au/2019/07/linux-heap-glibc-227-double-free.html",
-           "title": "Linux Heap glibc 2.27 Double Free Exploitation"
+           "link": "https://codewhitesec.blogspot.com/2019/08/exploit-h2-database-native-libraries-jni.html",
+           "title": "Exploiting H2 Database with native libraries and JNI"
        },
 	   {
-           "category": "Ransomware",
-           "link": "https://sec.today/pulses/c187f54a-ba34-4420-9fcf-77e7f0bbc63d/",
-           "title": "Android ransomware is back"
+           "category": "Malware",
+           "link": "https://www.vmray.com/cyber-security-blog/stepping-into-the-breach-improving-dynamic-analysis-macos-malware/",
+           "title": "Improving Security Researchers Ability to Dynamically Analyze macOS Malware at Scale"
        },
 	   {
            "category": "Exploit",
-           "link": "http://blog.infosectcbr.com.au/2019/07/linux-heap-tcache-poisoning.html",
-           "title": "Linux Heap TCache Poisoning"
+           "link": "https://sec.today/pulses/9583eb8f-9c65-419a-b992-1a5d556bf894/",
+           "title": "Opera Android Address Bar Spoofing: CVE-2019–12278"
        }
    ],
    "events": []
