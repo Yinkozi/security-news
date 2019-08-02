@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Surveillance",
+           "link": "https://thehackernews.com/2019/08/cisco-surveillance-technology.html",
+           "title": "Cisco Knowingly Sold Hackable Video Surveillance System to U.S Government"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/airplane-can-bus-hacking.html",
+           "title": "DHS Warns Small Airplanes Vulnerable to Flight Data Manipulation Attacks"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/07/oxid-eshop-ecommerce.html",
+           "title": "Critical Flaws in OXID eShop Software Expose eCommerce Sites to Hacking"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flaws-in-visa-contactless-cards-allow-for-bypass-of-anti-fraud-checks-researchers-warn/",
+           "title": "Flaws in Visa contactless cards allow for bypass of anti-fraud checks, researchers warn"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/the-department-of-homeland-security-dhs-issued-a-warning-that-small-aircraft-can-easily-be-hacked-by-threat-actors-with-physical-access-to-the-vehicles/",
+           "title": "DHS warns small aircraft are vulnerable to cyberattacks from those with physical access"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/",
+           "title": "Bypassing Cloudflare WAF with the origin server IP address"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/jet-database-engine-flaw-may-lead-to-exploitation-analyzing-cve-2018-8423/",
+           "title": "Jet Database Engine Flaw May Lead to Exploitation: Analyzing CVE-2018-8423"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://blog.infosectcbr.com.au/2019/07/linux-heap-glibc-227-double-free.html",
+           "title": "Linux Heap glibc 2.27 Double Free Exploitation"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://sec.today/pulses/c187f54a-ba34-4420-9fcf-77e7f0bbc63d/",
+           "title": "Android ransomware is back"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://blog.infosectcbr.com.au/2019/07/linux-heap-tcache-poisoning.html",
+           "title": "Linux Heap TCache Poisoning"
+       }
+   ],
+   "events": []
+}
