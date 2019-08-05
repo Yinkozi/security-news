@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Exploit",
-           "link": "https://rhys.io/post/rce-in-ruby-using-mustache-templates",
-           "title": "RCE in Ruby using Mustache Templates"
+           "category": "Tool",
+           "link": "https://github.com/Kevin-Robertson/Inveigh",
+           "title": "GitHub - Kevin-Robertson/Inveigh: Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool"
+       },
+       {
+           "category": "Ransomware",
+           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/clop-ransomware/",
+           "title": "Clop Ransomware"
+       },
+       {
+           "category": "CredSSP",
+           "link": "https://clement.notin.org/blog/2019/07/03/credential-theft-without-admin-or-touching-lsass-with-kekeo-by-abusing-credssp-tspkg-rdp-sso/",
+           "title": "Credential theft without admin or touching LSASS with Kekeo by abusing CredSSP"
        },
 	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/hack-wpa3-wifi-password.html",
+           "title": "Researchers Discover New Ways to Hack WPA3 Protected WiFi Passwords"
+       },
+       {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/rig-fallout-eks-used-to-deliver-new-systembc-malware/",
+           "title": "RIG, Fallout EKs used to deliver new SystemBC malware"
+       }
+   ],
+   "linksCurated": [
+       {
            "category": "Trojan",
            "link": "https://www.scmagazine.com/home/security-news/cybercrime/fiendish-amavaldo-banking-trojan-strikes-in-mexico-after-targeting-brazilians/",
            "title": "Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians"
        },
 	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/malware/rig-fallout-eks-used-to-deliver-new-systembc-malware/",
-           "title": "RIG, Fallout EKs used to deliver new SystemBC malware"
+           "category": "Cisco",
+           "link": "https://www.scmagazine.com/home/security-news/cisco-pays-8-6-million-to-settle-false-claim-act-litigation/",
+           "title": "Cisco pays $8.6 million to settle False Claims Act litigation"
        },
 	   {
-           "category": "Phishing",
-           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/u-s-indicts-three-over-alleged-phishing-campaign-targeting-universities-businesses/",
-           "title": "U.S. indicts three over alleged phishing campaign targeting universities, businesses"
-       },
-       {
            "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/",
-           "title": "Honda Motors Company databases leaked 40GB of employee data"
-       }
-   ],
-   "linksCurated": [
-       {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/proposed-microchips-act-would-require-protections-for-technology-supply-chain/",
-           "title": "Proposed MICROCHIPS Act would require protections for technology supply chain"
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/pearson-data-breach-involves-thousands-of-university-accounts/",
+           "title": "Pearson data breach impacts thousands of university accounts"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/a-group-of-researchers-developed-an-attack-to-trick-autonomous-vehicle-sensors-by-using-drone-projectors/",
-           "title": "Autonomous vehicle sensors tricked by invisible drone projections of road signs"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/house-republicans-ask-capitol-one-and-amazon-for-briefing-on-data-breach/",
+           "title": "House Republicans ask Capitol One and Amazon for briefing on data breach"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://codewhitesec.blogspot.com/2019/08/exploit-h2-database-native-libraries-jni.html",
-           "title": "Exploiting H2 Database with native libraries and JNI"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://www.vmray.com/cyber-security-blog/stepping-into-the-breach-improving-dynamic-analysis-macos-malware/",
-           "title": "Improving Security Researchers Ability to Dynamically Analyze macOS Malware at Scale"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://sec.today/pulses/9583eb8f-9c65-419a-b992-1a5d556bf894/",
-           "title": "Opera Android Address Bar Spoofing: CVE-2019–12278"
+           "category": "Apple",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/apple-announced-it-will-temporarily-suspend-its-practice-of-allowing-human-contractors-to-grade-snippets-recordings-of-siri-conversations-for-accuracy/",
+           "title": "Apple halts contractors listening to Siri recordings, will offer opt-out"
        }
    ],
    "events": []
