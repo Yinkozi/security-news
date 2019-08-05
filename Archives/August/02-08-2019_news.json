@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://rhys.io/post/rce-in-ruby-using-mustache-templates",
+           "title": "RCE in Ruby using Mustache Templates"
+       },
+	   {
+           "category": "Trojan",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/fiendish-amavaldo-banking-trojan-strikes-in-mexico-after-targeting-brazilians/",
+           "title": "Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/rig-fallout-eks-used-to-deliver-new-systembc-malware/",
+           "title": "RIG, Fallout EKs used to deliver new SystemBC malware"
+       },
+	   {
+           "category": "Phishing",
+           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/u-s-indicts-three-over-alleged-phishing-campaign-targeting-universities-businesses/",
+           "title": "U.S. indicts three over alleged phishing campaign targeting universities, businesses"
+       },
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/",
+           "title": "Honda Motors Company databases leaked 40GB of employee data"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/proposed-microchips-act-would-require-protections-for-technology-supply-chain/",
+           "title": "Proposed MICROCHIPS Act would require protections for technology supply chain"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/a-group-of-researchers-developed-an-attack-to-trick-autonomous-vehicle-sensors-by-using-drone-projectors/",
+           "title": "Autonomous vehicle sensors tricked by invisible drone projections of road signs"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://codewhitesec.blogspot.com/2019/08/exploit-h2-database-native-libraries-jni.html",
+           "title": "Exploiting H2 Database with native libraries and JNI"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.vmray.com/cyber-security-blog/stepping-into-the-breach-improving-dynamic-analysis-macos-malware/",
+           "title": "Improving Security Researchers Ability to Dynamically Analyze macOS Malware at Scale"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://sec.today/pulses/9583eb8f-9c65-419a-b992-1a5d556bf894/",
+           "title": "Opera Android Address Bar Spoofing: CVE-2019–12278"
+       }
+   ],
+   "events": []
+}
