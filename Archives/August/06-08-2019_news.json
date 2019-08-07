@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/swapgs-speculative-execution.html",
+           "title": "SWAPGS Attack — New Speculative Execution Flaw Affects All Modern Intel CPUs"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/android-qualcomm-vulnerability.html",
+           "title": "New Flaws in Qualcomm Chips Expose Millions of Android Devices to Hacking"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/lookback-malware-targeting-utility-sector/",
+           "title": "LookBack malware targeting utility sector"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/monzo-updates-apps-after-incorrectly-storing-banking-customer-pins/",
+           "title": "Monzo updates apps after incorrectly storing banking customer PINs"
+       },
+       {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/cylance-protect-av-vulnerability-patched/",
+           "title": "Cylance Protect AV vulnerability patched"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "CyberRisk",
+           "link": "https://www.scmagazine.com/home/sc-corporate-news/cyberrisk-alliance-acquires-sc-media/",
+           "title": "CyberRisk Alliance Acquires SC Media"
+       },
+	   {
+           "category": "FBI",
+           "link": "https://www.scmagazine.com/home/security-news/online-daters-targeted-fbi-alert-warns/",
+           "title": "Online daters targeted, FBI alert warns"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/megacortex-variant-redesigned-a-self-executing-incorporates-features-of-previous-version/",
+           "title": "MegaCortex variant redesigned a self-executing, incorporates features of previous version"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/report-north-korea-funded-wmd-programs-with-2b-stolen-via-cyberattacks/",
+           "title": "North Korea funded WMD programs with $2B stolen via cyberattacks"
+       },
+	   {
+           "category": "Exploit",
+           "link": "http://blog.infosectcbr.com.au/2019/08/linux-heap-fast-bin-double-free.html",
+           "title": "Linux Heap Fast Bin Double Free Exploitation"
+       }
+   ],
+   "events": []
+}
