@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/swapgs-speculative-execution.html",
-           "title": "SWAPGS Attack — New Speculative Execution Flaw Affects All Modern Intel CPUs"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/android-qualcomm-vulnerability.html",
-           "title": "New Flaws in Qualcomm Chips Expose Millions of Android Devices to Hacking"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/malware/lookback-malware-targeting-utility-sector/",
-           "title": "LookBack malware targeting utility sector"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/monzo-updates-apps-after-incorrectly-storing-banking-customer-pins/",
-           "title": "Monzo updates apps after incorrectly storing banking customer PINs"
+           "category": "Reverse Engineering",
+           "link": "https://www.msreverseengineering.com/blog/2019/8/5/automation-techniques-in-c-reverse-engineering",
+           "title": "Automation Techniques in C++ Reverse Engineering"
        },
        {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/cylance-protect-av-vulnerability-patched/",
-           "title": "Cylance Protect AV vulnerability patched"
+           "category": "Exploit",
+           "link": "https://blog.flanker017.me/galaxy-leapfrogging-pwning-the-galaxy-s8/",
+           "title": "Galaxy Leapfrogging: Pwning the Galaxy S8"
+       },
+       {
+           "category": "Fraud",
+           "link": "https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/",
+           "title": "AT&T employees took bribes to plant malware on the company's network"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/kde-desktop-linux-vulnerability.html",
+           "title": "KDE Linux Desktops Could Get Hacked Without Even Opening Malicious Files"
+       },
+       {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/binance-kyc-data-leak.html",
+           "title": "Binance KYC Data Leak — Crypto Exchange Sets $290,000 Bounty On Blackmailer"
        }
    ],
    "linksCurated": [
        {
-           "category": "CyberRisk",
-           "link": "https://www.scmagazine.com/home/sc-corporate-news/cyberrisk-alliance-acquires-sc-media/",
-           "title": "CyberRisk Alliance Acquires SC Media"
-       },
-	   {
-           "category": "FBI",
-           "link": "https://www.scmagazine.com/home/security-news/online-daters-targeted-fbi-alert-warns/",
-           "title": "Online daters targeted, FBI alert warns"
-       },
-	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/megacortex-variant-redesigned-a-self-executing-incorporates-features-of-previous-version/",
-           "title": "MegaCortex variant redesigned a self-executing, incorporates features of previous version"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/report-north-korea-funded-wmd-programs-with-2b-stolen-via-cyberattacks/",
-           "title": "North Korea funded WMD programs with $2B stolen via cyberattacks"
+           "category": "SIEM",
+           "link": "https://www.scmagazine.com/home/security-news/reducing-siem-fatigue/",
+           "title": "Reducing SIEM fatigue: Finding a signal in all the noise"
        },
 	   {
            "category": "Exploit",
-           "link": "http://blog.infosectcbr.com.au/2019/08/linux-heap-fast-bin-double-free.html",
-           "title": "Linux Heap Fast Bin Double Free Exploitation"
+           "link": "https://www.scmagazine.com/home/security-news/russian-hacking-group-strontium-attacking-corporate-iot-devices-microsoft-says/",
+           "title": "Russian hacking group STRONTIUM attacking corporate IoT devices, Microsoft says"
+       },
+	   {
+           "category": "Google",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/appeals-court-rejects-google-privacy-settlement-over-tracking-cookies/",
+           "title": "Appeals court rejects Google privacy settlement over tracking cookies"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.zdnet.com/article/qualpwn-vulnerabilities-in-qualcomm-chips-let-hackers-compromise-android-devices/",
+           "title": "QualPwn vulnerabilities in Qualcomm chips let hackers compromise Android devices"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.talosintelligence.com/2019/08/nvidia-vmware-gpu-rce-vulnerabilities.html",
+           "title": "Multiple vulnerabilities in NVIDIA Windows GPU Display Driver, VMware ESXi, Workstation and Fusion"
        }
    ],
    "events": []
