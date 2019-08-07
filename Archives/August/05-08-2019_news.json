@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/Kevin-Robertson/Inveigh",
+           "title": "GitHub - Kevin-Robertson/Inveigh: Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool"
+       },
+       {
+           "category": "Ransomware",
+           "link": "https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/clop-ransomware/",
+           "title": "Clop Ransomware"
+       },
+       {
+           "category": "CredSSP",
+           "link": "https://clement.notin.org/blog/2019/07/03/credential-theft-without-admin-or-touching-lsass-with-kekeo-by-abusing-credssp-tspkg-rdp-sso/",
+           "title": "Credential theft without admin or touching LSASS with Kekeo by abusing CredSSP"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/hack-wpa3-wifi-password.html",
+           "title": "Researchers Discover New Ways to Hack WPA3 Protected WiFi Passwords"
+       },
+       {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/rig-fallout-eks-used-to-deliver-new-systembc-malware/",
+           "title": "RIG, Fallout EKs used to deliver new SystemBC malware"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Trojan",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/fiendish-amavaldo-banking-trojan-strikes-in-mexico-after-targeting-brazilians/",
+           "title": "Fiendish Amavaldo banking trojan strikes in Mexico after targeting Brazilians"
+       },
+	   {
+           "category": "Cisco",
+           "link": "https://www.scmagazine.com/home/security-news/cisco-pays-8-6-million-to-settle-false-claim-act-litigation/",
+           "title": "Cisco pays $8.6 million to settle False Claims Act litigation"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/pearson-data-breach-involves-thousands-of-university-accounts/",
+           "title": "Pearson data breach impacts thousands of university accounts"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/house-republicans-ask-capitol-one-and-amazon-for-briefing-on-data-breach/",
+           "title": "House Republicans ask Capitol One and Amazon for briefing on data breach"
+       },
+	   {
+           "category": "Apple",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/apple-announced-it-will-temporarily-suspend-its-practice-of-allowing-human-contractors-to-grade-snippets-recordings-of-siri-conversations-for-accuracy/",
+           "title": "Apple halts contractors listening to Siri recordings, will offer opt-out"
+       }
+   ],
+   "events": []
+}
