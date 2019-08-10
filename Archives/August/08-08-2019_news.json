@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn",
+           "title": "HTTP Desync Attacks: Request Smuggling Reborn"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html",
+           "title": "The Fully Remote Attack Surface of the iPhone"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://amonitoring.ru/article/steamclient-0day/",
+           "title": "Steam Windows Client Local Privilege Escalation 0day"
+       },
+       {
+           "category": "Fraud",
+           "link": "https://www.vice.com/en_us/article/xweqbq/microsoft-contractors-listen-to-skype-calls",
+           "title": "Microsoft Contractors Are Listening to Some Skype Calls - VICE"
+       },
+       {
+           "category": "Tool",
+           "link": "http://fwanalyzer.io",
+           "title": "GitHub - cruise-automation/fwanalyzer: a tool to analyze filesystem images"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/byt3bl33d3r/SILENTTRINITY",
+           "title": "GitHub - byt3bl33d3r/SILENTTRINITY: An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/researcher-gdprs-right-of-access-policy-can-be-abused-to-steal-others-personal-info/",
+           "title": "GDPRs Right of Access policy can be abused to steal others personal info"
+       },
+	   {
+           "category": "Internet",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/election-systems-by-leading-vendor-connected-to-internet-in-some-states-researchers-find/",
+           "title": "Election systems by leading vendor connected to internet in some states"
+       },
+	   {
+           "category": "Facebook",
+           "link": "https://www.scmagazine.com/home/security-news/federal-court-says-facebook-users-can-sue-over-use-of-facial-recognition-technology/",
+           "title": "Federal court says Facebook users can sue over use of facial recognition technology"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/destructive-malware-attacks-double-as-attackers-pair-ransomware-with-disk-wipers/",
+           "title": "Destructive malware attacks double as attackers pair ransomware with disk wipers"
+       }
+   ],
+   "events": []
+}
