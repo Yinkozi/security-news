@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn",
-           "title": "HTTP Desync Attacks: Request Smuggling Reborn"
+           "link": "https://portswigger.net/web-security/request-smuggling",
+           "title": "What is HTTP request smuggling? Tutorial & Examples"
        },
        {
            "category": "Exploit",
-           "link": "https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html",
-           "title": "The Fully Remote Attack Surface of the iPhone"
+           "link": "https://labs.bluefrostsecurity.de/blog/2019/08/08/escaping-the-chrome-sandbox-via-an-indexeddb-race-condition/",
+           "title": "Escaping the Chrome Sandbox via an IndexedDB Race Condition"
        },
        {
            "category": "Exploit",
-           "link": "https://amonitoring.ru/article/steamclient-0day/",
-           "title": "Steam Windows Client Local Privilege Escalation 0day"
+           "link": "https://medium.com/@jonathan.leitschuh/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5",
+           "title": "Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!"
        },
        {
-           "category": "Fraud",
-           "link": "https://www.vice.com/en_us/article/xweqbq/microsoft-contractors-listen-to-skype-calls",
-           "title": "Microsoft Contractors Are Listening to Some Skype Calls - VICE"
+           "category": "Exploit",
+           "link": "https://adsecurity.org/?p=4179",
+           "title": "Slides Posted for Black Hat USA 2019 Talk: Attacking & Defending the Microsoft Cloud"
        },
        {
-           "category": "Tool",
-           "link": "http://fwanalyzer.io",
-           "title": "GitHub - cruise-automation/fwanalyzer: a tool to analyze filesystem images"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/cyberattack/state-farm-hit-with-credential-stuffing-attack-data-not-compromised/",
+           "title": "State Farm hit with credential stuffing attack, data not compromised"
        }
    ],
    "linksCurated": [
        {
-           "category": "Tool",
-           "link": "https://github.com/byt3bl33d3r/SILENTTRINITY",
-           "title": "GitHub - byt3bl33d3r/SILENTTRINITY: An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/selling-zero-days-to-governments-takes-some-business-savvy-says-former-bug-broker/",
+           "title": "Selling zero-days to governments takes some business savvy, says former bug broker"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/researcher-gdprs-right-of-access-policy-can-be-abused-to-steal-others-personal-info/",
-           "title": "GDPRs Right of Access policy can be abused to steal others personal info"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/cryptocurrency/clipsa-cryptostealer-targeting-word-press-sites/",
+           "title": "Clipsa cryptostealer targeting Word Press sites"
        },
 	   {
-           "category": "Internet",
-           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/election-systems-by-leading-vendor-connected-to-internet-in-some-states-researchers-find/",
-           "title": "Election systems by leading vendor connected to internet in some states"
+           "category": "Apple",
+           "link": "https://thehackernews.com/2019/08/apple-bug-bounty.html",
+           "title": "Apple will now pay hackers up to $1 million for reporting vulnerabilities"
        },
 	   {
            "category": "Facebook",
-           "link": "https://www.scmagazine.com/home/security-news/federal-court-says-facebook-users-can-sue-over-use-of-facial-recognition-technology/",
-           "title": "Federal court says Facebook users can sue over use of facial recognition technology"
+           "link": "https://thehackernews.com/2019/08/facebook-ads-click-injection.html",
+           "title": "Facebook Sues Two Android App Developers for Click Injection Fraud"
        },
 	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/cybercrime/destructive-malware-attacks-double-as-attackers-pair-ransomware-with-disk-wipers/",
-           "title": "Destructive malware attacks double as attackers pair ransomware with disk wipers"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/reverse-rdp-windows-hyper-v.html",
+           "title": "Reverse RDP Attack Also Enables Guest-to-Host Escape in Microsoft Hyper-V"
        }
    ],
    "events": []
