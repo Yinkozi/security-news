@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Reverse Engineering",
-           "link": "https://www.msreverseengineering.com/blog/2019/8/5/automation-techniques-in-c-reverse-engineering",
-           "title": "Automation Techniques in C++ Reverse Engineering"
+           "category": "Exploit",
+           "link": "https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn",
+           "title": "HTTP Desync Attacks: Request Smuggling Reborn"
        },
        {
            "category": "Exploit",
-           "link": "https://blog.flanker017.me/galaxy-leapfrogging-pwning-the-galaxy-s8/",
-           "title": "Galaxy Leapfrogging: Pwning the Galaxy S8"
+           "link": "https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html",
+           "title": "The Fully Remote Attack Surface of the iPhone"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://amonitoring.ru/article/steamclient-0day/",
+           "title": "Steam Windows Client Local Privilege Escalation 0day"
        },
        {
            "category": "Fraud",
-           "link": "https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/",
-           "title": "AT&T employees took bribes to plant malware on the company's network"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/kde-desktop-linux-vulnerability.html",
-           "title": "KDE Linux Desktops Could Get Hacked Without Even Opening Malicious Files"
+           "link": "https://www.vice.com/en_us/article/xweqbq/microsoft-contractors-listen-to-skype-calls",
+           "title": "Microsoft Contractors Are Listening to Some Skype Calls - VICE"
        },
        {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/08/binance-kyc-data-leak.html",
-           "title": "Binance KYC Data Leak — Crypto Exchange Sets $290,000 Bounty On Blackmailer"
+           "category": "Tool",
+           "link": "http://fwanalyzer.io",
+           "title": "GitHub - cruise-automation/fwanalyzer: a tool to analyze filesystem images"
        }
    ],
    "linksCurated": [
        {
-           "category": "SIEM",
-           "link": "https://www.scmagazine.com/home/security-news/reducing-siem-fatigue/",
-           "title": "Reducing SIEM fatigue: Finding a signal in all the noise"
+           "category": "Tool",
+           "link": "https://github.com/byt3bl33d3r/SILENTTRINITY",
+           "title": "GitHub - byt3bl33d3r/SILENTTRINITY: An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/russian-hacking-group-strontium-attacking-corporate-iot-devices-microsoft-says/",
-           "title": "Russian hacking group STRONTIUM attacking corporate IoT devices, Microsoft says"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/researcher-gdprs-right-of-access-policy-can-be-abused-to-steal-others-personal-info/",
+           "title": "GDPRs Right of Access policy can be abused to steal others personal info"
        },
 	   {
-           "category": "Google",
-           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/appeals-court-rejects-google-privacy-settlement-over-tracking-cookies/",
-           "title": "Appeals court rejects Google privacy settlement over tracking cookies"
+           "category": "Internet",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/election-coverage/election-systems-by-leading-vendor-connected-to-internet-in-some-states-researchers-find/",
+           "title": "Election systems by leading vendor connected to internet in some states"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.zdnet.com/article/qualpwn-vulnerabilities-in-qualcomm-chips-let-hackers-compromise-android-devices/",
-           "title": "QualPwn vulnerabilities in Qualcomm chips let hackers compromise Android devices"
+           "category": "Facebook",
+           "link": "https://www.scmagazine.com/home/security-news/federal-court-says-facebook-users-can-sue-over-use-of-facial-recognition-technology/",
+           "title": "Federal court says Facebook users can sue over use of facial recognition technology"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://blog.talosintelligence.com/2019/08/nvidia-vmware-gpu-rce-vulnerabilities.html",
-           "title": "Multiple vulnerabilities in NVIDIA Windows GPU Display Driver, VMware ESXi, Workstation and Fusion"
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/destructive-malware-attacks-double-as-attackers-pair-ransomware-with-disk-wipers/",
+           "title": "Destructive malware attacks double as attackers pair ransomware with disk wipers"
        }
    ],
    "events": []
