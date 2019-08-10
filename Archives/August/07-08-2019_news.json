@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Reverse Engineering",
+           "link": "https://www.msreverseengineering.com/blog/2019/8/5/automation-techniques-in-c-reverse-engineering",
+           "title": "Automation Techniques in C++ Reverse Engineering"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://blog.flanker017.me/galaxy-leapfrogging-pwning-the-galaxy-s8/",
+           "title": "Galaxy Leapfrogging: Pwning the Galaxy S8"
+       },
+       {
+           "category": "Fraud",
+           "link": "https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/",
+           "title": "AT&T employees took bribes to plant malware on the company's network"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/kde-desktop-linux-vulnerability.html",
+           "title": "KDE Linux Desktops Could Get Hacked Without Even Opening Malicious Files"
+       },
+       {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/binance-kyc-data-leak.html",
+           "title": "Binance KYC Data Leak — Crypto Exchange Sets $290,000 Bounty On Blackmailer"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "SIEM",
+           "link": "https://www.scmagazine.com/home/security-news/reducing-siem-fatigue/",
+           "title": "Reducing SIEM fatigue: Finding a signal in all the noise"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/russian-hacking-group-strontium-attacking-corporate-iot-devices-microsoft-says/",
+           "title": "Russian hacking group STRONTIUM attacking corporate IoT devices, Microsoft says"
+       },
+	   {
+           "category": "Google",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/appeals-court-rejects-google-privacy-settlement-over-tracking-cookies/",
+           "title": "Appeals court rejects Google privacy settlement over tracking cookies"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.zdnet.com/article/qualpwn-vulnerabilities-in-qualcomm-chips-let-hackers-compromise-android-devices/",
+           "title": "QualPwn vulnerabilities in Qualcomm chips let hackers compromise Android devices"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.talosintelligence.com/2019/08/nvidia-vmware-gpu-rce-vulnerabilities.html",
+           "title": "Multiple vulnerabilities in NVIDIA Windows GPU Display Driver, VMware ESXi, Workstation and Fusion"
+       }
+   ],
+   "events": []
+}
