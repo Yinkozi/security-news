@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://github.com/hugsy/defcon_27_windbg_workshop/",
-           "title": "GitHub - hugsy/defcon_27_windbg_workshop: DEFCON 27 workshop - Modern Debugging with WinDbg Preview"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/ChrisTheCoolHut/Firmware_Slap",
-           "title": "GitHub - ChrisTheCoolHut/Firmware_Slap: Discovering vulnerabilities in firmware through concolic analysis and function clustering."
-       },
-       {
            "category": "Exploit",
-           "link": "https://research.checkpoint.com/select-code_execution-from-using-sqlite/",
-           "title": "SELECT code_execution FROM * USING SQLite"
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-certified-software-drivers-found-to-be-security-risks/",
+           "title": "Microsoft-certified software drivers found to be security risks"
+       },
+	   {
+           "category": "RAT",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/saefko-rat-peeks-at-browser-histories-to-help-adversaries-form-optimal-attack-plan/",
+           "title": "Saefko RAT peeks at browser histories to help adversaries form optimal attack plan"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/700000-choice-hotels-customer-records-compromised/",
+           "title": "700,000 Choice Hotels customer records compromised"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/desjardins-breach-cost-53-million-in-q2/",
+           "title": "Desjardins breach cost $53 million in Q2"
        },
        {
-           "category": "Tool",
-           "link": "https://github.com/pwntester/DupeKeyInjector",
-           "title": "GitHub - pwntester/DupeKeyInjector: DupeKeyInjector"
-       },
-       {
-           "category": "Tool",
-           "link": "https://seclists.org/nmap-announce/2019/0",
-           "title": "Nmap Announce: Nmap Defcon Release! 80+ improvements include new NSE scripts/libs, new Npcap, etc."
+           "category": "Trojan",
+           "link": "https://www.scmagazine.com/home/security-news/trojanized-apps-containing-ad-fraud-malware-downloaded-102m-times/",
+           "title": "Trojanized apps containing ad fraud malware downloaded 102M times"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/windows-rdp-wormable-flaws.html",
-           "title": "4 New BlueKeep-like Wormable Windows Remote Desktop Flaws Discovered"
+           "link": "https://thehackernews.com/2019/08/windows-driver-vulnerability.html",
+           "title": "Over 40 Drivers Could Let Hackers Install Persistent Backdoor On Windows PCs"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/ctfmon-windows-vulnerabilities.html",
-           "title": "Google Discloses 20-Year-Old Unpatched Flaw Affecting All Versions of Windows"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://thehackernews.com/2019/08/cerberus-android-banking-trojan.html",
-           "title": "Cerberus: A New Android Banking Malware For Rent Emerges"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/epic-games-fortnite-lawsuit.html",
-           "title": "Epic Games Hit With Class Action Lawsuit Over Hacked Fortnite Accounts"
+           "link": "https://thehackernews.com/2019/08/dslr-camera-hacking.html",
+           "title": "Canon DSLR Cameras Can Be Hacked With Ransomware Remotely"
        },
 	   {
            "category": "Android",
            "link": "https://thehackernews.com/2019/08/android-local-user-verification.html",
            "title": "Android Users Can Now Log in to Google Services Using Fingerprint"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/http2-dos-vulnerability.html",
+           "title": "8 New HTTP/2 Implementation Flaws Expose Websites to DoS Attacks"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/bluetooth-knob-vulnerability.html",
+           "title": "New Bluetooth Vulnerability Lets Attackers Spy On Encrypted Connections"
        }
    ],
    "events": []
