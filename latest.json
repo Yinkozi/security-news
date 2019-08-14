@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://portswigger.net/web-security/request-smuggling",
-           "title": "What is HTTP request smuggling? Tutorial & Examples"
+           "link": "https://googleprojectzero.blogspot.com/2019/08/the-fully-remote-attack-surface-of.html",
+           "title": "Project Zero: The Fully Remote Attack Surface of the iPhone"
        },
        {
            "category": "Exploit",
-           "link": "https://labs.bluefrostsecurity.de/blog/2019/08/08/escaping-the-chrome-sandbox-via-an-indexeddb-race-condition/",
-           "title": "Escaping the Chrome Sandbox via an IndexedDB Race Condition"
+           "link": "https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html",
+           "title": "Attacking SSL VPN - Part 2: Breaking the Fortigate SSL VPN"
        },
        {
            "category": "Exploit",
-           "link": "https://medium.com/@jonathan.leitschuh/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5",
-           "title": "Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!"
+           "link": "https://www.vice.com/en_us/article/evj4qw/these-iphone-lightning-cables-will-hack-your-computer",
+           "title": "These Legit-Looking iPhone Lightning Cables Will Hijack Your Computer"
        },
        {
            "category": "Exploit",
-           "link": "https://adsecurity.org/?p=4179",
-           "title": "Slides Posted for Black Hat USA 2019 Talk: Attacking & Defending the Microsoft Cloud"
+           "link": "https://gist.github.com/caseysmithrc/04277d61190f1bd867067515b8c7ebd6",
+           "title": "Sample Usage of dbgsrv.exe to remotely load and execute shellcode on a target"
        },
        {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/cyberattack/state-farm-hit-with-credential-stuffing-attack-data-not-compromised/",
-           "title": "State Farm hit with credential stuffing attack, data not compromised"
+           "category": "Tool",
+           "link": "http://fwanalyzer.io",
+           "title": "GitHub - cruise-automation/fwanalyzer: a tool to analyze filesystem images"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/selling-zero-days-to-governments-takes-some-business-savvy-says-former-bug-broker/",
-           "title": "Selling zero-days to governments takes some business savvy, says former bug broker"
+           "link": "https://blog.coinbase.com/responding-to-firefox-0-days-in-the-wild-d9c85a57f15b",
+           "title": "Responding to Firefox 0-days in the wild - The Coinbase Blog"
        },
-	   {
+       {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/cryptocurrency/clipsa-cryptostealer-targeting-word-press-sites/",
-           "title": "Clipsa cryptostealer targeting Word Press sites"
+           "link": "https://a13xp0p0v.github.io/2019/08/10/cfu.html",
+           "title": "Searching for a vulnerability pattern in the Linux kernel"
        },
-	   {
-           "category": "Apple",
-           "link": "https://thehackernews.com/2019/08/apple-bug-bounty.html",
-           "title": "Apple will now pay hackers up to $1 million for reporting vulnerabilities"
-       },
-	   {
-           "category": "Facebook",
-           "link": "https://thehackernews.com/2019/08/facebook-ads-click-injection.html",
-           "title": "Facebook Sues Two Android App Developers for Click Injection Fraud"
-       },
-	   {
+       {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/reverse-rdp-windows-hyper-v.html",
-           "title": "Reverse RDP Attack Also Enables Guest-to-Host Escape in Microsoft Hyper-V"
+           "link": "https://www.coresecurity.com/node/63548",
+           "title": "Low-level Reversing of BLUEKEEP vulnerability (CVE-2019-0708)"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://modexp.wordpress.com/2019/08/09/windows-process-injection-breaking-badder/",
+           "title": "Windows Process Injection: Breaking BaDDEr"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://docs.google.com/presentation/d/1j2nW05H-iRz7-FVTRh-LBXQm6M6YIBQNWa4V7tp99YQ/edit?usp=sharing",
+           "title": "TTPs to Attack Active Directory"
        }
    ],
    "events": []
