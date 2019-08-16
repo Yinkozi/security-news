@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/kaspersky-antivirus-online-tracking.html",
-           "title": "Kaspersky Antivirus Flaw Exposed Users to Cross-Site Tracking Online"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/researcher-details-decades-old-design-flaws-in-microsofts-ctf-protocol/",
-           "title": "Researcher details decades-old design flaws in Microsoft’s CTF protocol"
-       },
-	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/malware/varenyky-malware-records-porn-on-screen-distributes-sextortion-spam/",
-           "title": "Varenyky malware records porn on screen, distributes sextortion spam"
-       },
-	   {
-           "category": "Exploit",
-           "link": "http://rce4fun.blogspot.com/2019/08/comodo-antivirus-sandbox-race-condition.html",
-           "title": "Comodo Antivirus - Sandbox Race Condition Use-After-Free (CVE-2019-14694)"
+           "link": "https://posts.specterops.io/offensive-p-invoke-leveraging-the-win32-api-from-managed-code-7eef4fdef16d",
+           "title": "Offensive P/Invoke: Leveraging the Win32 API from Managed Code"
        },
        {
-           "category": "Exploit",
-           "link": "https://jailbreak.fce365.info/Thread-How-to-Escape-SandBox-And-Get-Root-on-iOS-12-x-once-you-ve-got-tfp0",
-           "title": "How to Escape SandBox And Get Root on iOS 12"
+           "category": "Tool",
+           "link": "https://github.com/fgsect/unicorefuzz",
+           "title": "GitHub - fgsect/unicorefuzz: Fuzzing the Kernel Using AFL-Unicorn"
+       },
+       {
+           "category": "Patch",
+           "link": "https://msrc-blog.microsoft.com/2019/08/13/patch-new-wormable-vulnerabilities-in-remote-desktop-services-cve-2019-1181-1182/",
+           "title": "Patch new wormable vulnerabilities in Remote Desktop Services (CVE-2019-1181/1182)"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/taviso/ctftool",
+           "title": "GitHub - taviso/ctftool: Interactive CTF Exploration Tool"
+       },
+       {
+           "category": "Tool",
+           "link": "https://medium.com/cruise/firmware-security-fwanalyzer-dcbd95cef717",
+           "title": "Automating Firmware Security with FwAnalyzer"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://gts3.org/2019/cve-2018-1000657.html",
-           "title": "Analysis of CVE-2018-1000657"
+           "category": "Patch",
+           "link": "https://thehackernews.com/2019/08/libreoffice-patch-update.html",
+           "title": "Patches for 2 Severe LibreOffice Flaws Bypassed — Update to Patch Again"
+       },
+	   {
+           "category": "App",
+           "link": "https://thehackernews.com/2019/08/credit-card-skimmer-detector.html",
+           "title": "Bluetana App Quickly Detects Hidden Bluetooth Card Skimmers at Gas Pumps"
+       },
+	   {
+           "category": "RAT",
+           "link": "https://www.scmagazine.com/home/security-news/remcos-rat-campaign-delivers-new-variant-using-autoit-wrapper/",
+           "title": "Remcos RAT campaign delivers new variant using AutoIt wrapper"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/patch-management/adobe-patch-tuesday-tackles-reader-acrobat-flaws/",
+           "title": "Adobe Patch Tuesday tackles Reader, Acrobat flaws"
        },
 	   {
            "category": "Breach",
-           "link": "https://threatpost.com/fingerprints-of-1m-exposed-in-public-biometrics-database/147345/",
-           "title": "Fingerprints of 1M Exposed in Public Biometrics Database"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.lares.com/use-after-free-uaf-vulnerability-cve-2019-1199-in-microsoft-outlook/",
-           "title": "Use-After-Free (UAF) Vulnerability CVE-2019-1199 in Microsoft Outlook"
-       },
-	   {
-           "category": "Exploit",
-           "link": "https://www.slideshare.net/secret/lUVcpYouYP3eWL",
-           "title": "Bypassing MacOs Detections With Swift"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://swift.org/blog/tsan-support-on-linux/",
-           "title": "Thread Sanitizer for Swift on Linux"
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/cracked-to-hacking-forum-user-data-breached-and-leaked-by-rivals/",
+           "title": "Cracked.to hacking forum user data breached and leaked by rivals"
        }
    ],
    "events": []
