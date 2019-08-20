@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Exploit",
+           "link": "https://medium.com/@matrosov/firmware-security-boundaries-85807d3fe604",
+           "title": "Breaking Through Another Side: Bypassing Firmware Security Boundaries"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/shogunlab/awesome-hyper-v-exploitation",
+           "title": "GitHub - shogunlab/awesome-hyper-v-exploitation: A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research."
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/european-central-bank-hack.html",
+           "title": "European Central Bank Shuts Down BIRD Portal After Getting Hacked"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://xiaoyinl.github.io/steam_EoP_bypass.html",
+           "title": "Bypassing the Fix for Steam Reg-symlink Privilege Escalation Vulnerability"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.usenix.org/conference/usenixsecurity19/presentation/li-mengyuan",
+           "title": "Exploiting Unprotected I/O Operations in AMD’s Secure Encrypted Virtualization"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Tool",
+           "link": "https://github.com/SCUBSRGroup/Automatic-Exploit-Generation",
+           "title": "Automatic-Exploit-Generation"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/08/17/researchers-found-multiple-critical-security-vulnerabilities-in-gitlab/",
+           "title": "Researchers Found Multiple Critical Security Vulnerabilities in GitLab"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://github.com/shogunlab/awesome-hyper-v-exploitation",
+           "title": "Awesome Hyper-V Exploitation"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://knobattack.com",
+           "title": "KNOB Attack- Key Negotiation of Bluetooth Attack: Breaking Bluetooth Security"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/ransomware-attack-hits-mostly-small-local-texas-government-orgs/",
+           "title": "Ransomware attack hits mostly small, local Texas government orgs"
+       }
+   ],
+   "events": []
+}
