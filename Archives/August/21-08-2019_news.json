@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://bannedit.github.io/Virtual-Machine-Detection-In-The-Browser.html#Virtual-Machine-Detection-In-The-Browser",
+           "title": "Virtual Machine Detection In The Browser"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://hausec.com/2019/08/12/offensive-lateral-movement/",
+           "title": "Offensive Lateral Movement"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html",
+           "title": "Detecting and Stopping an APT41 Operation"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/itm4n/UsoDllLoader",
+           "title": "GitHub - itm4n/UsoDllLoader: Windows - Weaponizing privileged file writes with the Update Session Orchestrator service"
+       },
+       {
+           "category": "Tool",
+           "link": "https://github.com/rest-client/rest-client/issues/713",
+           "title": "[CVE-2019-15224] Version 1.6.13 published with malicious backdoor"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/first-half-2019-sees-4000-data-breaches-exposing-4b-records/",
+           "title": "First half 2019 sees 4,000 data breaches exposing 4B records"
+       },
+	   {
+           "category": "Huawei",
+           "link": "https://www.scmagazine.com/home/security-news/u-s-renews-temporary-license-allowing-companies-to-sell-to-huawei-adds-45-to-blacklist/",
+           "title": "U.S. renews temporary license allowing companies to sell to Huawei, adds 45 to blacklist"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/delta-sues-ai-vendor-over-2017-breach-exposing-info-on-825k/",
+           "title": "Delta sues AI vendor over 2017 breach exposing info on 825K"
+       },
+	   {
+           "category": "CA",
+           "link": "https://thehackernews.com/2019/08/kazakhstan-root-certificate.html",
+           "title": "Google, Mozilla, Apple Block Kazakhstan's Root CA Certificate to Prevent Spying"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/08/silence-apt-russian-hackers.html",
+           "title": "Russian Hacking Group Targeting Banks Worldwide With Evolving Tactics"
+       }
+   ],
+   "events": []
+}
