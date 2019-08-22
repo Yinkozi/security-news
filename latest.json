@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://bannedit.github.io/Virtual-Machine-Detection-In-The-Browser.html#Virtual-Machine-Detection-In-The-Browser",
-           "title": "Virtual Machine Detection In The Browser"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/moviepass-database-exposes-161-million-records/",
+           "title": "MoviePass database exposes 161 million records"
+       },
+	   {
+           "category": "Capital One",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/capital-one-hacker-to-ask-for-release-on-bail/",
+           "title": "Capital One hacker to ask for release on bail"
+       },
+	   {
+           "category": "Instagram",
+           "link": "https://www.scmagazine.com/home/security-news/instagram-asks-security-researchers-to-check-out-checkout-feature/",
+           "title": "Instagram asks security researchers to check out ‘Checkout’ feature"
+       },
+	   {
+           "category": "BitDefender",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/bitdefender-antivirus-free-2020-found-vulnerable/",
+           "title": "BitDefender Antivirus Free 2020 found vulnerable"
        },
        {
-           "category": "Exploit",
-           "link": "https://hausec.com/2019/08/12/offensive-lateral-movement/",
-           "title": "Offensive Lateral Movement"
-       },
-       {
-           "category": "Exploit",
-           "link": "https://www.fireeye.com/blog/threat-research/2019/08/game-over-detecting-and-stopping-an-apt41-operation.html",
-           "title": "Detecting and Stopping an APT41 Operation"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/itm4n/UsoDllLoader",
-           "title": "GitHub - itm4n/UsoDllLoader: Windows - Weaponizing privileged file writes with the Update Session Orchestrator service"
-       },
-       {
-           "category": "Tool",
-           "link": "https://github.com/rest-client/rest-client/issues/713",
-           "title": "[CVE-2019-15224] Version 1.6.13 published with malicious backdoor"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/malware/vast-majority-of-newly-registered-domains-are-malicious/",
+           "title": "Vast majority of newly registered domains are malicious"
        }
    ],
    "linksCurated": [
        {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/first-half-2019-sees-4000-data-breaches-exposing-4b-records/",
-           "title": "First half 2019 sees 4,000 data breaches exposing 4B records"
-       },
-	   {
-           "category": "Huawei",
-           "link": "https://www.scmagazine.com/home/security-news/u-s-renews-temporary-license-allowing-companies-to-sell-to-huawei-adds-45-to-blacklist/",
-           "title": "U.S. renews temporary license allowing companies to sell to Huawei, adds 45 to blacklist"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/delta-sues-ai-vendor-over-2017-breach-exposing-info-on-825k/",
-           "title": "Delta sues AI vendor over 2017 breach exposing info on 825K"
-       },
-	   {
-           "category": "CA",
-           "link": "https://thehackernews.com/2019/08/kazakhstan-root-certificate.html",
-           "title": "Google, Mozilla, Apple Block Kazakhstan's Root CA Certificate to Prevent Spying"
+           "category": "Microsoft",
+           "link": "https://msrc-blog.microsoft.com/2019/08/20/announcing-the-microsoft-edge-insider-channels-bounty/",
+           "title": "Announcing the Microsoft Edge Insider Bounty"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/08/silence-apt-russian-hackers.html",
-           "title": "Russian Hacking Group Targeting Banks Worldwide With Evolving Tactics"
+           "link": "https://labs.bitdefender.com/2019/08/worm-cryptominer-combo-lets-you-game-while-using-nsa-exploits-to-move-laterally/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+           "title": "Worm-Cryptominer Combo Lets You Game While Using NSA Exploits to Move Laterally"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://amonitoring.ru/article/onemore_steam_eop_0day/",
+           "title": "One more Steam Windows Client Local Privilege Escalation 0day"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.bi0s.in/2019/08/20/Pwn/VM-Escape/2019-07-29-qemu-vm-escape-cve-2019-14378/",
+           "title": "QEMU VM Escape"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.sentinelone.com/blog/macos-incident-response-part-1-collecting-device-file-system-data/",
+           "title": "MACOS INCIDENT RESPONSE | PART 1: COLLECTING DEVICE, FILE & SYSTEM DATA"
        }
    ],
    "events": []
