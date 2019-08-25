@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/moviepass-database-exposes-161-million-records/",
+           "title": "MoviePass database exposes 161 million records"
+       },
+	   {
+           "category": "Capital One",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/capital-one-hacker-to-ask-for-release-on-bail/",
+           "title": "Capital One hacker to ask for release on bail"
+       },
+	   {
+           "category": "Instagram",
+           "link": "https://www.scmagazine.com/home/security-news/instagram-asks-security-researchers-to-check-out-checkout-feature/",
+           "title": "Instagram asks security researchers to check out ‘Checkout’ feature"
+       },
+	   {
+           "category": "BitDefender",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/bitdefender-antivirus-free-2020-found-vulnerable/",
+           "title": "BitDefender Antivirus Free 2020 found vulnerable"
+       },
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/malware/vast-majority-of-newly-registered-domains-are-malicious/",
+           "title": "Vast majority of newly registered domains are malicious"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Microsoft",
+           "link": "https://msrc-blog.microsoft.com/2019/08/20/announcing-the-microsoft-edge-insider-channels-bounty/",
+           "title": "Announcing the Microsoft Edge Insider Bounty"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://labs.bitdefender.com/2019/08/worm-cryptominer-combo-lets-you-game-while-using-nsa-exploits-to-move-laterally/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+           "title": "Worm-Cryptominer Combo Lets You Game While Using NSA Exploits to Move Laterally"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://amonitoring.ru/article/onemore_steam_eop_0day/",
+           "title": "One more Steam Windows Client Local Privilege Escalation 0day"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.bi0s.in/2019/08/20/Pwn/VM-Escape/2019-07-29-qemu-vm-escape-cve-2019-14378/",
+           "title": "QEMU VM Escape"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.sentinelone.com/blog/macos-incident-response-part-1-collecting-device-file-system-data/",
+           "title": "MACOS INCIDENT RESPONSE | PART 1: COLLECTING DEVICE, FILE & SYSTEM DATA"
+       }
+   ],
+   "events": []
+}
