@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Exploit",
-           "link": "https://googleprojectzero.blogspot.com/2019/08/the-many-possibilities-of-cve-2019-8646.html",
-           "title": "Project Zero: The Many Possibilities of CVE-2019-8646"
+           "category": "Phishing",
+           "link": "https://thehackernews.com/2019/08/hacker-phishing-bitcoin.html",
+           "title": "Hacker Ordered to Pay Back Nearly £1 Million to Phishing Victims"
        },
-       {
-           "category": "Exploit",
-           "link": "https://www.vice.com/en_us/article/qvgp77/hacker-releases-first-public-iphone-jailbreak-in-years",
-           "title": "Hacker Releases First Public Jailbreak for Up-to-Date iPhones in Years"
+	   {
+           "category": "Privacy",
+           "link": "https://thehackernews.com/2019/08/google-privacy-sandbox-ads.html",
+           "title": "Google Proposes Privacy Sandbox to Develop Privacy Focused Ads"
        },
-       {
-           "category": "Tool",
-           "link": "https://github.com/JonathanSalwan/X-Tunnel-Opaque-Predicates",
-           "title": "GitHub - JonathanSalwan/X-Tunnel-Opaque-Predicates: IDA+Triton plugin in order to extract opaque predicates using a Forward-Bounded DSE"
-       },
-       {
-           "category": "Tool",
-           "link": "https://qiling.io",
-           "title": "GitHub - qilingframework/qiling: Qiling Advanced Binary Emulation framework"
+	   {
+           "category": "Threat Research",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/08/finding-evil-in-windows-ten-compressed-memory-part-three.html",
+           "title": "Finding Evil in Windows 10 Compressed Memory"
        },
 	   {
            "category": "Tool",
-           "link": "https://github.com/itm4n/UsoDllLoader",
-           "title": "GitHub - itm4n/UsoDllLoader: Windows - Weaponizing privileged file writes with the Update Session Orchestrator service"
+           "link": "https://github.com/sailay1996/UAC_bypass_windows_store",
+           "title": "UAC Bypass Windows Store"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://carvesystems.com/news/command-injection-with-usb-peripherals/",
+           "title": "Command Injection with USB Peripherals"
        }
    ],
    "linksCurated": [
        {
-           "category": "VMware",
-           "link": "https://www.scmagazine.com/home/security-news/vmware-to-acquire-carbon-black/",
-           "title": "VMware to acquire Carbon Black"
+           "category": "Spyware",
+           "link": "https://threatpost.com/spyware-app-on-google-play-gets-boot-returns-days-later/147618/",
+           "title": "Spyware App on Google Play Gets Boot, Returns Days Later"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.thezdi.com/blog/2019/8/22/cve-2019-12527-code-execution-on-squid-proxy-through-a-heap-buffer-overflow",
+           "title": "CVE-2019-12527: CODE EXECUTION ON SQUID PROXY THROUGH A BUFFER OVERFLOW"
        },
 	   {
            "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/mass-general-breach-exposes-private-info-on-9900-in-research-programs/",
-           "title": "Mass. General breach exposes private info on 9,900 in research programs"
+           "link": "https://thehackernews.com/2019/08/web-hosting-hostinger-breach.html",
+           "title": "Hostinger Suffers Data Breach – Resets Password For 14 Million Users"
        },
 	   {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/syrk-ransomware-comes-disguised-as-fortnite-cheat-tool-to-ambush-gamers/",
-           "title": "Syrk ransomware comes disguised as Fortnite cheat tool to ambush gamers"
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/binance-kyc-data-leak_26.html",
+           "title": "Binance Confirms Hacker Obtained Its Users' KYC Data from 3rd-Party Vendor"
        },
 	   {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/texas-municipalities-struggle-to-recover-from-ransomware-attacks/",
-           "title": "Texas municipalities struggle to recover from ransomware attacks"
-       },
-	   {
-           "category": "Malicious App",
-           "link": "https://www.scmagazine.com/home/security-news/mobile-security/ahmyth-based-malicious-app-found-in-google-play/",
-           "title": "AhMyth –based malicious app found in Google Play"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-of-hostinger-exposes-14-million-users/",
+           "title": "Data breach of Hostinger exposes 14 million users"
        }
    ],
    "events": []
