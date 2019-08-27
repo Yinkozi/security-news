@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Phishing",
+           "link": "https://thehackernews.com/2019/08/hacker-phishing-bitcoin.html",
+           "title": "Hacker Ordered to Pay Back Nearly £1 Million to Phishing Victims"
+       },
+	   {
+           "category": "Privacy",
+           "link": "https://thehackernews.com/2019/08/google-privacy-sandbox-ads.html",
+           "title": "Google Proposes Privacy Sandbox to Develop Privacy Focused Ads"
+       },
+	   {
+           "category": "Threat Research",
+           "link": "https://www.fireeye.com/blog/threat-research/2019/08/finding-evil-in-windows-ten-compressed-memory-part-three.html",
+           "title": "Finding Evil in Windows 10 Compressed Memory"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://github.com/sailay1996/UAC_bypass_windows_store",
+           "title": "UAC Bypass Windows Store"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://carvesystems.com/news/command-injection-with-usb-peripherals/",
+           "title": "Command Injection with USB Peripherals"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Spyware",
+           "link": "https://threatpost.com/spyware-app-on-google-play-gets-boot-returns-days-later/147618/",
+           "title": "Spyware App on Google Play Gets Boot, Returns Days Later"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.thezdi.com/blog/2019/8/22/cve-2019-12527-code-execution-on-squid-proxy-through-a-heap-buffer-overflow",
+           "title": "CVE-2019-12527: CODE EXECUTION ON SQUID PROXY THROUGH A BUFFER OVERFLOW"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/web-hosting-hostinger-breach.html",
+           "title": "Hostinger Suffers Data Breach – Resets Password For 14 Million Users"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/binance-kyc-data-leak_26.html",
+           "title": "Binance Confirms Hacker Obtained Its Users' KYC Data from 3rd-Party Vendor"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-of-hostinger-exposes-14-million-users/",
+           "title": "Data breach of Hostinger exposes 14 million users"
+       }
+   ],
+   "events": []
+}
