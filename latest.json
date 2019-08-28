@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Tool",
-           "link": "https://windbg2ida.ntdebug.com",
-           "title": "Windbg2ida - Windbg and IDA plugin"
+           "category": "Exploit",
+           "link": "https://github.com/BloodHoundAD/BloodHound/issues/267",
+           "title": "Code execution in Bloodhound via malicious AD Object"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/almost-200k-affected-by-presbyterian-healthcare-services-data-breach/",
+           "title": "Almost 200K affected by Presbyterian Healthcare Services data breach"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/mobile-security/massively-popular-phone-pdf-app-contains-malicious-dropper/",
+           "title": "Massively popular Phone PDF app contains malicious dropper"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/breach-exposes-data-associated-with-customers-of-impervas-cloud-waf-product/",
+           "title": "Breach exposes data associated with customers of Imperva’s Cloud WAF product"
        },
        {
-           "category": "Tool",
-           "link": "https://qiling.io",
-           "title": "GitHub - qilingframework/qiling: Qiling Advanced Binary Emulation framework"
-       },
-       {
-           "category": "Reversing",
-           "link": "https://gist.github.com/nstarke/ed0aba2c882b8b3078747a567ee00520",
-           "title": "Reversing Cisco IOS Raw Binary Firmware Images with Ghidra"
-       },
-       {
-           "category": "Hardening",
-           "link": "https://cyber-itl.org/2019/08/26/iot-data-writeup.html",
-           "title": "Binary Hardening in IoT products"
-       },
-       {
-           "category": "Cryptocurrency",
-           "link": "https://www.zdnet.com/article/employees-connect-nuclear-plant-to-the-internet-so-they-can-mine-cryptocurrency/",
-           "title": "Employees connect nuclear plant to the internet so they can mine cryptocurrency"
+           "category": "Attack",
+           "link": "https://www.scmagazine.com/home/security-news/lyceum-threat-group-targets-oil-and-gas-critical-infrastructure-orgs-in-mideast/",
+           "title": "LYCEUM threat group targets oil and gas, critical infrastructure orgs in MidEast"
        }
    ],
    "linksCurated": [
        {
-           "category": "Ransomware",
-           "link": "https://www.scmagazine.com/home/security-news/ransomware/rockville-center-school-district-pays-100000-ransom/",
-           "title": "Rockville Center School District pays $88,000 ransom"
+           "category": "Apple",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/apple-issues-supplemental-security-updates/",
+           "title": "Apple issues supplemental security updates"
        },
 	   {
-           "category": "x",
-           "link": "https://www.scmagazine.com/home/security-news/astronaut-accused-of-identity-theft-accessing-estranged-wifes-bank-account-from-international-space-station/",
-           "title": "Astronaut accused of identity theft, accessing estranged wife’s bank account, from International Space Station"
+           "category": "breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/data-breach-of-hostinger-exposes-14-million-users/",
+           "title": "Data breach of Hostinger exposes 14 million usersv"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/mastercard-says-german-priceless-specials-loyalty-program-breached/",
-           "title": "Mastercard says German Priceless Specials loyalty program breached"
+           "category": "Facebook",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/facebook-publicly-releases-emails-related-to-data-scraping-cambridge-analytica/",
+           "title": "Facebook publicly releases emails related to data scraping, Cambridge Analytica"
        },
 	   {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/08/imperva-waf-breach.html",
-           "title": "Imperva Breach Exposes WAF Customers' Data, Including SSL Certs, API Keys"
+           "category": "WordPress",
+           "link": "https://www.scmagazine.com/home/security-news/cyberattack/wordpress-plugins-vulnerable-to-redirects/",
+           "title": "WordPress plugins vulnerable to redirects"
        },
 	   {
-           "category": "Malware",
-           "link": "https://thehackernews.com/2019/08/android-camscanner-malware.html",
-           "title": "WARNING — Malware Found in CamScanner Android App With 100+ Million Users"
+           "category": "Phishing",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/instagram-phishing-scam-uses-fake-2fa-code-to-appear-trustworthy/",
+           "title": "Instagram phishing scam uses fake 2FA code to appear trustworthy"
        }
    ],
    "events": []
