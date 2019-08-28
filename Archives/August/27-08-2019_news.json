@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Tool",
+           "link": "https://windbg2ida.ntdebug.com",
+           "title": "Windbg2ida - Windbg and IDA plugin"
+       },
+       {
+           "category": "Tool",
+           "link": "https://qiling.io",
+           "title": "GitHub - qilingframework/qiling: Qiling Advanced Binary Emulation framework"
+       },
+       {
+           "category": "Reversing",
+           "link": "https://gist.github.com/nstarke/ed0aba2c882b8b3078747a567ee00520",
+           "title": "Reversing Cisco IOS Raw Binary Firmware Images with Ghidra"
+       },
+       {
+           "category": "Hardening",
+           "link": "https://cyber-itl.org/2019/08/26/iot-data-writeup.html",
+           "title": "Binary Hardening in IoT products"
+       },
+       {
+           "category": "Cryptocurrency",
+           "link": "https://www.zdnet.com/article/employees-connect-nuclear-plant-to-the-internet-so-they-can-mine-cryptocurrency/",
+           "title": "Employees connect nuclear plant to the internet so they can mine cryptocurrency"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/rockville-center-school-district-pays-100000-ransom/",
+           "title": "Rockville Center School District pays $88,000 ransom"
+       },
+	   {
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/astronaut-accused-of-identity-theft-accessing-estranged-wifes-bank-account-from-international-space-station/",
+           "title": "Astronaut accused of identity theft, accessing estranged wife’s bank account, from International Space Station"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/mastercard-says-german-priceless-specials-loyalty-program-breached/",
+           "title": "Mastercard says German Priceless Specials loyalty program breached"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/imperva-waf-breach.html",
+           "title": "Imperva Breach Exposes WAF Customers' Data, Including SSL Certs, API Keys"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/08/android-camscanner-malware.html",
+           "title": "WARNING — Malware Found in CamScanner Android App With 100+ Million Users"
+       }
+   ],
+   "events": []
+}
