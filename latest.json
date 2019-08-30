@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "CyberAttack",
-           "link": "https://www.scmagazine.com/home/security-news/u-s-cyberattack-crippled-irans-efforts-to-attack-ships-in-persian-gulf/",
-           "title": "U.S. cyberattack crippled Iran’s efforts to attack ships in Persian Gulf"
+           "category": "Exploit",
+           "link": "https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html",
+           "title": "Project Zero: A very deep dive into iOS Exploit chains found in the wild"
        },
-	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/authorities-free-850000-machines-from-grasp-of-retadup-worm/",
-           "title": "Authorities free 850,000 machines from grasp of Retadup worm"
+       {
+           "category": "Tool",
+           "link": "https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a",
+           "title": "A cheatsheet with commands that can be used to perform kerberos attacks \u00b7 GitHub"
        },
-	   {
-           "category": "Patch",
-           "link": "https://thehackernews.com/2019/08/apple-ios-iphone-jailbreak.html",
-           "title": "Apple Releases iOS 12.4.1 Emergency Update to Patch Jailbreak Flaw"
+       {
+           "category": "Hijacking",
+           "link": "https://adapt-and-attack.com/2019/08/29/proxying-com-for-stable-hijacks/",
+           "title": "Proxying COM For Stable Hijacks - Adapt and Attack"
        },
-	   {
-           "category": "Malware",
-           "link": "https://thehackernews.com/2019/08/retadup-botnet-malware.html",
-           "title": "French Police Remotely Removed RETADUP Malware from 850,000 Infected PCs"
+       {
+           "category": "Tool",
+           "link": "http://blog.trailofbits.com/2019/08/29/reverse-taint-analysis-using-binary-ninja/",
+           "title": "Reverse Taint Analysis Using Binary Ninja"
        },
        {
            "category": "Exploit",
-           "link": "https://sec.today/pulses/ecef88e0-8a1a-431a-8c73-b06580eb423f/",
-           "title": "Lojack’d: Pwning Smart vehicle trackers"
+           "link": "https://posts.specterops.io/avira-optimizer-local-privilege-escalation-af109b7df5b1",
+           "title": "Avira Optimizer Local Privilege Escalation"
        }
    ],
    "linksCurated": [
        {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/foxit-pdf-reader-data-breach.html",
+           "title": "Foxit PDF Software Company Suffers Data Breach—Asks Users to Reset Password"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://thehackernews.com/2019/08/dds-safe-dental-ransomware-attack.html",
+           "title": "Ransomware Hits Dental Data Backup Service Offering Ransomware Protection"
+       },
+	   {
            "category": "Google",
-           "link": "https://thehackernews.com/2019/08/google-data-abuse-bug-bounty.html",
-           "title": "Google Will Now Pay Anyone Who Reports Apps Abusing Users' Data"
+           "link": "https://thehackernews.com/2019/08/hacking-iphone-ios-exploits.html",
+           "title": "Google Uncovers How Just Visiting Some Sites Were Secretly Hacking iPhones For Years"
        },
 	   {
-           "category": "CyberAttack",
-           "link": "https://thehackernews.com/2019/08/paige-thompson-capital-one.html",
-           "title": "Capital One Hacker Also Accused of Hacking 30 More Companies and CryptoJacking"
-       },
-	   {
-           "category": "Apple",
-           "link": "https://thehackernews.com/2019/08/apple-siri-recording-privacy.html",
-           "title": "Apple Changes the Way It Listens to Your Siri Recordings Following Privacy Concerns"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/trickbot-updated-to-target-mobile-carrier-customers-pin-codes/",
+           "title": "TrickBot updated to target mobile carrier customers PIN codes"
        },
 	   {
            "category": "Breach",
-           "link": "https://thehackernews.com/2019/08/magecart-hacking-credit-card.html",
-           "title": "Magecart Hackers Compromise 80 More eCommerce Sites to Steal Credit Cards"
-       },
-	   {
-           "category": "Tool",
-           "link": "https://sec.today/pulses/7e1f8798-ee55-42ee-b85a-771c7bd64cd0/",
-           "title": "Fingerprinting WAF Rules with Timing Based Side Channel Attacks"
+           "link": "https://www.scmagazine.com/home/security-news/despite-concerns-over-breaches-40-of-cardholders-have-provided-social-security-numbers-online/",
+           "title": "Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online"
        }
    ],
    "events": []
