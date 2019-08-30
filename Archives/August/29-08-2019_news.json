@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "CyberAttack",
+           "link": "https://www.scmagazine.com/home/security-news/u-s-cyberattack-crippled-irans-efforts-to-attack-ships-in-persian-gulf/",
+           "title": "U.S. cyberattack crippled Iran’s efforts to attack ships in Persian Gulf"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/authorities-free-850000-machines-from-grasp-of-retadup-worm/",
+           "title": "Authorities free 850,000 machines from grasp of Retadup worm"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://thehackernews.com/2019/08/apple-ios-iphone-jailbreak.html",
+           "title": "Apple Releases iOS 12.4.1 Emergency Update to Patch Jailbreak Flaw"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://thehackernews.com/2019/08/retadup-botnet-malware.html",
+           "title": "French Police Remotely Removed RETADUP Malware from 850,000 Infected PCs"
+       },
+       {
+           "category": "Exploit",
+           "link": "https://sec.today/pulses/ecef88e0-8a1a-431a-8c73-b06580eb423f/",
+           "title": "Lojack’d: Pwning Smart vehicle trackers"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Google",
+           "link": "https://thehackernews.com/2019/08/google-data-abuse-bug-bounty.html",
+           "title": "Google Will Now Pay Anyone Who Reports Apps Abusing Users' Data"
+       },
+	   {
+           "category": "CyberAttack",
+           "link": "https://thehackernews.com/2019/08/paige-thompson-capital-one.html",
+           "title": "Capital One Hacker Also Accused of Hacking 30 More Companies and CryptoJacking"
+       },
+	   {
+           "category": "Apple",
+           "link": "https://thehackernews.com/2019/08/apple-siri-recording-privacy.html",
+           "title": "Apple Changes the Way It Listens to Your Siri Recordings Following Privacy Concerns"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/08/magecart-hacking-credit-card.html",
+           "title": "Magecart Hackers Compromise 80 More eCommerce Sites to Steal Credit Cards"
+       },
+	   {
+           "category": "Tool",
+           "link": "https://sec.today/pulses/7e1f8798-ee55-42ee-b85a-771c7bd64cd0/",
+           "title": "Fingerprinting WAF Rules with Timing Based Side Channel Attacks"
+       }
+   ],
+   "events": []
+}
