@@ -2,55 +2,55 @@
    "linksAuto": [
        {
            "category": "Breach",
-           "link": "https://www.scmagazine.com/home/research/annual-global-data-breach-costs-to-exceed-5-trillion-by-2024-report/",
-           "title": "Data breaches expected to cost $5 trillion by 2024"
-       },
-	   {
-           "category": "Adware",
-           "link": "https://www.scmagazine.com/home/security-news/mobile-security/malicious-ad-clicking-apps-with-1-5m-downloads-found-on-google-play/",
-           "title": "Malicious ad clicking apps with 1.5M downloads found on Google Play"
-       },
-	   {
-           "category": "Cryptojacking",
-           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/woman-accused-of-hacking-capital-one-indicted-for-alleged-cyber-intrusions-cryptojacking/",
-           "title": "Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking"
+           "link": "https://thehackernews.com/2019/09/xkcd-forum-hacked.html",
+           "title": "XKCD Forum Hacked – Over 562,000 Users Account Details Leaked"
        },
 	   {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/researcher-finds-exposed-starbucks-subdomain-subject-to-takeover/",
-           "title": "Researcher finds exposed Starbucks subdomain subject to takeover"
+           "link": "https://thehackernews.com/2019/09/hacking-bmc-server.html",
+           "title": "BMC Vulnerabilities Expose Supermicro Servers to Remote USB-Attacks"
+       },
+	   {
+           "category": "Privacy",
+           "link": "https://thehackernews.com/2019/09/face-swapping-deepfake-zao.html",
+           "title": "Chinese Face-Swapping App ZAO Sparks Privacy Concerns After Going Crazily Viral"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/foxit-forcing-customer-password-resets-after-data-breach/",
+           "title": "Foxit forcing customer password resets after data breach"
        },
        {
-           "category": "Twitter",
-           "link": "https://www.scmagazine.com/home/security-news/twitter-ceos-account-hacked-in-sim-swapping-scheme/",
-           "title": "Account hacked - Twitter CEO - SIM-swapping scheme"
+           "category": "Security",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/how-artificial-intelligence-is-enhancing-enterprise-security/",
+           "title": "How artificial intelligence is enhancing enterprise security"
        }
    ],
    "linksCurated": [
        {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/watering-hole-attack-campaign-designed-to-infect-ios-users-via-exploit-chains/",
-           "title": "Watering-hole attack campaign designed to infect iOS users via exploit chains"
+           "link": "https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html",
+           "title": "Attacking SSL VPN - The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study"
        },
 	   {
            "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/security-news/trickbot-updated-to-target-mobile-carrier-customers-pin-codes/",
-           "title": "TrickBot updated to target mobile carrier customers PIN codes"
-       },
-	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/despite-concerns-over-breaches-40-of-cardholders-have-provided-social-security-numbers-online/",
-           "title": "Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online"
+           "link": "https://blog.trailofbits.com/2019/08/30/binary-symbolic-execution-with-klee-native/",
+           "title": "Binary symbolic execution with KLEE-Native"
        },
 	   {
            "category": "Exploit",
-           "link": "https://nafiez.github.io/security/eop/2019/08/25/total-defense-eop.html",
-           "title": "CVE-2019-15512 - Total Defense Antivirus - Elevation of Privilege (Arbitrary File Creation) Vulnerability"
+           "link": "https://alephsecurity.com/2019/09/02/Z3-for-webapp-security/",
+           "title": "Breaking Algorithms - SMT Solvers for WebApp Security"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/abuse-of-ws-discovery-protocol-can-lead-to-large-scale-ddos-attacks?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0819_ws",
-           "title": "Abuse of WS-Discovery Protocol Can Lead to Large-Scale DDoS Attacks"
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/2019/09/03/the-phishing-campaign-that-delivers-trickbot-by-evading-security-gateways/",
+           "title": "The Phishing Campaign That Delivers TrickBot By Evading Security Gateways"
+       },
+	   {
+           "category": "Google",
+           "link": "https://latesthackingnews.com/2019/09/02/google-release-developer-data-protection-reward-program/",
+           "title": "Google Release Developer Data Protection Reward Program"
        }
    ],
    "events": []
