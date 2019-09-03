@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/research/annual-global-data-breach-costs-to-exceed-5-trillion-by-2024-report/",
+           "title": "Data breaches expected to cost $5 trillion by 2024"
+       },
+	   {
+           "category": "Adware",
+           "link": "https://www.scmagazine.com/home/security-news/mobile-security/malicious-ad-clicking-apps-with-1-5m-downloads-found-on-google-play/",
+           "title": "Malicious ad clicking apps with 1.5M downloads found on Google Play"
+       },
+	   {
+           "category": "Cryptojacking",
+           "link": "https://www.scmagazine.com/home/security-news/legal-security-news/woman-accused-of-hacking-capital-one-indicted-for-alleged-cyber-intrusions-cryptojacking/",
+           "title": "Woman accused of hacking Capital One indicted for alleged cyber intrusions, cryptojacking"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/researcher-finds-exposed-starbucks-subdomain-subject-to-takeover/",
+           "title": "Researcher finds exposed Starbucks subdomain subject to takeover"
+       },
+       {
+           "category": "Twitter",
+           "link": "https://www.scmagazine.com/home/security-news/twitter-ceos-account-hacked-in-sim-swapping-scheme/",
+           "title": "Account hacked - Twitter CEO - SIM-swapping scheme"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/watering-hole-attack-campaign-designed-to-infect-ios-users-via-exploit-chains/",
+           "title": "Watering-hole attack campaign designed to infect iOS users via exploit chains"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/trickbot-updated-to-target-mobile-carrier-customers-pin-codes/",
+           "title": "TrickBot updated to target mobile carrier customers PIN codes"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/despite-concerns-over-breaches-40-of-cardholders-have-provided-social-security-numbers-online/",
+           "title": "Despite concerns over breaches, 40% of cardholders have provided Social Security numbers online"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://nafiez.github.io/security/eop/2019/08/25/total-defense-eop.html",
+           "title": "CVE-2019-15512 - Total Defense Antivirus - Elevation of Privilege (Arbitrary File Creation) Vulnerability"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/abuse-of-ws-discovery-protocol-can-lead-to-large-scale-ddos-attacks?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0819_ws",
+           "title": "Abuse of WS-Discovery Protocol Can Lead to Large-Scale DDoS Attacks"
+       }
+   ],
+   "events": []
+}
