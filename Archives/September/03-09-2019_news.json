@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Breach",
+           "link": "https://thehackernews.com/2019/09/xkcd-forum-hacked.html",
+           "title": "XKCD Forum Hacked – Over 562,000 Users Account Details Leaked"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/09/hacking-bmc-server.html",
+           "title": "BMC Vulnerabilities Expose Supermicro Servers to Remote USB-Attacks"
+       },
+	   {
+           "category": "Privacy",
+           "link": "https://thehackernews.com/2019/09/face-swapping-deepfake-zao.html",
+           "title": "Chinese Face-Swapping App ZAO Sparks Privacy Concerns After Going Crazily Viral"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/foxit-forcing-customer-password-resets-after-data-breach/",
+           "title": "Foxit forcing customer password resets after data breach"
+       },
+       {
+           "category": "Security",
+           "link": "https://www.scmagazine.com/home/opinion/executive-insight/how-artificial-intelligence-is-enhancing-enterprise-security/",
+           "title": "How artificial intelligence is enhancing enterprise security"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html",
+           "title": "Attacking SSL VPN - The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://blog.trailofbits.com/2019/08/30/binary-symbolic-execution-with-klee-native/",
+           "title": "Binary symbolic execution with KLEE-Native"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://alephsecurity.com/2019/09/02/Z3-for-webapp-security/",
+           "title": "Breaking Algorithms - SMT Solvers for WebApp Security"
+       },
+	   {
+           "category": "Phishing",
+           "link": "https://latesthackingnews.com/2019/09/03/the-phishing-campaign-that-delivers-trickbot-by-evading-security-gateways/",
+           "title": "The Phishing Campaign That Delivers TrickBot By Evading Security Gateways"
+       },
+	   {
+           "category": "Google",
+           "link": "https://latesthackingnews.com/2019/09/02/google-release-developer-data-protection-reward-program/",
+           "title": "Google Release Developer Data Protection Reward Program"
+       }
+   ],
+   "events": []
+}
