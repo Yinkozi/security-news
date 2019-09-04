@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Breach",
-           "link": "https://thehackernews.com/2019/09/xkcd-forum-hacked.html",
-           "title": "XKCD Forum Hacked – Over 562,000 Users Account Details Leaked"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/08/30/vm-escape-vulnerability-discovered-in-qemu-quick-emulator-which-allowed-for-code-execution/",
+           "title": "VM Escape Vulnerability Discovered In QEMU (Quick Emulator) Which Allowed For Code Execution"
        },
 	   {
            "category": "Exploit",
-           "link": "https://thehackernews.com/2019/09/hacking-bmc-server.html",
-           "title": "BMC Vulnerabilities Expose Supermicro Servers to Remote USB-Attacks"
+           "link": "https://latesthackingnews.com/2019/08/29/a-privilege-escalation-vulnerability-discovered-in-check-points-endpoint-security/",
+           "title": "A Privilege Escalation Vulnerability Discovered In Check Point’s Endpoint Security"
        },
 	   {
-           "category": "Privacy",
-           "link": "https://thehackernews.com/2019/09/face-swapping-deepfake-zao.html",
-           "title": "Chinese Face-Swapping App ZAO Sparks Privacy Concerns After Going Crazily Viral"
+           "category": "Ransomware",
+           "link": "https://latesthackingnews.com/2019/09/04/dental-data-backup-firm-hit-by-sodinokibi-ransomware-attack/",
+           "title": "Dental Data Backup Firm Hit By Sodinokibi Ransomware Attack"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/foxit-forcing-customer-password-resets-after-data-breach/",
-           "title": "Foxit forcing customer password resets after data breach"
+           "category": "Android",
+           "link": "https://latesthackingnews.com/2019/09/04/brata-android-rat-is-actively-spying-on-brazilian-users/",
+           "title": "BRATA Android RAT Is Actively Spying On Brazilian Users"
        },
        {
-           "category": "Security",
-           "link": "https://www.scmagazine.com/home/opinion/executive-insight/how-artificial-intelligence-is-enhancing-enterprise-security/",
-           "title": "How artificial intelligence is enhancing enterprise security"
+           "category": "Android",
+           "link": "https://www.scmagazine.com/home/security-news/mobile-security/millions-of-android-phones-vulnerable-to-phishing-attacks/",
+           "title": "Millions of Android phones vulnerable to phishing attacks"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html",
-           "title": "Attacking SSL VPN - The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/webcomic-xkcd-forum-user-data-exposed/",
+           "title": "Webcomic XKCD forum user data exposed"
+       },
+	   {
+           "category": "Android",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/half-a-million-teletext-holidays-files-unsecured/",
+           "title": "Half a million Teletext Holidays files unsecured"
        },
 	   {
            "category": "Exploit",
-           "link": "https://blog.trailofbits.com/2019/08/30/binary-symbolic-execution-with-klee-native/",
-           "title": "Binary symbolic execution with KLEE-Native"
+           "link": "https://thehackernews.com/2019/09/just-sms-could-let-remote-attackers.html",
+           "title": "Just An SMS Could Let Remote Attackers Access All Your Emails, Experts Warn"
+       },
+	   {
+           "category": "Firefox",
+           "link": "https://thehackernews.com/2019/09/firefox-tracking-cookies-cryptominers.html",
+           "title": "Firefox 69 Now Blocks 3rd-Party Tracking Cookies and Cryptominers By Default"
        },
 	   {
            "category": "Exploit",
-           "link": "https://alephsecurity.com/2019/09/02/Z3-for-webapp-security/",
-           "title": "Breaking Algorithms - SMT Solvers for WebApp Security"
-       },
-	   {
-           "category": "Phishing",
-           "link": "https://latesthackingnews.com/2019/09/03/the-phishing-campaign-that-delivers-trickbot-by-evading-security-gateways/",
-           "title": "The Phishing Campaign That Delivers TrickBot By Evading Security Gateways"
-       },
-	   {
-           "category": "Google",
-           "link": "https://latesthackingnews.com/2019/09/02/google-release-developer-data-protection-reward-program/",
-           "title": "Google Release Developer Data Protection Reward Program"
+           "link": "https://thehackernews.com/2019/09/android-full-chain-zero-day-exploit.html",
+           "title": "Exploit Reseller Offering Up To $2.5 Million For Android Zero-Days"
        }
    ],
    "events": []
