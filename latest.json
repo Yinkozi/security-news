@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/08/30/vm-escape-vulnerability-discovered-in-qemu-quick-emulator-which-allowed-for-code-execution/",
-           "title": "VM Escape Vulnerability Discovered In QEMU (Quick Emulator) Which Allowed For Code Execution"
+           "category": "Bye Bye Flash",
+           "link": "https://latesthackingnews.com/2019/09/05/mozilla-firefox-69-is-out-and-has-finally-removed-adobe-flash/",
+           "title": "Mozilla Firefox 69 Is Out and Has Finally Removed Adobe Flash"
+       },
+	   {
+           "category": "China",
+           "link": "https://latesthackingnews.com/2019/09/05/deepfake-mayhem-continues-as-chinese-app-zao-steps-in/",
+           "title": "Deepfake Mayhem Continues As Chinese App Zao Steps Into the Spotlight"
+       },
+	   {
+           "category": "Patch",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerability-round-up-mozilla-cisco-and-samba-issue-security-updates/",
+           "title": "Vulnerability round-up: Mozilla, Cisco and Samba issue security updates"
        },
 	   {
            "category": "Exploit",
-           "link": "https://latesthackingnews.com/2019/08/29/a-privilege-escalation-vulnerability-discovered-in-check-points-endpoint-security/",
-           "title": "A Privilege Escalation Vulnerability Discovered In Check Point’s Endpoint Security"
-       },
-	   {
-           "category": "Ransomware",
-           "link": "https://latesthackingnews.com/2019/09/04/dental-data-backup-firm-hit-by-sodinokibi-ransomware-attack/",
-           "title": "Dental Data Backup Firm Hit By Sodinokibi Ransomware Attack"
-       },
-	   {
-           "category": "Android",
-           "link": "https://latesthackingnews.com/2019/09/04/brata-android-rat-is-actively-spying-on-brazilian-users/",
-           "title": "BRATA Android RAT Is Actively Spying On Brazilian Users"
+           "link": "https://www.scmagazine.com/home/network-security/supermicro-fixes-bmc-software-flaws-that-expose-servers-to-virtual-usb-attacks/",
+           "title": "Supermicro fixes BMC software flaws that expose servers to virtual USB attacks"
        },
        {
-           "category": "Android",
-           "link": "https://www.scmagazine.com/home/security-news/mobile-security/millions-of-android-phones-vulnerable-to-phishing-attacks/",
-           "title": "Millions of Android phones vulnerable to phishing attacks"
+           "category": "Google",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/google-fined-170m-for-allegedly-improper-collection-of-kids-data-from-youtube-channels/",
+           "title": "Google fined $170M for allegedly improper collection of kids’ data from YouTube channels"
        }
    ],
    "linksCurated": [
        {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/webcomic-xkcd-forum-user-data-exposed/",
-           "title": "Webcomic XKCD forum user data exposed"
+           "category": "BReach",
+           "link": "https://www.scmagazine.com/home/security-news/419-million-facebook-users-info-exposed/",
+           "title": "419 million Facebook users info exposed, phone numbers and unique IDs"
        },
 	   {
            "category": "Android",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/half-a-million-teletext-holidays-files-unsecured/",
-           "title": "Half a million Teletext Holidays files unsecured"
+           "link": "https://www.zdnet.com/article/android-exploits-are-now-worth-more-than-ios-exploits-for-the-first-time/",
+           "title": "Android exploits are now worth more than iOS exploits for the first time"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/09/just-sms-could-let-remote-attackers.html",
-           "title": "Just An SMS Could Let Remote Attackers Access All Your Emails, Experts Warn"
+           "category": "Android",
+           "link": "https://android-developers.googleblog.com/2019/09/welcoming-android-10.html?linkId=73080374",
+           "title": "Welcoming Android 10"
        },
 	   {
-           "category": "Firefox",
-           "link": "https://thehackernews.com/2019/09/firefox-tracking-cookies-cryptominers.html",
-           "title": "Firefox 69 Now Blocks 3rd-Party Tracking Cookies and Cryptominers By Default"
+           "category": "Twitter",
+           "link": "https://thehackernews.com/2019/09/tweet-via-sms-text-message-hacking.html",
+           "title": "Twitter temporarily disables 'Tweeting via SMS' after CEO gets hacked"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://thehackernews.com/2019/09/android-full-chain-zero-day-exploit.html",
-           "title": "Exploit Reseller Offering Up To $2.5 Million For Android Zero-Days"
+           "category": "Phishing",
+           "link": "https://research.checkpoint.com/advanced-sms-phishing-attacks-against-modern-android-based-smartphones/",
+           "title": "Advanced SMS Phishing Attacks Against Modern Android-based Smartphones"
        }
    ],
    "events": []
