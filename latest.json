@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Bye Bye Flash",
-           "link": "https://latesthackingnews.com/2019/09/05/mozilla-firefox-69-is-out-and-has-finally-removed-adobe-flash/",
-           "title": "Mozilla Firefox 69 Is Out and Has Finally Removed Adobe Flash"
+           "category": "Apple",
+           "link": "https://latesthackingnews.com/2019/09/06/ios-weather-app-uvlens-sent-adult-content-popup-push-notifications-to-users/",
+           "title": "iOS Weather App UVLens Sent Adult Content Popup Push Notifications To Users"
        },
 	   {
-           "category": "China",
-           "link": "https://latesthackingnews.com/2019/09/05/deepfake-mayhem-continues-as-chinese-app-zao-steps-in/",
-           "title": "Deepfake Mayhem Continues As Chinese App Zao Steps Into the Spotlight"
+           "category": "malware",
+           "link": "https://www.scmagazine.com/home/security-news/holy-cybercrime-batman-joker-malware-commits-ad-fraud-data-theft/",
+           "title": "Holy cybercrime, Batman! Joker malware commits ad fraud, data theft"
        },
 	   {
-           "category": "Patch",
-           "link": "https://www.scmagazine.com/home/security-news/vulnerability-round-up-mozilla-cisco-and-samba-issue-security-updates/",
-           "title": "Vulnerability round-up: Mozilla, Cisco and Samba issue security updates"
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/glupteba-malware-exploits-bitcoin-transactions-to-keep-c2-servers-updated/",
+           "title": "Glupteba malware exploits Bitcoin transactions to keep C2 servers updated"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://www.scmagazine.com/home/network-security/supermicro-fixes-bmc-software-flaws-that-expose-servers-to-virtual-usb-attacks/",
-           "title": "Supermicro fixes BMC software flaws that expose servers to virtual USB attacks"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/circlci-data-breach-exposed-customer-github-and-bitbucket-logins/",
+           "title": "CirclCI data breach exposed customer GitHub and Bitbucket logins"
        },
        {
-           "category": "Google",
-           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/google-fined-170m-for-allegedly-improper-collection-of-kids-data-from-youtube-channels/",
-           "title": "Google fined $170M for allegedly improper collection of kids’ data from YouTube channels"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/monster-com-job-applicants-info-exposed-on-unprotected-server/",
+           "title": "Monster.com job applicants info exposed on unprotected server"
        }
    ],
    "linksCurated": [
        {
-           "category": "BReach",
-           "link": "https://www.scmagazine.com/home/security-news/419-million-facebook-users-info-exposed/",
-           "title": "419 million Facebook users info exposed, phone numbers and unique IDs"
+           "category": "Exploit",
+           "link": "https://blog.aquasec.com/dns-spoofing-kubernetes-clusters",
+           "title": "DNS Spoofing on Kubernetes Clusters"
        },
 	   {
-           "category": "Android",
-           "link": "https://www.zdnet.com/article/android-exploits-are-now-worth-more-than-ios-exploits-for-the-first-time/",
-           "title": "Android exploits are now worth more than iOS exploits for the first time"
+           "category": "Exploit",
+           "link": "https://x-c3ll.github.io//posts/CVE-2018-7081-RCE-ArubaOS/",
+           "title": "Remote Code Execution in Aruba Mobility Controller (ArubaOS) - CVE-2018-7081"
        },
 	   {
-           "category": "Android",
-           "link": "https://android-developers.googleblog.com/2019/09/welcoming-android-10.html?linkId=73080374",
-           "title": "Welcoming Android 10"
+           "category": "Exploit",
+           "link": "https://insights.sei.cmu.edu/cert/2019/09/the-dangers-of-vhd-and-vhdx-files.html",
+           "title": "The Dangers of VHD and VHDX Files"
        },
 	   {
-           "category": "Twitter",
-           "link": "https://thehackernews.com/2019/09/tweet-via-sms-text-message-hacking.html",
-           "title": "Twitter temporarily disables 'Tweeting via SMS' after CEO gets hacked"
+           "category": "Exploit",
+           "link": "https://towardsdatascience.com/evading-machine-learning-malware-classifiers-ce52dabdb713",
+           "title": "Evading Machine Learning Malware Classifiers"
        },
 	   {
-           "category": "Phishing",
-           "link": "https://research.checkpoint.com/advanced-sms-phishing-attacks-against-modern-android-based-smartphones/",
-           "title": "Advanced SMS Phishing Attacks Against Modern Android-based Smartphones"
+           "category": "Security Risks",
+           "link": "https://br3akp0int.blogspot.com/2019/09/securing-react-native-apps.html",
+           "title": "Handling common mobile security risks through existing controls in React Native"
        }
    ],
    "events": []
