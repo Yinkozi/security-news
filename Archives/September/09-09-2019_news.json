@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flash-player-patches-headline-adobe-patch-tuesday-releases/",
+           "title": "Flash Player patches headline Adobe Patch Tuesday releases"
+       },
+	   {
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/avast-places-flashlight-apps-permission-requests-in-the-spotlight/",
+           "title": "Avast places flashlight apps permission requests in the spotlight"
+       },
+	   {
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/the-rockford-files-ransomware-disrupts-illinois-school-districts-systems/",
+           "title": "The Rockford files: Ransomware disrupts Illinois school district’s systems"
+       },
+	   {
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/research/metasploit-project-publishes-exploit-for-bluekeep-bug/",
+           "title": "Metasploit Project publishes exploit for Bluekeep bug"
+       },
+       {
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/stealthfalcom-backdoor-using-windows-bits-to-hide-action/",
+           "title": "StealthFalcon backdoor using Windows BITS to hide action"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/cyberattack/wikileaks-knocked-offline-by-ddos-attack/",
+           "title": "Wikipedia knocked offline by DDoS attack"
+       },
+	   {
+           "category": "x",
+           "link": "https://www.scmagazine.com/website-web-server-security/wordpress-update-fixes-assortment-of-xss-flaws/",
+           "title": "WordPress update fixes assortment of XSS flaws"
+       },
+	   {
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/09/10/new-lilocked-ransomware-discovered-in-the-wild/",
+           "title": "New Lilocked Ransomware Discovered in The Wild"
+       },
+	   {
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/09/09/google-chrome-plans-to-block-third-party-cookies-by-default/",
+           "title": "Google Chrome Plans To Block Third-Party Cookies By Default"
+       },
+	   {
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/09/09/an-android-zero-day-remains-unpatched-despite-being-known-for-several-months/",
+           "title": "An Android Zero-Day Remains Unpatched Despite Being Known For Several Months"
+       }
+   ],
+   "events": []
+}
