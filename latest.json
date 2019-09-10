@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Apple",
-           "link": "https://latesthackingnews.com/2019/09/06/ios-weather-app-uvlens-sent-adult-content-popup-push-notifications-to-users/",
-           "title": "iOS Weather App UVLens Sent Adult Content Popup Push Notifications To Users"
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flash-player-patches-headline-adobe-patch-tuesday-releases/",
+           "title": "Flash Player patches headline Adobe Patch Tuesday releases"
        },
 	   {
-           "category": "malware",
-           "link": "https://www.scmagazine.com/home/security-news/holy-cybercrime-batman-joker-malware-commits-ad-fraud-data-theft/",
-           "title": "Holy cybercrime, Batman! Joker malware commits ad fraud, data theft"
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/avast-places-flashlight-apps-permission-requests-in-the-spotlight/",
+           "title": "Avast places flashlight apps permission requests in the spotlight"
        },
 	   {
-           "category": "Malware",
-           "link": "https://www.scmagazine.com/home/security-news/malware/glupteba-malware-exploits-bitcoin-transactions-to-keep-c2-servers-updated/",
-           "title": "Glupteba malware exploits Bitcoin transactions to keep C2 servers updated"
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/the-rockford-files-ransomware-disrupts-illinois-school-districts-systems/",
+           "title": "The Rockford files: Ransomware disrupts Illinois school district’s systems"
        },
 	   {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/data-breach/circlci-data-breach-exposed-customer-github-and-bitbucket-logins/",
-           "title": "CirclCI data breach exposed customer GitHub and Bitbucket logins"
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/research/metasploit-project-publishes-exploit-for-bluekeep-bug/",
+           "title": "Metasploit Project publishes exploit for Bluekeep bug"
        },
        {
-           "category": "Breach",
-           "link": "https://www.scmagazine.com/home/security-news/monster-com-job-applicants-info-exposed-on-unprotected-server/",
-           "title": "Monster.com job applicants info exposed on unprotected server"
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/stealthfalcom-backdoor-using-windows-bits-to-hide-action/",
+           "title": "StealthFalcon backdoor using Windows BITS to hide action"
        }
    ],
    "linksCurated": [
        {
-           "category": "Exploit",
-           "link": "https://blog.aquasec.com/dns-spoofing-kubernetes-clusters",
-           "title": "DNS Spoofing on Kubernetes Clusters"
+           "category": "x",
+           "link": "https://www.scmagazine.com/home/security-news/cyberattack/wikileaks-knocked-offline-by-ddos-attack/",
+           "title": "Wikipedia knocked offline by DDoS attack"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://x-c3ll.github.io//posts/CVE-2018-7081-RCE-ArubaOS/",
-           "title": "Remote Code Execution in Aruba Mobility Controller (ArubaOS) - CVE-2018-7081"
+           "category": "x",
+           "link": "https://www.scmagazine.com/website-web-server-security/wordpress-update-fixes-assortment-of-xss-flaws/",
+           "title": "WordPress update fixes assortment of XSS flaws"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://insights.sei.cmu.edu/cert/2019/09/the-dangers-of-vhd-and-vhdx-files.html",
-           "title": "The Dangers of VHD and VHDX Files"
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/09/10/new-lilocked-ransomware-discovered-in-the-wild/",
+           "title": "New Lilocked Ransomware Discovered in The Wild"
        },
 	   {
-           "category": "Exploit",
-           "link": "https://towardsdatascience.com/evading-machine-learning-malware-classifiers-ce52dabdb713",
-           "title": "Evading Machine Learning Malware Classifiers"
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/09/09/google-chrome-plans-to-block-third-party-cookies-by-default/",
+           "title": "Google Chrome Plans To Block Third-Party Cookies By Default"
        },
 	   {
-           "category": "Security Risks",
-           "link": "https://br3akp0int.blogspot.com/2019/09/securing-react-native-apps.html",
-           "title": "Handling common mobile security risks through existing controls in React Native"
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/09/09/an-android-zero-day-remains-unpatched-despite-being-known-for-several-months/",
+           "title": "An Android Zero-Day Remains Unpatched Despite Being Known For Several Months"
        }
    ],
    "events": []
