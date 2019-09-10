@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Apple",
+           "link": "https://latesthackingnews.com/2019/09/06/ios-weather-app-uvlens-sent-adult-content-popup-push-notifications-to-users/",
+           "title": "iOS Weather App UVLens Sent Adult Content Popup Push Notifications To Users"
+       },
+	   {
+           "category": "malware",
+           "link": "https://www.scmagazine.com/home/security-news/holy-cybercrime-batman-joker-malware-commits-ad-fraud-data-theft/",
+           "title": "Holy cybercrime, Batman! Joker malware commits ad fraud, data theft"
+       },
+	   {
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/glupteba-malware-exploits-bitcoin-transactions-to-keep-c2-servers-updated/",
+           "title": "Glupteba malware exploits Bitcoin transactions to keep C2 servers updated"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/data-breach/circlci-data-breach-exposed-customer-github-and-bitbucket-logins/",
+           "title": "CirclCI data breach exposed customer GitHub and Bitbucket logins"
+       },
+       {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/monster-com-job-applicants-info-exposed-on-unprotected-server/",
+           "title": "Monster.com job applicants info exposed on unprotected server"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://blog.aquasec.com/dns-spoofing-kubernetes-clusters",
+           "title": "DNS Spoofing on Kubernetes Clusters"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://x-c3ll.github.io//posts/CVE-2018-7081-RCE-ArubaOS/",
+           "title": "Remote Code Execution in Aruba Mobility Controller (ArubaOS) - CVE-2018-7081"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://insights.sei.cmu.edu/cert/2019/09/the-dangers-of-vhd-and-vhdx-files.html",
+           "title": "The Dangers of VHD and VHDX Files"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://towardsdatascience.com/evading-machine-learning-malware-classifiers-ce52dabdb713",
+           "title": "Evading Machine Learning Malware Classifiers"
+       },
+	   {
+           "category": "Security Risks",
+           "link": "https://br3akp0int.blogspot.com/2019/09/securing-react-native-apps.html",
+           "title": "Handling common mobile security risks through existing controls in React Native"
+       }
+   ],
+   "events": []
+}
