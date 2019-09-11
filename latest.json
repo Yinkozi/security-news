@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "x",
-           "link": "https://latesthackingnews.com/2019/09/09/419-million-facebook-users-accounts-exposed-due-to-leaky-database/",
-           "title": "419 Million Facebook Users Accounts Exposed Due to Leaky Database"
+           "category": "Facebook",
+           "link": "https://thehackernews.com/2019/09/facebook-hhvm-vulnerability.html",
+           "title": "Facebook Patches Memory Disclosure Using JPEG Images Flaws in HHVM Servers"
        },
 	   {
-           "category": "x",
-           "link": "https://azeria-labs.com/heap-overflows-and-the-ios-kernel-heap/",
-           "title": "HEAP OVERFLOWS AND THE IOS KERNEL HEAP"
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/09/11/critical-exim-vulnerability-affected-millions-of-servers/",
+           "title": "Critical Remote Execution Exim Vulnerability Affects Millions Of Servers"
        },
 	   {
-           "category": "x",
-           "link": "https://www.tenable.com/blog/cve-2017-9841-drupal-sites-exploited-using-phpunit-vulnerability-in-mailchimp-modules-psa-2019",
-           "title": "CVE-2017-9841: Drupal Sites Exploited Using PHPUnit Vulnerability in Mailchimp Modules (PSA-2019-0904)"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flaws-in-imperial-and-dabman-web-radios-could-lead-to-full-compromise/",
+           "title": "Flaws in Imperial Dabman web radios could lead to full compromise"
        },
 	   {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/09/gps-tracking-device-for-kids.html",
-           "title": "Flaws in Over Half a Million GPS Trackers Expose Children Location Data"
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/ransomware-attack-on-premier-family-medical-reportedly-impacts-records-of-320k-patients/",
+           "title": "Ransomware attack on Premier Family Medical reportedly impacts records of 320K patients"
        },
        {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/09/php-programming-language.html",
-           "title": "Multiple Code Execution Flaws Found In PHP Programming Language"
+           "category": "Intel",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/intel-releases-medium-and-low-rated-security-advisories/",
+           "title": "Intel releases medium and low-rated security advisories"
        }
    ],
    "linksCurated": [
        {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/09/exim-email-server-vulnerability.html",
-           "title": "Exim TLS Flaw Opens Email Servers to Remote Root Code Execution Attacks"
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/application-security/apps-vulnerable-to-sql-injection-by-way-of-virtual-assistant-verbal-commands/",
+           "title": "Apps vulnerable to SQL injection by way of virtual assistant verbal commands"
        },
 	   {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/09/its-been-summer-of-ransomware-hold-ups.html",
-           "title": "A Summer of Discontent: The Hottest Malware Hits"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/secret-service-probing-breach-at-federal-it-contractor/",
+           "title": "Secret Service probing breach at federal IT contractor"
        },
 	   {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/09/microsoft-windows-update.html",
-           "title": "Latest Microsoft Updates Patch 4 Critical Flaws In Windows RDP Client"
+           "category": "Microsoft",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-patch-tuesday-two-zero-days-and-17-critical-vulnerabilities-addressed/",
+           "title": "Microsoft Patch Tuesday: Two zero days and 17 critical vulnerabilities addressed"
        },
 	   {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/09/router-password-hacking.html",
-           "title": "Some D-Link and Comba WiFi Routers Leak Their Passwords in Plaintext"
+           "category": "Google",
+           "link": "https://thehackernews.com/2019/09/chrome-dns-over-https.html",
+           "title": "Google to Experiment DNS over HTTPS DoH Feature in Chrome 78"
        },
 	   {
-           "category": "x",
-           "link": "https://thehackernews.com/2019/09/stealthfalcon-virus-windows-bits.html",
-           "title": "New Malware Uses Windows BITS Service to Stealthy Exfiltrate Data"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/09/netcat-intel-side-channel.html",
+           "title": "NetCAT: New Attack Lets Hackers Remotely Steal Data From Intel CPUs"
        }
    ],
    "events": []
