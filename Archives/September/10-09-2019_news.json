@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "x",
+           "link": "https://latesthackingnews.com/2019/09/09/419-million-facebook-users-accounts-exposed-due-to-leaky-database/",
+           "title": "419 Million Facebook Users Accounts Exposed Due to Leaky Database"
+       },
+	   {
+           "category": "x",
+           "link": "https://azeria-labs.com/heap-overflows-and-the-ios-kernel-heap/",
+           "title": "HEAP OVERFLOWS AND THE IOS KERNEL HEAP"
+       },
+	   {
+           "category": "x",
+           "link": "https://www.tenable.com/blog/cve-2017-9841-drupal-sites-exploited-using-phpunit-vulnerability-in-mailchimp-modules-psa-2019",
+           "title": "CVE-2017-9841: Drupal Sites Exploited Using PHPUnit Vulnerability in Mailchimp Modules (PSA-2019-0904)"
+       },
+	   {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/09/gps-tracking-device-for-kids.html",
+           "title": "Flaws in Over Half a Million GPS Trackers Expose Children Location Data"
+       },
+       {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/09/php-programming-language.html",
+           "title": "Multiple Code Execution Flaws Found In PHP Programming Language"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/09/exim-email-server-vulnerability.html",
+           "title": "Exim TLS Flaw Opens Email Servers to Remote Root Code Execution Attacks"
+       },
+	   {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/09/its-been-summer-of-ransomware-hold-ups.html",
+           "title": "A Summer of Discontent: The Hottest Malware Hits"
+       },
+	   {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/09/microsoft-windows-update.html",
+           "title": "Latest Microsoft Updates Patch 4 Critical Flaws In Windows RDP Client"
+       },
+	   {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/09/router-password-hacking.html",
+           "title": "Some D-Link and Comba WiFi Routers Leak Their Passwords in Plaintext"
+       },
+	   {
+           "category": "x",
+           "link": "https://thehackernews.com/2019/09/stealthfalcon-virus-windows-bits.html",
+           "title": "New Malware Uses Windows BITS Service to Stealthy Exfiltrate Data"
+       }
+   ],
+   "events": []
+}
