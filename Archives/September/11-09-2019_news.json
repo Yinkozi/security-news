@@ -1,0 +1,57 @@
+{
+   "linksAuto": [
+       {
+           "category": "Facebook",
+           "link": "https://thehackernews.com/2019/09/facebook-hhvm-vulnerability.html",
+           "title": "Facebook Patches Memory Disclosure Using JPEG Images Flaws in HHVM Servers"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://latesthackingnews.com/2019/09/11/critical-exim-vulnerability-affected-millions-of-servers/",
+           "title": "Critical Remote Execution Exim Vulnerability Affects Millions Of Servers"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/flaws-in-imperial-and-dabman-web-radios-could-lead-to-full-compromise/",
+           "title": "Flaws in Imperial Dabman web radios could lead to full compromise"
+       },
+	   {
+           "category": "Ransomware",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/ransomware-attack-on-premier-family-medical-reportedly-impacts-records-of-320k-patients/",
+           "title": "Ransomware attack on Premier Family Medical reportedly impacts records of 320K patients"
+       },
+       {
+           "category": "Intel",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/intel-releases-medium-and-low-rated-security-advisories/",
+           "title": "Intel releases medium and low-rated security advisories"
+       }
+   ],
+   "linksCurated": [
+       {
+           "category": "Exploit",
+           "link": "https://www.scmagazine.com/application-security/apps-vulnerable-to-sql-injection-by-way-of-virtual-assistant-verbal-commands/",
+           "title": "Apps vulnerable to SQL injection by way of virtual assistant verbal commands"
+       },
+	   {
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/government-and-defense/secret-service-probing-breach-at-federal-it-contractor/",
+           "title": "Secret Service probing breach at federal IT contractor"
+       },
+	   {
+           "category": "Microsoft",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/microsoft-patch-tuesday-two-zero-days-and-17-critical-vulnerabilities-addressed/",
+           "title": "Microsoft Patch Tuesday: Two zero days and 17 critical vulnerabilities addressed"
+       },
+	   {
+           "category": "Google",
+           "link": "https://thehackernews.com/2019/09/chrome-dns-over-https.html",
+           "title": "Google to Experiment DNS over HTTPS DoH Feature in Chrome 78"
+       },
+	   {
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/09/netcat-intel-side-channel.html",
+           "title": "NetCAT: New Attack Lets Hackers Remotely Steal Data From Intel CPUs"
+       }
+   ],
+   "events": []
+}
