@@ -1,56 +1,56 @@
 {
    "linksAuto": [
        {
-           "category": "Mozilla",
-           "link": "https://thehackernews.com/2019/09/firefox-privacy-vpn-service.html",
-           "title": "Mozilla Launches 'Firefox Private Network' VPN Service as a Browser Extension"
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/malware/innfirat-malware-hunts-for-cryptocurrency-info-browser-cookie-data/",
+           "title": "InnfiRAT malware hunts for cryptocurrency info, browser cookie data"
        },
 	   {
-           "category": "Scammers",
-           "link": "https://thehackernews.com/2019/09/nigerian-bec-scams-arrested.html",
-           "title": "Hundreds of BEC Scammers Arrested in Nigeria and U.S. — $3.7 Million Recovered"
+           "category": "Breach",
+           "link": "https://www.scmagazine.com/home/security-news/misconfigured-database-exposes-198m-records-on-prospective-auto-buyers/",
+           "title": "Misconfigured database exposes 198M records on prospective auto buyers"
        },
 	   {
-           "category": "Hijacking",
-           "link": "https://thehackernews.com/2019/09/simjacker-mobile-hacking.html",
-           "title": "New SIM Card Flaw Lets Hackers Hijack Any Phone Just By Sending SMS"
+           "category": "Pentest",
+           "link": "https://www.scmagazine.com/home/security-news/vulnerabilities/pen-test-gone-awry-coalfire-staffers-arrested-for-burglary/",
+           "title": "Pen test gone awry? Coalfire staffers arrested for burglary"
        },
 	   {
-           "category": "Facebook",
-           "link": "https://thehackernews.com/2019/09/facebook-period-tracker-privacy.html",
-           "title": "Popular Period Tracking Apps Share Your Sexual Health Data With Facebook"
+           "category": "US-Korea",
+           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/u-s-sanctions-north-korea-hacking-groups-says-attacks-funded-missile-program/",
+           "title": "U.S. sanctions North Korea hacking groups, says attacks funded missile program"
        },
        {
-           "category": "Microsoft",
-           "link": "https://latesthackingnews.com/2019/09/12/microsoft-september-patch-tuesday-addresses-two-actively-exploited-zero-day-bugs/",
-           "title": "Microsoft September Patch Tuesday Addresses Two Actively Exploited Zero-Day Bugs"
+           "category": "Malware",
+           "link": "https://www.scmagazine.com/home/security-news/ransomware/ryuk-like-malware-targeting-law-military-and-finance-groups/",
+           "title": "Ryuk-like malware targeting law, military and finance groups"
        }
    ],
    "linksCurated": [
        {
-           "category": "Bitcoin",
-           "link": "https://www.scmagazine.com/home/security-news/cryptocurrency/bitcoins-lightning-network-vulnerabilities-spotted-in-the-wild/",
-           "title": "Bitcoin’s Lightning Network vulnerabilities spotted in the wild"
+           "category": "Hack",
+           "link": "https://www.scmagazine.com/home/security-news/cybercrime/u-k-man-arrested-for-allegedly-hacking-musicians-selling-their-songs/",
+           "title": "U.K. man arrested for allegedly hacking musicians, selling their songs"
        },
 	   {
-           "category": "Instagram",
-           "link": "https://www.scmagazine.com/home/security-news/privacy-compliance/instagram-fixed-after-researcher-finds-way-to-link-account-info-to-pii/",
-           "title": "Instagram fixed after researcher finds way to link account info to PII"
+           "category": "Exploit",
+           "link": "https://securelist.com/threats-to-macos-users/93116/",
+           "title": "Threats to macOS users"
        },
 	   {
-           "category": "Israel",
-           "link": "https://www.scmagazine.com/home/security-news/apts-cyberespionage/israel-reportedly-behind-spying-devices-found-near-white-house-other-sensitive-areas/",
-           "title": "Israel reportedly behind spying devices found near White House, other sensitive areas"
+           "category": "Breach",
+           "link": "https://threatpost.com/198m-car-buyer-records-exposed-online/148231/",
+           "title": "198 Million Car-Buyer Records Exposed Online for All to See"
        },
 	   {
-           "category": "Phishing",
-           "link": "https://www.scmagazine.com/home/security-news/cybercrime/researchers-iranian-phishing-campaign-targets-universities-with-fake-library-emails/",
-           "title": "Researchers: Iranian phishing campaign targets universities with fake library emails"
+           "category": "Exploit",
+           "link": "https://thehackernews.com/2019/09/ios-13-lockscreen-bypass.html",
+           "title": "Yikes! iOS 13 Coming Next Week With iPhone LockScreen Bypass Bug"
        },
 	   {
-           "category": "Phishing",
-           "link": "https://www.scmagazine.com/home/email-security/facebook-youtube-insider-threats-used-in-brazilian-phishing-scheme/",
-           "title": "Facebook, YouTube used in Brazilian phishing scheme"
+           "category": "Exploit",
+           "link": "https://www.fortinet.com/blog/threat-research/another-local-privilege-escalation-lpe-vulnerability.html",
+           "title": "Another Local Privilege Escalation Vulnerability Using Process Creation Impersonation"
        }
    ],
    "events": []
