@@ -25,9 +25,8 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
                 echo "push to s3"
                 aws s3 cp latest.json s3://security-news-protocol/latest.json
-                aws s3 cp ./bin/cors.json s3://security-news-protocol/cors.json
                 echo "Setting Cors policy"
-                aws s3api put-bucket-cors --bucket security-news-protocol --cors-configuration file://cors.json
+                aws s3api put-bucket-cors --bucket security-news-protocol --cors-configuration ./bin/cors.json
             fi
 
       - run:
