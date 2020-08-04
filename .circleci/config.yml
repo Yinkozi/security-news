@@ -27,6 +27,8 @@ jobs:
                 aws s3 cp latest.json s3://security-news-protocol/latest.json
                 echo "Setting Cors policy"
                 aws s3api put-bucket-cors --bucket security-news-protocol --cors-configuration file://./bin/cors.json
+                echo "Getting Cors policy"
+                aws s3api get-bucket-cors --bucket security-news-protocol
             fi
 
       - run:
