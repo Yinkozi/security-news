@@ -1,15 +1,24 @@
-<CORSConfiguration>
- <CORSRule>
-   <AllowedOrigin>https://www.yinkozi.com</AllowedOrigin>
-
-   <AllowedMethod>PUT</AllowedMethod>
-   <AllowedMethod>POST</AllowedMethod>
-   <AllowedMethod>DELETE</AllowedMethod>
-
-   <AllowedHeader>*</AllowedHeader>
- </CORSRule>
- <CORSRule>
-   <AllowedOrigin>*</AllowedOrigin>
-   <AllowedMethod>GET</AllowedMethod>
- </CORSRule>
-</CORSConfiguration>
+{
+    "CORSRules": [
+        {
+            "AllowedHeaders": [
+                "*"
+            ],
+            "AllowedMethods": [
+                "GET",
+                "HEAD",
+                "POST",
+                "PUT",
+                "DELETE"
+            ],
+            "AllowedOrigins": [
+                "http://yinkozi.com",
+                "http://www.yinkozi.com"
+            ],
+            "ExposeHeaders": [
+                "Etag"
+            ],
+            "MaxAgeSeconds": 3000
+        }
+    ]
+}
