@@ -12,6 +12,8 @@
                 "DELETE"
             ],
             "AllowedOrigins": [
+                "https://yinkozi.com",
+                "https://www.yinkozi.com",
                 "http://yinkozi.com",
                 "http://www.yinkozi.com"
             ],
