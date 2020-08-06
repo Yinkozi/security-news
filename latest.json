@@ -1,24 +1,54 @@
 {
     "linksAuto": [
         {
-            "category": "undefined",
-            "link": "https://github.com/jthuraisamy/TelemetrySourcerer",
-            "title": "Enumerate And Disable Common Sources Of Telemetry Used By AV/EDR."
+            "category": "Security",
+            "link": "https://msrc-blog.microsoft.com/2020/08/05/announcing-2020-msrc-most-valuable-security-researchers/",
+            "title": "Congratulations to the MSRC/'s 2020 Most Valuable Security Researchers"
         },
         {
             "category": "Exploit",
-            "link": "https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-1.html",
-            "title": "Exploiting Android Messengers With WebRTC: Part 1"
+            "link": "https://bazad.github.io/presentations/BlackHat-USA-2020-iOS_Kernel_PAC_One_Year_Later.pdf",
+            "title": "iOS Kernal PAC, One Year Later"
         },
         {
             "category": "Threat",
-            "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/take-a-netwalk-on-the-wild-side",
-            "title": "Take a \"NetWalk\" on the Wild Side"
+            "link": "https://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/",
+            "title": "Canon Hit By Maze Ransomware Attack 10TB Data Allegedly Stolen"  
         },
         {
             "category": "Windows",
-            "link": "https://ntamonsec.blogspot.com/2020/08/applocker-policy-enumeration-in-c.html",
-            "title": "AppLocker Policy Enumeration In C"
+            "link": "https://anti-debug.checkpoint.com/",
+            "title": "Anti-Debug Tricks"
+        },
+        {
+            "category": "Tools",
+            "link": "https://github.com/d4stiny/spectre",
+            "title": "A Windows Kernel-Mode Rootkit That Abuses Legitimate Communication Channels To Control A Machine."
+        },
+        {
+            "category": "Exploit",
+            "link": "https://github.com/maddiestone/ConPresentations/blob/master/BH2020.ReversingTheRoot.pdf",
+            "title": "Identifying The Exploited Vulnerability In 0-Day Used In-The-Wild"
+        },
+        {
+            "category": "Threat",
+            "link": "https://dirkjanm.io/digging-further-into-the-primary-refresh-token/",
+            "title": "Digging Further Into The Primary Refresh Token"
+        },
+        {
+            "category": "Exploit",
+            "link": "https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-2.html",
+            "title": "Exploiting Android Messengers With WebRTC: Part 2"
+        },
+        {
+            "category": "Threat",
+            "link": "https://medium.com/@tom_rock/unprotect-project-5f80a88d9bdd",
+            "title": "The Search Engine About Malware Evasion"
+        },
+        {
+            "category": "Windows",
+            "link": "https://search.unprotect.it/",
+            "title": "Search Evasion Techniques"
         }
     ],
     "linksCurated": [],
