@@ -1,54 +1,94 @@
 {
     "linksAuto": [
         {
-            "category": "Security",
-            "link": "https://msrc-blog.microsoft.com/2020/08/05/announcing-2020-msrc-most-valuable-security-researchers/",
-            "title": "Congratulations to the MSRC/'s 2020 Most Valuable Security Researchers"
+            "category": "undefined",
+            "link": "https://github.com/0vercl0k/wtf/releases",
+            "title": "Releases 0vercl0k/wtf GitHub"
         },
         {
-            "category": "Exploit",
-            "link": "https://bazad.github.io/presentations/BlackHat-USA-2020-iOS_Kernel_PAC_One_Year_Later.pdf",
-            "title": "iOS Kernal PAC, One Year Later"
+            "category": "undefined",
+            "link": "https://developers.facebook.com/blog/post/2021/12/09/drgn-how-linux-kernel-team-meta-debugs-kernel-scale/",
+            "title": "drgn: How the Linux Kernel Team at Meta Debugs the Kernel at Scale"
         },
         {
-            "category": "Threat",
-            "link": "https://www.bleepingcomputer.com/news/security/canon-hit-by-maze-ransomware-attack-10tb-data-allegedly-stolen/",
-            "title": "Canon Hit By Maze Ransomware Attack 10TB Data Allegedly Stolen"  
+            "category": "undefined",
+            "link": "https://ctftime.org/writeup/7488",
+            "title": "CTFtime.org / SEC-T CTF / Report / Writeup"
         },
         {
-            "category": "Windows",
-            "link": "https://anti-debug.checkpoint.com/",
-            "title": "Anti-Debug Tricks"
+            "category": "undefined",
+            "link": "https://github.com/letsencrypt/boulder/commit/50fdedf2e77a094c0b6ab1d0144fd5c37f5c3c5d",
+            "title": "Delete boulder-wfe binary and wfe library (#5898)  letsencrypt/boulder@50fdedf GitHub"
         },
         {
-            "category": "Tools",
-            "link": "https://github.com/d4stiny/spectre",
-            "title": "A Windows Kernel-Mode Rootkit That Abuses Legitimate Communication Channels To Control A Machine."
+            "category": "undefined",
+            "link": "https://www.matomico.com/blog/no-more-elections-my-blockchain-manifesto",
+            "title": "\u2018No more elections! My blockchain manifesto."
         },
         {
-            "category": "Exploit",
-            "link": "https://github.com/maddiestone/ConPresentations/blob/master/BH2020.ReversingTheRoot.pdf",
-            "title": "Identifying The Exploited Vulnerability In 0-Day Used In-The-Wild"
+            "category": "undefined",
+            "link": "https://github.com/aatlasis/Chiron",
+            "title": "GitHub - aatlasis/Chiron: Chiron - An IPv6 Security Assessment framework with advanced IPv6 Extension Headers manipulation capabilities."
         },
         {
-            "category": "Threat",
-            "link": "https://dirkjanm.io/digging-further-into-the-primary-refresh-token/",
-            "title": "Digging Further Into The Primary Refresh Token"
+            "category": "undefined",
+            "link": "https://44con.com/product/hacking-android-ios-and-iot-apps-by-example-2022/",
+            "title": "Hacking Android, iOS and IoT apps by Example: 2022 \u2013 44CON"
         },
         {
-            "category": "Exploit",
-            "link": "https://googleprojectzero.blogspot.com/2020/08/exploiting-android-messengers-part-2.html",
-            "title": "Exploiting Android Messengers With WebRTC: Part 2"
+            "category": "undefined",
+            "link": "https://vera.codes/challenges",
+            "title": "vera.codes"
         },
         {
-            "category": "Threat",
-            "link": "https://medium.com/@tom_rock/unprotect-project-5f80a88d9bdd",
-            "title": "The Search Engine About Malware Evasion"
+            "category": "undefined",
+            "link": "https://oag.ca.gov/system/files/CA-%20Notice%20of%20Data%20Event_0.pdf",
+            "title": "No Title"
         },
         {
-            "category": "Windows",
-            "link": "https://search.unprotect.it/",
-            "title": "Search Evasion Techniques"
+            "category": "undefined",
+            "link": "https://a41con.ch/",
+            "title": "Area41: Switzerland's Premier Hacker and Security Conference"
+        },
+        {
+            "category": "undefined",
+            "link": "https://www.linkedin.com/pulse/blockchain-bitcoin-haircut-suit-you-can-parade-front-your-bashir/",
+            "title": "Blockchain is Bitcoin with a haircut and suit that you can parade in front of your board of directors\n        "
+        },
+        {
+            "category": "undefined",
+            "link": "https://randori.bamboohr.com/jobs/view.php?id=28&source=bamboohr",
+            "title": "\n\t\tBambooHR\n\t"
+        },
+        {
+            "category": "undefined",
+            "link": "http://thndr.it",
+            "title": "THNDR.IT - Informazioni per gente curiosa"
+        },
+        {
+            "category": "undefined",
+            "link": "https://mirror.deepines.com/appstore/pool/appstore/c/com.iflytek.iflyime/",
+            "title": "Index of /appstore/pool/appstore/c/com.iflytek.iflyime/"
+        },
+        {
+            "category": "undefined",
+            "link": "https://staaldraad.github.io/2017/10/23/msword-field-codes/",
+            "title": "MSWord - Obfuscation with Field Codes - Staaldraad"
+        },
+        {
+            "category": "undefined",
+            "link": "https://www.crowdstrike.com/global-threat-report/",
+            "title": "2022 Global Threat Report: Insights from the Threat Landscape | CrowdStrike"
+        },
+        {
+            "category": "undefined",
+            "link": "https://keybase.io/aeondez/sigs/Z578sTHjkuOsWOBl_r3XQ0qWiUoK_Vc8dW9d",
+            "title": "aeondez (Daniel Bonney) | Keybase"
+        },
+        {
+            "category": "undefined",
+            "link": "http://aicd.companydirectors.com.au/membership/company-director-magazine/2022-back-editions/february/special-report?utm_copy=the_number_of_tech_platfo&utm_campaign=CDM-FEB&utm_source=twitter&utm_medium=Social&utm_content=Company+Director+Magazine",
+            "title": "\r\n\tTech toolbox\r\n"
         }
     ],
     "linksCurated": [],
