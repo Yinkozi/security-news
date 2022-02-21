@@ -2,30 +2,36 @@
     "linksAuto": [
         {
             "category": "undefined",
-            "link": null,
-            "title": "No Title"
+            "link": "https://apps.apple.com/us/app/ka-block/id1037173557",
+            "title": "\n    \u200eKa-Block! on the App\u00a0Store\n  "
         },
         {
             "category": "undefined",
-            "link": "https://github.com/salmer/CppDeveloperRoadmap/blob/main/English/README.md",
-            "title": "CppDeveloperRoadmap/README.md at main \u00b7 salmer/CppDeveloperRoadmap \u00b7 GitHub"
-        },
-        {
-            "category": "undefined",
-            "link": "https://www.trendingtopics.eu/eu-wants-to-completely-ban-anonymous-payments-with-crypto-assets/",
-            "title": "EU wants to completely ban anonymous payments with crypto assets"
-        },
-        {
-            "category": "undefined",
-            "link": "https://github.com/sailay1996/app-sec-checklist",
-            "title": "GitHub - sailay1996/app-sec-checklist: checklist for Application penetration Testing"
-        },
-        {
-            "category": "undefined",
-            "link": "https://www.techradar.com/news/multiple-vulnerabilities-put-40-million-ubuntu-users-at-risk",
-            "title": "Multiple vulnerabilities put 40 million Ubuntu users at risk | TechRadar"
+            "link": "https://github.com/alecmuffett/ready-made-twitter-searches#end-to-end-encryption-and-children",
+            "title": "GitHub - alecmuffett/ready-made-twitter-searches: prefabricated twitter searches for civil society purposes"
         }
     ],
-    "linksCurated": [],
+    "linksCurated": [
+        {
+            "category": "undefined",
+            "link": "https://blog.sucuri.net/2022/02/attackers-abuse-poorly-regulated-top-level-domains-in-ongoing-redirect-campaign.html",
+            "title": "Attackers Abuse Poorly Regulated Top-Level Domains"
+        },
+        {
+            "category": "undefined",
+            "link": "https://github.com/horsicq/PDBRipper",
+            "title": "PDBRipper is a utility for extract an information from PDB-files."
+        },
+        {
+            "category": "undefined",
+            "link": "https://reconshell.com/container-security-checklist/",
+            "title": "Container Security Checklist"
+        },
+        {
+            "category": "undefined",
+            "link": "https://blog.danman.eu/about-adding-a-static-route-to-my-docsis-modem/",
+            "title": "ABOUT ADDING A STATIC ROUTE TO MY DOCSIS MODEM"
+        }
+    ],
     "events": []
 }
